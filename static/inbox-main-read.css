@@ -1,0 +1,3124 @@
+/* screen - inbox-main-read */
+
+.inbox-main-read {
+  background-color: var(--white);
+  height: 1024px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.inbox-main-read .email-body-2Jlppk {
+  background-color: transparent;
+  height: 359px;
+  left: 603px;
+  position: fixed;
+  top: 175px;
+  width: 812px;
+}
+
+.inbox-main-read .student-government-president-9o0T2z {
+  background-color: transparent;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 49px;
+  width: auto;
+}
+
+.inbox-main-read .wed-1372022-732-am-9o0T2z {
+  background-color: transparent;
+  height: auto;
+  left: 660px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 91px;
+  width: auto;
+}
+
+.inbox-main-read .to-9o0T2z {
+  background-color: transparent;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 77px;
+  width: auto;
+}
+
+.inbox-main-read .icon-contact-9o0T2z {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 51px;
+  width: 42px;
+}
+
+.inbox-main-read .oval-Oxabq6 {
+  background-color: transparent;
+  height: 40px;
+  left: 603px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 226px;
+  width: 40px;
+}
+
+.inbox-main-read .a-Oxabq6 {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.inbox-main-read .dear-sutd-family-it-9o0T2z {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  width: 721px;
+}
+
+.inbox-main-read .x10th-cabinet-roadmap-9o0T2z {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.inbox-main-read .reply-button-9o0T2z {
+  background-color: transparent;
+  height: 30px;
+  left: 444px;
+  position: absolute;
+  top: 53px;
+  width: 120px;
+}
+
+.inbox-main-read .base-0IAIke {
+  align-items: center;
+  background-color: var(--white-2);
+  border: 1px solid transparent;
+  border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.05779999867081642) 90.576171875%, rgba(0, 0, 0, 0.16220000386238098)) 1;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  height: 32px;
+  justify-content: center;
+  left: -1px;
+  mix-blend-mode: normal;
+  padding: 4px 11px 6px;
+  position: absolute;
+  top: -1px;
+  width: 120px;
+}
+
+.inbox-main-read .min-width-LwvCrU {
+  background-color: transparent;
+  height: 1px;
+  min-width: 96px;
+  position: relative;
+}
+
+.inbox-main-read .text-0IAIke {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.inbox-main-read .iconuirestart-0IAIke {
+  background-color: transparent;
+  height: 16px;
+  left: 29px;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.inbox-main-read .reply-all-button-9o0T2z {
+  background-color: transparent;
+  height: 30px;
+  left: 564px;
+  position: absolute;
+  top: 53px;
+  width: 120px;
+}
+
+.inbox-main-read .base-pKsxtA {
+  align-items: center;
+  background-color: var(--white-2);
+  border: 1px solid transparent;
+  border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.05779999867081642) 90.576171875%, rgba(0, 0, 0, 0.16220000386238098)) 1;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  height: 32px;
+  justify-content: center;
+  left: -1px;
+  mix-blend-mode: normal;
+  padding: 4px 11px 6px;
+  position: absolute;
+  top: -1px;
+  width: 120px;
+}
+
+.inbox-main-read .min-width-y3IGx2 {
+  background-color: transparent;
+  height: 1px;
+  min-width: 96px;
+  position: relative;
+}
+
+.inbox-main-read .text-pKsxtA {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.inbox-main-read .iconuirestart-copy-pKsxtA {
+  background-color: transparent;
+  height: 16px;
+  left: 17px;
+  position: absolute;
+  top: 6px;
+  width: 16px;
+}
+
+.inbox-main-read .forward-button-9o0T2z {
+  background-color: transparent;
+  height: 30px;
+  left: 684px;
+  position: absolute;
+  top: 53px;
+  width: 120px;
+}
+
+.inbox-main-read .base-1uS6H1 {
+  align-items: center;
+  background-color: var(--white-2);
+  border: 1px solid transparent;
+  border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.05779999867081642) 90.576171875%, rgba(0, 0, 0, 0.16220000386238098)) 1;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  height: 32px;
+  justify-content: center;
+  left: -1px;
+  mix-blend-mode: normal;
+  padding: 4px 11px 6px;
+  position: absolute;
+  top: -1px;
+  width: 120px;
+}
+
+.inbox-main-read .min-width-CjAqg9 {
+  background-color: transparent;
+  height: 1px;
+  min-width: 96px;
+  position: relative;
+}
+
+.inbox-main-read .text-1uS6H1 {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.inbox-main-read .combined-shape-1uS6H1 {
+  background-color: transparent;
+  height: 15px;
+  left: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.inbox-main-read .left-panel-2Jlppk {
+  background-color: transparent;
+  height: 871px;
+  left: 0px;
+  position: fixed;
+  top: 153px;
+  width: 228px;
+}
+
+.inbox-main-read .rectangle-2-8JQNtq {
+  background-color: var(--cultured-pearl);
+  height: 871px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-main-read .bottom-bar-8JQNtq {
+  background-color: transparent;
+  height: 29px;
+  left: 10px;
+  position: absolute;
+  top: 830px;
+  width: 184px;
+}
+
+.inbox-main-read .icon-mail-1TcJwB {
+  background-color: transparent;
+  height: 18px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 29px;
+}
+
+.inbox-main-read .icon-calendar-1TcJwB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 54px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 29px;
+}
+
+.inbox-main-read .icon-more-1TcJwB {
+  background-color: transparent;
+  height: 4px;
+  left: 158px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 26px;
+}
+
+.inbox-main-read .icon-group-1TcJwB {
+  background-color: transparent;
+  height: 28px;
+  left: 108px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.inbox-main-read .line-11-8JQNtq {
+  background-color: transparent;
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 812px;
+  width: 208px;
+}
+
+.inbox-main-read .favourites-8JQNtq {
+  background-color: transparent;
+  height: 144px;
+  left: 0px;
+  position: absolute;
+  top: 32px;
+  width: 226px;
+}
+
+.inbox-main-read .favorites-1t5b5W {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 85px;
+}
+
+.inbox-main-read .fav-inbox-1t5b5W {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 33px;
+  width: 228px;
+}
+
+.inbox-main-read .rectangle-4-C4DoNu {
+  background-color: var(--bon-jour);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-main-read .inbox-C4DoNu {
+  background-color: transparent;
+  height: 27px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-main-read .x12-C4DoNu {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-main-read .fav-sent-items-1t5b5W {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 60px;
+  width: 228px;
+}
+
+.inbox-main-read .rectangle-5-OwCA3u {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-main-read .sent-items-OwCA3u {
+  background-color: transparent;
+  height: 27px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-main-read .x12-OwCA3u {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-main-read .fav-drafts-1t5b5W {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 85px;
+  width: 228px;
+}
+
+.inbox-main-read .rectangle-6-A7Rx1Y {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-main-read .drafts-A7Rx1Y {
+  background-color: transparent;
+  height: 27px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-main-read .x12-A7Rx1Y {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-main-read .fav-deleted-items-1t5b5W {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 112px;
+  width: 228px;
+}
+
+.inbox-main-read .rectangle-7-ptb9Z2 {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-main-read .deleted-items-ptb9Z2 {
+  background-color: transparent;
+  height: 27px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-main-read .x12-ptb9Z2 {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-main-read .line-2-1t5b5W {
+  background-color: transparent;
+  height: 2px;
+  left: 6px;
+  position: absolute;
+  top: 143px;
+  width: 208px;
+}
+
+.inbox-main-read .chevron-down-1t5b5W {
+  background-color: transparent;
+  height: 32px;
+  left: 7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 185px;
+  width: 32px;
+}
+
+.inbox-main-read .crystal_limsutdedu-8JQNtq {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 192px;
+  width: 180px;
+}
+
+.inbox-main-read .sent-items-8JQNtq {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 247px;
+  width: 228px;
+}
+
+.inbox-main-read .rectangle-9-movN3d {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-main-read .sent-items-movN3d {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-main-read .x12-movN3d {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-main-read .drafts-8JQNtq {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 272px;
+  width: 228px;
+}
+
+.inbox-main-read .rectangle-10-U3gbFg {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-main-read .drafts-U3gbFg {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-main-read .x12-U3gbFg {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-main-read .deleted-items-8JQNtq {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 299px;
+  width: 228px;
+}
+
+.inbox-main-read .rectangle-11-SNOVil {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-main-read .deleted-items-SNOVil {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-main-read .x12-SNOVil {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-main-read .archive-8JQNtq {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 326px;
+  width: 228px;
+}
+
+.inbox-main-read .rectangle-12-GW6Dmi {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-main-read .archive-GW6Dmi {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-main-read .x12-GW6Dmi {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-main-read .junk-email-8JQNtq {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 351px;
+  width: 228px;
+}
+
+.inbox-main-read .rectangle-13-953sYx {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-main-read .junk-email-953sYx {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-main-read .x12-953sYx {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-main-read .outlook-8JQNtq {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 378px;
+  width: 228px;
+}
+
+.inbox-main-read .rectangle-14-MYT79M {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-main-read .outlook-MYT79M {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-main-read .x12-MYT79M {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-main-read .chevron-down-8JQNtq {
+  background-color: transparent;
+  height: 32px;
+  left: 7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 187px;
+  width: 32px;
+}
+
+.inbox-main-read .chevron-down-B6mSq4 {
+  background-color: transparent;
+  height: 23px;
+  left: 194px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 23px;
+}
+
+.inbox-main-read .inbox-8JQNtq {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 220px;
+  width: 228px;
+}
+
+.inbox-main-read .rectangle-8-xzlUXF {
+  background-color: var(--bon-jour);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-main-read .inbox-xzlUXF {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-main-read .x12-xzlUXF {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-main-read .chevron-down-xzlUXF {
+  background-color: transparent;
+  height: 16px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 14px;
+}
+
+.inbox-main-read .groups-8JQNtq {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 410px;
+  width: 85px;
+}
+
+.inbox-main-read .chevron-down-kbzMrw {
+  background-color: transparent;
+  height: 16px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 416px;
+  width: 14px;
+}
+
+.inbox-main-read .top-panel-2Jlppk {
+  background-color: transparent;
+  height: 153px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1440px;
+}
+
+.inbox-main-read .rectangle-1-LscvDw {
+  background-color: var(--gallery);
+  height: 153px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.inbox-main-read .search-bar-LscvDw {
+  background-color: transparent;
+  height: 31px;
+  left: 370px;
+  position: absolute;
+  top: 12px;
+  width: 352px;
+}
+
+.inbox-main-read .rectangle-AGmNWZ {
+  background-color: transparent;
+  height: 31px;
+  left: 370px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 350px;
+}
+
+.inbox-main-read .search-AGmNWZ {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: auto;
+}
+
+.inbox-main-read .icon-search-AGmNWZ {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 15px;
+}
+
+.inbox-main-read .main-panel-LscvDw {
+  background-color: transparent;
+  height: 31px;
+  left: 26px;
+  position: absolute;
+  top: 55px;
+  width: 558px;
+}
+
+.inbox-main-read .line-10-9Ni5m0 {
+  background-color: transparent;
+  height: 2px;
+  left: 86px;
+  position: absolute;
+  top: 30px;
+  width: 74px;
+}
+
+.inbox-main-read .file-9Ni5m0 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.inbox-main-read .home-9Ni5m0 {
+  background-color: transparent;
+  height: auto;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.inbox-main-read .view-9Ni5m0 {
+  background-color: transparent;
+  height: auto;
+  left: 300px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.inbox-main-read .help-9Ni5m0 {
+  background-color: transparent;
+  height: auto;
+  left: 386px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.inbox-main-read .acrobat-9Ni5m0 {
+  background-color: transparent;
+  height: auto;
+  left: 472px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.inbox-main-read .send-receive-9Ni5m0 {
+  background-color: transparent;
+  height: auto;
+  left: 172px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 133px;
+}
+
+.inbox-main-read .fix-buttons-LscvDw {
+  background-color: transparent;
+  height: 52px;
+  left: 1304px;
+  position: absolute;
+  top: 17px;
+  width: 125px;
+}
+
+.inbox-main-read .chromechrome-close-JRZ8MA {
+  background-color: transparent;
+  height: 16px;
+  left: 105px;
+  position: absolute;
+  top: 17px;
+  width: 16px;
+}
+
+.inbox-main-read .chromechrome-restore-JRZ8MA {
+  background-color: transparent;
+  height: 16px;
+  left: 72px;
+  position: absolute;
+  top: 17px;
+  width: 16px;
+}
+
+.inbox-main-read .chromechrome-minimize-JRZ8MA {
+  background-color: transparent;
+  height: 16px;
+  left: 39px;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.inbox-main-read .base-JRZ8MA {
+  background-color: var(--alabaster);
+  border-radius: 999px;
+  height: 20px;
+  left: 64px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 33px;
+  width: 58px;
+}
+
+.inbox-main-read .thumb-JRZ8MA {
+  background-color: var(--black-4);
+  border-radius: 999px;
+  height: 12px;
+  left: 71px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 37px;
+  width: 12px;
+}
+
+.inbox-main-read .off-JRZ8MA {
+  background-color: transparent;
+  height: 10px;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: 20px;
+}
+
+.inbox-main-read .try-it-now-JRZ8MA {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: 56px;
+}
+
+.inbox-main-read .office-logos-LscvDw {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.inbox-main-read .group-xrtT7k {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 48px;
+}
+
+.inbox-main-read .outlook-0Bvyls {
+  background-color: transparent;
+  height: 29px;
+  left: 9px;
+  position: absolute;
+  top: 12px;
+  width: 33px;
+}
+
+.inbox-main-read .x142-JXWoHX {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 33px;
+}
+
+.inbox-main-read .group-wE5gxC {
+  background-color: transparent;
+  height: 24px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  opacity: 0.2;
+  position: absolute;
+  top: 1px;
+  width: 21px;
+}
+
+.inbox-main-read .rectangle-7xav9f {
+  background-color: transparent;
+  height: 24px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 21px;
+}
+
+.inbox-main-read .vector-7xav9f {
+  background-color: transparent;
+  height: 22px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-main-read .group-D4G8L9 {
+  background-color: transparent;
+  height: 23px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  opacity: 0.12;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.inbox-main-read .rectangle-UFolCC {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-main-read .vector-UFolCC {
+  background-color: transparent;
+  height: 22px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-main-read .vector-wE5gxC {
+  background-color: transparent;
+  height: 11px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.inbox-main-read .vector-D4G8L9 {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.inbox-main-read .vector-OUD2bD {
+  background-color: transparent;
+  height: 3px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.inbox-main-read .vector-YnbxyH {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.inbox-main-read .vector-5dRH89 {
+  background-color: transparent;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.inbox-main-read .vector-7FguAp {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.inbox-main-read .vector-xQnI8e {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.inbox-main-read .vector-BY39k8 {
+  background-color: transparent;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.inbox-main-read .vector-yxEwA3 {
+  background-color: transparent;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.inbox-main-read .vector-TkYydr {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.inbox-main-read .vector-0xf7mK {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.inbox-main-read .group-OUD2bD {
+  background-color: transparent;
+  height: 24px;
+  left: 1px;
+  position: absolute;
+  top: 5px;
+  width: 32px;
+}
+
+.inbox-main-read .envelope-L7XYpM {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.inbox-main-read .group-lXXx08 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.35;
+  position: relative;
+  top: 0px;
+  width: 32px;
+}
+
+.inbox-main-read .rectangle-yWYvJp {
+  background-color: transparent;
+  height: 24px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 32px;
+}
+
+.inbox-main-read .vector-yWYvJp {
+  background-color: transparent;
+  height: 11px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.inbox-main-read .envelope-7Eom5E {
+  background-color: transparent;
+  height: 12px;
+  left: 6px;
+  opacity: 0.06;
+  position: absolute;
+  top: 6px;
+  width: 19px;
+}
+
+.inbox-main-read .group-RqxIbW {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.06;
+  position: relative;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-main-read .icon-mail-svL5cw {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-main-read .vector-svL5cw {
+  background-color: transparent;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.inbox-main-read .envelope-wE5gxC {
+  background-color: transparent;
+  height: 11px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 18px;
+}
+
+.inbox-main-read .vector-ZdrchS {
+  background-color: transparent;
+  height: 11px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 18px;
+}
+
+.inbox-main-read .group-YnbxyH {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 17px;
+}
+
+.inbox-main-read .ambient-1yWhjO {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 17px;
+}
+
+.inbox-main-read .group-Yy6hLs {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.48;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.inbox-main-read .rectangle-nTIK8D {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.inbox-main-read .vector-nTIK8D {
+  background-color: transparent;
+  height: 12px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.inbox-main-read .group-M6S02A {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  opacity: 0.24;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.inbox-main-read .rectangle-n8oqav {
+  background-color: transparent;
+  height: 13px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 13px;
+}
+
+.inbox-main-read .vector-n8oqav {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.inbox-main-read .vector-UYn8xB {
+  background-color: transparent;
+  height: 24px;
+  left: 2px;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.inbox-main-read .vector-QhHq70 {
+  background-color: transparent;
+  height: 22px;
+  left: 8px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.inbox-main-read .vector-gv6kJt {
+  background-color: transparent;
+  height: 12px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.inbox-main-read .group-5dRH89 {
+  background-color: transparent;
+  height: 12px;
+  left: 2px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.inbox-main-read .vector-K9DL2M {
+  background-color: transparent;
+  height: 7px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.inbox-main-read .trap-line-0Bvyls {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.inbox-main-read .email-panel-LscvDw {
+  background-color: transparent;
+  height: 53px;
+  left: 17px;
+  position: absolute;
+  top: 85px;
+  width: 1409px;
+}
+
+.inbox-main-read .top-bar-ymBD5G {
+  background-color: transparent;
+  height: 52px;
+  left: 17px;
+  position: absolute;
+  top: 1px;
+  width: 1405px;
+}
+
+.inbox-main-read .share-to-teams-ymBD5G {
+  background-color: transparent;
+  height: auto;
+  left: 674px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 129px;
+}
+
+.inbox-main-read .unread-read-ymBD5G {
+  background-color: transparent;
+  height: auto;
+  left: 883px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 129px;
+}
+
+.inbox-main-read .office-logos-ymBD5G {
+  background-color: transparent;
+  height: 50px;
+  left: 626px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.inbox-main-read .group-ghgyFG {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 50px;
+}
+
+.inbox-main-read .teams-rZwFjc {
+  background-color: transparent;
+  height: 28px;
+  left: 10px;
+  position: absolute;
+  top: 12px;
+  width: 28px;
+}
+
+.inbox-main-read .group-JBIbpT {
+  background-color: transparent;
+  height: 25px;
+  left: 8px;
+  mix-blend-mode: multiply;
+  opacity: 0.2;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.inbox-main-read .rectangle-x4XZbU {
+  background-color: transparent;
+  height: 25px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.inbox-main-read .vector-x4XZbU {
+  background-color: transparent;
+  height: 23px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-main-read .group-F4xXcj {
+  background-color: transparent;
+  height: 23px;
+  left: 9px;
+  mix-blend-mode: multiply;
+  opacity: 0.12;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.inbox-main-read .rectangle-IXurpG {
+  background-color: transparent;
+  height: 23px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-main-read .vector-IXurpG {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-main-read .vector-JBIbpT {
+  background-color: transparent;
+  height: 23px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.inbox-main-read .body-JBIbpT {
+  background-color: transparent;
+  height: 11px;
+  left: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 8px;
+}
+
+.inbox-main-read .head-JBIbpT {
+  background-color: transparent;
+  height: 5px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 5px;
+}
+
+.inbox-main-read .head-F4xXcj {
+  background-color: transparent;
+  height: 7px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 7px;
+}
+
+.inbox-main-read .group-5tXJcc {
+  background-color: transparent;
+  height: 21px;
+  left: 6px;
+  position: absolute;
+  top: 7px;
+  width: 20px;
+}
+
+.inbox-main-read .group-IGBTgH {
+  background-color: transparent;
+  height: 19px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+
+.inbox-main-read .rectangle-32xsKL {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-main-read .vector-32xsKL {
+  background-color: transparent;
+  height: 14px;
+  left: 3px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.inbox-main-read .group-8Nno67 {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.24;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.inbox-main-read .rectangle-mVkajV {
+  background-color: transparent;
+  height: 21px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 19px;
+  width: 20px;
+}
+
+.inbox-main-read .vector-mVkajV {
+  background-color: transparent;
+  height: 14px;
+  left: 3px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 3px;
+  width: 13px;
+}
+
+.inbox-main-read .vector-F4xXcj {
+  background-color: transparent;
+  height: 14px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 13px;
+}
+
+.inbox-main-read .vector-5tXJcc {
+  background-color: transparent;
+  height: 25px;
+  left: 2px;
+  position: absolute;
+  top: 12px;
+  width: 25px;
+}
+
+.inbox-main-read .group-LsiUOK {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 18px;
+}
+
+.inbox-main-read .ambient-USVua7 {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-main-read .group-txQUU8 {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.48;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-main-read .rectangle-NUqg5k {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-main-read .vector-NUqg5k {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 2px;
+  width: 13px;
+}
+
+.inbox-main-read .group-qMyWUZ {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  opacity: 0.24;
+  position: absolute;
+  top: 1px;
+  width: 14px;
+}
+
+.inbox-main-read .rectangle-CVjMxh {
+  background-color: transparent;
+  height: 14px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 14px;
+}
+
+.inbox-main-read .vector-CVjMxh {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.inbox-main-read .vector-LsiUOK {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 13px;
+}
+
+.inbox-main-read .group-LAUfMA {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 6px;
+  width: 13px;
+}
+
+.inbox-main-read .vector-LAUfMA {
+  background-color: transparent;
+  height: 7px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.inbox-main-read .trap-line-rZwFjc {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.inbox-main-read .iconuirestart-ymBD5G {
+  background-color: transparent;
+  height: 26px;
+  left: 453px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.inbox-main-read .iconuirestart-copy-ymBD5G {
+  background-color: transparent;
+  height: 26px;
+  left: 502px;
+  position: absolute;
+  top: 12px;
+  width: 26px;
+}
+
+.inbox-main-read .combined-shape-ymBD5G {
+  background-color: transparent;
+  height: 21px;
+  left: 556px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 26px;
+}
+
+.inbox-main-read .chevron-down-ymBD5G {
+  background-color: transparent;
+  height: 17px;
+  left: 257px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 17px;
+}
+
+.inbox-main-read .new-email-ymBD5G {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: 19px;
+  position: absolute;
+  top: 12px;
+  width: 159px;
+}
+
+.inbox-main-read .new-email-xQ2BsN {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 85px;
+}
+
+.inbox-main-read .chevron-down-xQ2BsN {
+  background-color: transparent;
+  height: 17px;
+  left: 140px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 17px;
+}
+
+.inbox-main-read .miscmail-xQ2BsN {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.inbox-main-read .icon-mail-Reg0On {
+  background-color: transparent;
+  height: 19px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 27px;
+}
+
+.inbox-main-read .commontrash-ymBD5G {
+  background-color: transparent;
+  height: 31px;
+  left: 217px;
+  overflow: hidden;
+  position: absolute;
+  top: 10px;
+  width: 31px;
+}
+
+.inbox-main-read .union-AKpwav {
+  background-color: transparent;
+  height: 25px;
+  left: 4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 21px;
+}
+
+.inbox-main-read .icon-folder-ymBD5G {
+  background-color: transparent;
+  height: 31px;
+  left: 359px;
+  position: absolute;
+  top: 10px;
+  width: 31px;
+}
+
+.inbox-main-read .miscmail-read-ymBD5G {
+  background-color: transparent;
+  height: 31px;
+  left: 838px;
+  position: absolute;
+  top: 10px;
+  width: 31px;
+}
+
+.inbox-main-read .miscarchive-ymBD5G {
+  background-color: transparent;
+  height: 31px;
+  left: 299px;
+  overflow: hidden;
+  position: absolute;
+  top: 10px;
+  width: 31px;
+}
+
+.inbox-main-read .union-uMKWfB {
+  background-color: transparent;
+  height: 25px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 27px;
+}
+
+.inbox-main-read .line-12-ymBD5G {
+  background-color: transparent;
+  height: 43px;
+  left: 190px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.inbox-main-read .line-13-ymBD5G {
+  background-color: transparent;
+  height: 43px;
+  left: 420px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.inbox-main-read .line-14-ymBD5G {
+  background-color: transparent;
+  height: 43px;
+  left: 608px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.inbox-main-read .line-15-ymBD5G {
+  background-color: transparent;
+  height: 43px;
+  left: 818px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.inbox-main-read .inbox-panel-2Jlppk {
+  background-color: transparent;
+  height: 871px;
+  left: 224px;
+  position: fixed;
+  top: 153px;
+  width: 364px;
+}
+
+.inbox-main-read .rectangle-3-tO0nND {
+  background-color: var(--white);
+  height: 871px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 347px;
+}
+
+.inbox-main-read .focused-tO0nND {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 38px;
+  width: 85px;
+}
+
+.inbox-main-read .email-1-tO0nND {
+  background-color: transparent;
+  cursor: pointer;
+  height: 121px;
+  left: 5px;
+  position: absolute;
+  top: 36px;
+  width: 345px;
+}
+
+.inbox-main-read .rectangle-bbYkpg {
+  background-color: transparent;
+  height: 81px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 333px;
+}
+
+.inbox-main-read .invitation-to-dai-bonding-bbYkpg {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 221px;
+}
+
+.inbox-main-read .dear-crystal-bbYkpg {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 94px;
+  width: 221px;
+}
+
+.inbox-main-read .thur-449-am-bbYkpg {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 72px;
+  width: auto;
+}
+
+.inbox-main-read .faith-tan-bbYkpg {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  width: 226px;
+}
+
+.inbox-main-read .other-bbYkpg {
+  background-color: transparent;
+  height: auto;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 79px;
+}
+
+.inbox-main-read .line-2-bbYkpg {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 120px;
+  width: 336px;
+}
+
+.inbox-main-read .email-2-tO0nND {
+  background-color: transparent;
+  height: 81px;
+  left: 5px;
+  position: absolute;
+  top: 157px;
+  width: 343px;
+}
+
+.inbox-main-read .rectangle-Z1JqeG {
+  background-color: transparent;
+  height: 81px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 310px;
+  width: 333px;
+}
+
+.inbox-main-read .wed-732-am-Z1JqeG {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-main-read .student-government-president-Z1JqeG {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 288px;
+}
+
+.inbox-main-read .x10th-cabinet-roadmap-Z1JqeG {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-main-read .dear-sutd-family-Z1JqeG {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-main-read .line-2-Z1JqeG {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-main-read .email-3-tO0nND {
+  background-color: transparent;
+  height: 81px;
+  left: 5px;
+  position: absolute;
+  top: 238px;
+  width: 343px;
+}
+
+.inbox-main-read .rectangle-aQn626 {
+  background-color: transparent;
+  height: 81px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 391px;
+  width: 333px;
+}
+
+.inbox-main-read .wed-732-am-aQn626 {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-main-read .lorem-ipsum-aQn626 {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 226px;
+}
+
+.inbox-main-read .subject-aQn626 {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-main-read .subject-xJBnD3 {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-main-read .line-2-aQn626 {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-main-read .email-4-tO0nND {
+  background-color: transparent;
+  height: 81px;
+  left: 6px;
+  position: absolute;
+  top: 319px;
+  width: 343px;
+}
+
+.inbox-main-read .rectangle-OP6K27 {
+  background-color: transparent;
+  height: 81px;
+  left: 230px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 472px;
+  width: 333px;
+}
+
+.inbox-main-read .wed-732-am-OP6K27 {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-main-read .lorem-ipsum-OP6K27 {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 226px;
+}
+
+.inbox-main-read .subject-OP6K27 {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-main-read .subject-RHB29p {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-main-read .line-2-OP6K27 {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-main-read .email-5-tO0nND {
+  background-color: transparent;
+  height: 81px;
+  left: 6px;
+  position: absolute;
+  top: 400px;
+  width: 343px;
+}
+
+.inbox-main-read .rectangle-CxT4yX {
+  background-color: transparent;
+  height: 81px;
+  left: 230px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 553px;
+  width: 333px;
+}
+
+.inbox-main-read .wed-732-am-CxT4yX {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-main-read .lorem-ipsum-CxT4yX {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 226px;
+}
+
+.inbox-main-read .subject-CxT4yX {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-main-read .subject-edOkYl {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-main-read .line-2-CxT4yX {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-main-read .email-6-tO0nND {
+  background-color: transparent;
+  height: 81px;
+  left: 11px;
+  position: absolute;
+  top: 481px;
+  width: 343px;
+}
+
+.inbox-main-read .rectangle-By5sgU {
+  background-color: transparent;
+  height: 81px;
+  left: 235px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 634px;
+  width: 333px;
+}
+
+.inbox-main-read .wed-732-am-By5sgU {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-main-read .lorem-ipsum-By5sgU {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 226px;
+}
+
+.inbox-main-read .subject-By5sgU {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-main-read .subject-jx2LEI {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-main-read .line-2-By5sgU {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-main-read .email-7-tO0nND {
+  background-color: transparent;
+  height: 81px;
+  left: 11px;
+  position: absolute;
+  top: 562px;
+  width: 343px;
+}
+
+.inbox-main-read .rectangle-iqZKDX {
+  background-color: transparent;
+  height: 81px;
+  left: 235px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 715px;
+  width: 333px;
+}
+
+.inbox-main-read .wed-732-am-iqZKDX {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-main-read .lorem-ipsum-iqZKDX {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 226px;
+}
+
+.inbox-main-read .subject-iqZKDX {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-main-read .subject-Qz0IGT {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-main-read .line-2-iqZKDX {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-main-read .email-8-tO0nND {
+  background-color: transparent;
+  height: 81px;
+  left: 12px;
+  position: absolute;
+  top: 643px;
+  width: 343px;
+}
+
+.inbox-main-read .rectangle-DoxbLH {
+  background-color: transparent;
+  height: 81px;
+  left: 236px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 796px;
+  width: 333px;
+}
+
+.inbox-main-read .wed-732-am-DoxbLH {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-main-read .lorem-ipsum-DoxbLH {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 226px;
+}
+
+.inbox-main-read .subject-DoxbLH {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-main-read .subject-jIjXli {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-main-read .line-2-DoxbLH {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-main-read .email-9-tO0nND {
+  background-color: transparent;
+  height: 81px;
+  left: 12px;
+  position: absolute;
+  top: 724px;
+  width: 343px;
+}
+
+.inbox-main-read .rectangle-prtYtr {
+  background-color: transparent;
+  height: 81px;
+  left: 236px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 877px;
+  width: 333px;
+}
+
+.inbox-main-read .wed-732-am-prtYtr {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-main-read .lorem-ipsum-prtYtr {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 226px;
+}
+
+.inbox-main-read .subject-prtYtr {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-main-read .subject-GeqKOm {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-main-read .line-2-prtYtr {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-main-read .email-10-tO0nND {
+  background-color: transparent;
+  height: 66px;
+  left: 11px;
+  position: absolute;
+  top: 805px;
+  width: 343px;
+}
+
+.inbox-main-read .rectangle-GfSfRk {
+  background-color: transparent;
+  height: 66px;
+  left: 235px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 958px;
+  width: 333px;
+}
+
+.inbox-main-read .wed-732-am-GfSfRk {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: 74px;
+}
+
+.inbox-main-read .lorem-ipsum-GfSfRk {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: 226px;
+}
+
+.inbox-main-read .subject-GfSfRk {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: 221px;
+}
+
+.inbox-main-read .subject-dwdxBu {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 221px;
+}
+
+.inbox-main-read .line-2-GfSfRk {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 65px;
+  width: 336px;
+}
+
+.inbox-main-read .line-9-tO0nND {
+  background-color: transparent;
+  height: 2px;
+  left: 16px;
+  position: absolute;
+  top: 64px;
+  width: 85px;
+}
+
+.inbox-main-read .by-date-tO0nND {
+  background-color: transparent;
+  height: auto;
+  left: 230px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 36px;
+  width: 74px;
+}
+
+.inbox-main-read .chevron-down-tO0nND {
+  background-color: transparent;
+  height: 23px;
+  left: 301px;
+  position: absolute;
+  top: 37px;
+  width: 23px;
+}
+
+.inbox-main-read .line-8-tO0nND {
+  background-color: transparent;
+  height: 851px;
+  left: 358px;
+  position: absolute;
+  top: 7px;
+  width: 3px;
+}
