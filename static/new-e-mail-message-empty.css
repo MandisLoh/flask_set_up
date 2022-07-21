@@ -1,0 +1,1182 @@
+/* screen - new-e-mail-message-empty */
+
+.new-e-mail-message-empty {
+  background-color: var(--white);
+  height: 1024px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.new-e-mail-message-empty .create-normal-email-3GxcvV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 1024px;
+  left: 29px;
+  position: relative;
+  top: 0px;
+  width: 1442px;
+}
+
+.new-e-mail-message-empty .message-panel-EFNkiI {
+  background-color: transparent;
+  height: 875px;
+  left: 0px;
+  position: absolute;
+  top: 149px;
+  width: 1450px;
+}
+
+.new-e-mail-message-empty .rectangle-33-TfXDWn {
+  background-color: var(--white);
+  height: 875px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1438px;
+}
+
+.new-e-mail-message-empty .line-14-TfXDWn {
+  background-color: transparent;
+  height: 1px;
+  left: 256px;
+  position: absolute;
+  top: 64px;
+  width: 1167px;
+}
+
+.new-e-mail-message-empty .line-15-TfXDWn {
+  background-color: transparent;
+  height: 1px;
+  left: 256px;
+  position: absolute;
+  top: 106px;
+  width: 1167px;
+}
+
+.new-e-mail-message-empty .line-16-TfXDWn {
+  background-color: transparent;
+  height: 1px;
+  left: 256px;
+  position: absolute;
+  top: 146px;
+  width: 1167px;
+}
+
+.new-e-mail-message-empty .line-17-TfXDWn {
+  background-color: transparent;
+  height: 1px;
+  left: 14px;
+  position: absolute;
+  top: 194px;
+  width: 1411px;
+}
+
+.new-e-mail-message-empty .rectangle-31-TfXDWn {
+  background-color: var(--gallery);
+  border-radius: 2px;
+  height: 33px;
+  left: 133px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 113px;
+  width: 89px;
+}
+
+.new-e-mail-message-empty .rectangle-30-TfXDWn {
+  background-color: var(--gallery);
+  border-radius: 2px;
+  cursor: pointer;
+  height: 33px;
+  left: 133px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 73px;
+  width: 89px;
+}
+
+.new-e-mail-message-empty .rectangle-29-TfXDWn {
+  background-color: var(--gallery);
+  border-radius: 2px;
+  height: 33px;
+  left: 133px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 33px;
+  width: 89px;
+}
+
+.new-e-mail-message-empty .rectangle-28-TfXDWn {
+  background-color: var(--gallery);
+  border-radius: 2px;
+  height: 82px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 33px;
+  width: 70px;
+}
+
+.new-e-mail-message-empty .subject-TfXDWn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 155px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 158px;
+  width: auto;
+}
+
+.new-e-mail-message-empty .vector-TfXDWn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 6px;
+  left: 198px;
+  position: absolute;
+  top: 48px;
+  width: 9px;
+}
+
+.new-e-mail-message-empty .from-TfXDWn {
+  background-color: transparent;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+  width: auto;
+}
+
+.new-e-mail-message-empty .to-TfXDWn {
+  background-color: transparent;
+  height: auto;
+  left: 168px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 80px;
+  width: auto;
+}
+
+.new-e-mail-message-empty .cc-TfXDWn {
+  background-color: transparent;
+  height: auto;
+  left: 169px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 120px;
+  width: auto;
+}
+
+.new-e-mail-message-empty .send-TfXDWn {
+  background-color: transparent;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 84px;
+  width: auto;
+}
+
+.new-e-mail-message-empty .fluentsend-16-regular-TfXDWn {
+  background-color: transparent;
+  height: 38px;
+  left: 61px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 55px;
+  width: 32px;
+}
+
+.new-e-mail-message-empty .rectangle-1-EFNkiI {
+  background-color: var(--gallery);
+  height: 153px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.new-e-mail-message-empty .search-bar-EFNkiI {
+  background-color: transparent;
+  height: 31px;
+  left: 370px;
+  position: absolute;
+  top: 12px;
+  width: 352px;
+}
+
+.new-e-mail-message-empty .rectangle-US3mKy {
+  background-color: transparent;
+  height: 31px;
+  left: 399px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 350px;
+}
+
+.new-e-mail-message-empty .search-US3mKy {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: auto;
+}
+
+.new-e-mail-message-empty .shape-US3mKy {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 15px;
+}
+
+.new-e-mail-message-empty .line-10-EFNkiI {
+  background-color: transparent;
+  height: 2px;
+  left: 81px;
+  position: absolute;
+  top: 81px;
+  width: 74px;
+}
+
+.new-e-mail-message-empty .main-panel-EFNkiI {
+  background-color: transparent;
+  height: 23px;
+  left: 2px;
+  position: absolute;
+  top: 54px;
+  width: 794px;
+}
+
+.new-e-mail-message-empty .file-t4l2iQ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 74px;
+}
+
+.new-e-mail-message-empty .message-t4l2iQ {
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.new-e-mail-message-empty .draw-t4l2iQ {
+  background-color: transparent;
+  height: auto;
+  left: 244px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.new-e-mail-message-empty .help-t4l2iQ {
+  background-color: transparent;
+  height: auto;
+  left: 617px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.new-e-mail-message-empty .acrobat-t4l2iQ {
+  background-color: transparent;
+  height: auto;
+  left: 708px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 74px;
+}
+
+.new-e-mail-message-empty .insert-t4l2iQ {
+  background-color: transparent;
+  height: auto;
+  left: 170px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 72px;
+}
+
+.new-e-mail-message-empty .fix-buttons-EFNkiI {
+  background-color: transparent;
+  height: 17px;
+  left: 1343px;
+  position: absolute;
+  top: 17px;
+  width: 82px;
+}
+
+.new-e-mail-message-empty .chromechrome-close-ZaxAxP {
+  background-color: transparent;
+  height: 16px;
+  left: 73px;
+  position: absolute;
+  top: 17px;
+  width: 2px;
+}
+
+.new-e-mail-message-empty .chromechrome-restore-ZaxAxP {
+  background-color: transparent;
+  height: 16px;
+  left: 33px;
+  position: absolute;
+  top: 17px;
+  width: 16px;
+}
+
+.new-e-mail-message-empty .chromechrome-minimize-ZaxAxP {
+  background-color: transparent;
+  height: 16px;
+  left: 1372px;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.new-e-mail-message-empty .office-logos-EFNkiI {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.new-e-mail-message-empty .group-kaExiB {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 48px;
+}
+
+.new-e-mail-message-empty .outlook-Pf1kxi {
+  background-color: transparent;
+  height: 29px;
+  left: 9px;
+  position: absolute;
+  top: 12px;
+  width: 33px;
+}
+
+.new-e-mail-message-empty .x142-xjKPPx {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 33px;
+}
+
+.new-e-mail-message-empty .group-WqVKCj {
+  background-color: transparent;
+  height: 24px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  opacity: 0.2;
+  position: absolute;
+  top: 1px;
+  width: 21px;
+}
+
+.new-e-mail-message-empty .rectangle-cN6gx0 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 21px;
+}
+
+.new-e-mail-message-empty .vector-cN6gx0 {
+  background-color: transparent;
+  height: 22px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.new-e-mail-message-empty .group-XkCqfl {
+  background-color: transparent;
+  height: 23px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  opacity: 0.12;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.new-e-mail-message-empty .rectangle-78cIHE {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.new-e-mail-message-empty .vector-78cIHE {
+  background-color: transparent;
+  height: 22px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.new-e-mail-message-empty .vector-WqVKCj {
+  background-color: transparent;
+  height: 11px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.new-e-mail-message-empty .vector-XkCqfl {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.new-e-mail-message-empty .vector-mBFOOw {
+  background-color: transparent;
+  height: 3px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.new-e-mail-message-empty .vector-xU4h84 {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.new-e-mail-message-empty .vector-Ak5yrG {
+  background-color: transparent;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.new-e-mail-message-empty .vector-0mWjxH {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.new-e-mail-message-empty .vector-JvtzsC {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.new-e-mail-message-empty .vector-nS8JjR {
+  background-color: transparent;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.new-e-mail-message-empty .vector-pPDECu {
+  background-color: transparent;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.new-e-mail-message-empty .vector-hYbR40 {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.new-e-mail-message-empty .vector-jR5h7V {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.new-e-mail-message-empty .group-mBFOOw {
+  background-color: transparent;
+  height: 24px;
+  left: 1px;
+  position: absolute;
+  top: 5px;
+  width: 32px;
+}
+
+.new-e-mail-message-empty .envelope-xbxKM4 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.new-e-mail-message-empty .group-I7pKpc {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.35;
+  position: relative;
+  top: 0px;
+  width: 32px;
+}
+
+.new-e-mail-message-empty .rectangle-eG6Gjy {
+  background-color: transparent;
+  height: 24px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 32px;
+}
+
+.new-e-mail-message-empty .vector-eG6Gjy {
+  background-color: transparent;
+  height: 11px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.new-e-mail-message-empty .envelope-U4CrID {
+  background-color: transparent;
+  height: 12px;
+  left: 6px;
+  opacity: 0.06;
+  position: absolute;
+  top: 6px;
+  width: 19px;
+}
+
+.new-e-mail-message-empty .group-QiBvSL {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.06;
+  position: relative;
+  top: 0px;
+  width: 19px;
+}
+
+.new-e-mail-message-empty .rectangle-yI3ZJx {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.new-e-mail-message-empty .vector-yI3ZJx {
+  background-color: transparent;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.new-e-mail-message-empty .envelope-WqVKCj {
+  background-color: transparent;
+  height: 11px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 18px;
+}
+
+.new-e-mail-message-empty .vector-2CIzwI {
+  background-color: transparent;
+  height: 11px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 18px;
+}
+
+.new-e-mail-message-empty .group-xU4h84 {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 17px;
+}
+
+.new-e-mail-message-empty .ambient-oG1lyb {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 17px;
+}
+
+.new-e-mail-message-empty .group-YKuxvP {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.48;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.new-e-mail-message-empty .rectangle-CMql3N {
+  background-color: transparent;
+  height: 17px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.new-e-mail-message-empty .vector-CMql3N {
+  background-color: transparent;
+  height: 12px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.new-e-mail-message-empty .group-3wLdeY {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  opacity: 0.24;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.new-e-mail-message-empty .rectangle-IJ9fcB {
+  background-color: transparent;
+  height: 13px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 13px;
+}
+
+.new-e-mail-message-empty .vector-IJ9fcB {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.new-e-mail-message-empty .vector-YOdfxH {
+  background-color: transparent;
+  height: 24px;
+  left: 2px;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.new-e-mail-message-empty .vector-tTeR2w {
+  background-color: transparent;
+  height: 22px;
+  left: 8px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.new-e-mail-message-empty .vector-HOrm8t {
+  background-color: transparent;
+  height: 12px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.new-e-mail-message-empty .group-Ak5yrG {
+  background-color: transparent;
+  height: 12px;
+  left: 2px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.new-e-mail-message-empty .vector-GVNf0a {
+  background-color: transparent;
+  height: 7px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.new-e-mail-message-empty .trap-line-Pf1kxi {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.new-e-mail-message-empty .email-panel-EFNkiI {
+  background-color: transparent;
+  height: 175px;
+  left: 14px;
+  position: absolute;
+  top: 54px;
+  width: 1428px;
+}
+
+.new-e-mail-message-empty .rectangle-32-x9pzB5 {
+  background-color: var(--white);
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28px;
+  width: 1420px;
+}
+
+.new-e-mail-message-empty .ggarrows-expand-down-right-x9pzB5 {
+  background-color: transparent;
+  height: 12px;
+  left: 1033px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 66px;
+  width: 12px;
+}
+
+.new-e-mail-message-empty .icbaseline-format-indent-increase-x9pzB5 {
+  background-color: transparent;
+  height: 32px;
+  left: 945px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 44px;
+  width: 32px;
+}
+
+.new-e-mail-message-empty .icbaseline-format-indent-decrease-x9pzB5 {
+  background-color: transparent;
+  height: 32px;
+  left: 892px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 44px;
+  width: 32px;
+}
+
+.new-e-mail-message-empty .vector-x9pzB5 {
+  background-color: transparent;
+  height: 6px;
+  left: 863px;
+  position: absolute;
+  top: 57px;
+  width: 9px;
+}
+
+.new-e-mail-message-empty .felist-bullet-x9pzB5 {
+  background-color: transparent;
+  height: 32px;
+  left: 816px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 44px;
+  width: 32px;
+}
+
+.new-e-mail-message-empty .vector-Qqdyxx {
+  background-color: transparent;
+  height: 6px;
+  left: 787px;
+  position: absolute;
+  top: 55px;
+  width: 9px;
+}
+
+.new-e-mail-message-empty .carbontext-color-x9pzB5 {
+  background-color: transparent;
+  height: 32px;
+  left: 738px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 44px;
+  width: 32px;
+}
+
+.new-e-mail-message-empty .bitype-underline-x9pzB5 {
+  background-color: transparent;
+  height: 32px;
+  left: 605px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 41px;
+  width: 32px;
+}
+
+.new-e-mail-message-empty .bitype-italic-x9pzB5 {
+  background-color: transparent;
+  height: 32px;
+  left: 557px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 41px;
+  width: 32px;
+}
+
+.new-e-mail-message-empty .bitype-bold-x9pzB5 {
+  background-color: transparent;
+  height: 32px;
+  left: 508px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 41px;
+  width: 32px;
+}
+
+.new-e-mail-message-empty .line-12-x9pzB5 {
+  background-color: transparent;
+  height: 43px;
+  left: 223px;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.new-e-mail-message-empty .phpaint-brush-household-x9pzB5 {
+  background-color: transparent;
+  height: 32px;
+  left: 182px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 41px;
+  width: 39px;
+}
+
+.new-e-mail-message-empty .rectangle-27-x9pzB5 {
+  background-color: transparent;
+  height: 32px;
+  left: 417px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 42px;
+  width: 66px;
+}
+
+.new-e-mail-message-empty .vector-xXgbxV {
+  background-color: transparent;
+  height: 6px;
+  left: 465px;
+  position: absolute;
+  top: 55px;
+  width: 10px;
+}
+
+.new-e-mail-message-empty .rectangle-27-Qqdyxx {
+  background-color: transparent;
+  height: 32px;
+  left: 240px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 42px;
+  width: 157px;
+}
+
+.new-e-mail-message-empty .vector-1dDpQw {
+  background-color: transparent;
+  height: 6px;
+  left: 380px;
+  position: absolute;
+  top: 55px;
+  width: 9px;
+}
+
+.new-e-mail-message-empty .line-12-Qqdyxx {
+  background-color: transparent;
+  height: 32px;
+  left: 370px;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+
+.new-e-mail-message-empty .vector-hR1jT2 {
+  background-color: transparent;
+  height: 6px;
+  left: 136px;
+  position: absolute;
+  top: 55px;
+  width: 9px;
+}
+
+.new-e-mail-message-empty .lapaste-x9pzB5 {
+  background-color: transparent;
+  height: 32px;
+  left: 88px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 41px;
+  width: 32px;
+}
+
+.new-e-mail-message-empty .vector-Jx4AFn {
+  background-color: transparent;
+  height: 6px;
+  left: 53px;
+  position: absolute;
+  top: 57px;
+  width: 9px;
+}
+
+.new-e-mail-message-empty .fluentarrow-undo-32-filled-x9pzB5 {
+  background-color: transparent;
+  height: 32px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 46px;
+  width: 32px;
+}
+
+.new-e-mail-message-empty .line-12-xXgbxV {
+  background-color: transparent;
+  height: 43px;
+  left: 74px;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.new-e-mail-message-empty .vector-SqHKuy {
+  background-color: transparent;
+  height: 6px;
+  left: 705px;
+  position: absolute;
+  top: 53px;
+  width: 9px;
+}
+
+.new-e-mail-message-empty .options-x9pzB5 {
+  background-color: transparent;
+  height: auto;
+  left: 298px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 101px;
+}
+
+.new-e-mail-message-empty .format-text-x9pzB5 {
+  background-color: transparent;
+  height: auto;
+  left: 390px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 138px;
+}
+
+.new-e-mail-message-empty .review-x9pzB5 {
+  background-color: transparent;
+  height: auto;
+  left: 524px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 87px;
+}
+
+.new-e-mail-message-empty .x-x9pzB5 {
+  background-color: transparent;
+  height: auto;
+  left: 992px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 27px;
+}
+
+.new-e-mail-message-empty .line-13-EFNkiI {
+  background-color: transparent;
+  height: 43px;
+  left: 1064px;
+  position: absolute;
+  top: 89px;
+  width: 1px;
+}
+
+.new-e-mail-message-empty .vector-EFNkiI {
+  background-color: transparent;
+  height: 27px;
+  left: 676px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 100px;
+  width: 23px;
+}
+
+.new-e-mail-message-empty .line-12-EFNkiI {
+  background-color: transparent;
+  height: 32px;
+  left: 470px;
+  position: absolute;
+  top: 96px;
+  width: 1px;
+}
+
+.new-e-mail-message-empty .untitled-message-html-EFNkiI {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: 237px;
+}

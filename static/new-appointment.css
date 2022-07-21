@@ -1,0 +1,1558 @@
+/* screen - new-appointment */
+
+.new-appointment {
+  background-color: var(--white);
+  height: 1024px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.new-appointment .create-meeting-email-Quyb4W {
+  background-color: transparent;
+  height: 1024px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1445px;
+}
+
+.new-appointment .message-panel-0MH1up {
+  background-color: transparent;
+  height: 875px;
+  left: 0px;
+  position: absolute;
+  top: 149px;
+  width: 1481px;
+}
+
+.new-appointment .rectangle-33-W6jLq9 {
+  background-color: var(--white);
+  height: 875px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1438px;
+}
+
+.new-appointment .make-recurring-W6jLq9 {
+  background-color: transparent;
+  color: #28a8ea;
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 597px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 230px;
+  width: auto;
+}
+
+.new-appointment .time-zones-W6jLq9 {
+  background-color: transparent;
+  height: auto;
+  left: 720px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 194px;
+  width: auto;
+}
+
+.new-appointment .rectangle-40-W6jLq9 {
+  background-color: var(--white);
+  height: 19px;
+  left: 670px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 194px;
+  width: 19px;
+}
+
+.new-appointment .biarrow-repeat-W6jLq9 {
+  background-color: transparent;
+  height: 20px;
+  left: 572px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 230px;
+  width: 20px;
+}
+
+.new-appointment .notoglobe-with-meridians-W6jLq9 {
+  background-color: transparent;
+  height: 20px;
+  left: 694px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 194px;
+  width: 20px;
+}
+
+.new-appointment .all-day-W6jLq9 {
+  background-color: transparent;
+  height: auto;
+  left: 597px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 194px;
+  width: auto;
+}
+
+.new-appointment .rectangle-36-W6jLq9 {
+  background-color: transparent;
+  height: 32px;
+  left: 247px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 188px;
+  width: 169px;
+}
+
+.new-appointment .fri-2972022-W6jLq9 {
+  background-color: transparent;
+  height: auto;
+  left: 254px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 194px;
+  width: auto;
+}
+
+.new-appointment .uiwdate-W6jLq9 {
+  background-color: transparent;
+  height: 20px;
+  left: 391px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 194px;
+  width: 20px;
+}
+
+.new-appointment .start-time-W6jLq9 {
+  background-color: transparent;
+  height: auto;
+  left: 151px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 196px;
+  width: auto;
+}
+
+.new-appointment .end-time-W6jLq9 {
+  background-color: transparent;
+  height: auto;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 232px;
+  width: auto;
+}
+
+.new-appointment .title-W6jLq9 {
+  background-color: transparent;
+  height: auto;
+  left: 168px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 79px;
+  width: auto;
+}
+
+.new-appointment .line-18-W6jLq9 {
+  background-color: transparent;
+  height: 1px;
+  left: 247px;
+  position: absolute;
+  top: 180px;
+  width: 1190px;
+}
+
+.new-appointment .line-14-W6jLq9 {
+  background-color: transparent;
+  height: 1px;
+  left: 247px;
+  position: absolute;
+  top: 60px;
+  width: 1190px;
+}
+
+.new-appointment .line-15-W6jLq9 {
+  background-color: transparent;
+  height: 1px;
+  left: 247px;
+  position: absolute;
+  top: 98px;
+  width: 1190px;
+}
+
+.new-appointment .line-16-W6jLq9 {
+  background-color: transparent;
+  height: 1px;
+  left: 247px;
+  position: absolute;
+  top: 140px;
+  width: 1190px;
+}
+
+.new-appointment .line-17-W6jLq9 {
+  background-color: transparent;
+  height: 1px;
+  left: 4px;
+  position: absolute;
+  top: 310px;
+  width: 1437px;
+}
+
+.new-appointment .rectangle-31-W6jLq9 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 33px;
+  left: 136px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 147px;
+  width: 89px;
+}
+
+.new-appointment .rectangle-30-W6jLq9 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 33px;
+  left: 136px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 108px;
+  width: 89px;
+}
+
+.new-appointment .rectangle-28-W6jLq9 {
+  background-color: var(--gallery);
+  border-radius: 2px;
+  height: 82px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 49px;
+  width: 70px;
+}
+
+.new-appointment .from-W6jLq9 {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: auto;
+}
+
+.new-appointment .required-W6jLq9 {
+  background-color: transparent;
+  height: auto;
+  left: 151px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 115px;
+  width: auto;
+}
+
+.new-appointment .optional-W6jLq9 {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 154px;
+  width: auto;
+}
+
+.new-appointment .rectangle-34-W6jLq9 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 33px;
+  left: 136px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 268px;
+  width: 89px;
+}
+
+.new-appointment .location-W6jLq9 {
+  background-color: transparent;
+  height: auto;
+  left: 154px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 275px;
+  width: auto;
+}
+
+.new-appointment .send-W6jLq9 {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 100px;
+  width: auto;
+}
+
+.new-appointment .icon-information-W6jLq9 {
+  background-color: transparent;
+  height: 18px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 18px;
+}
+
+.new-appointment .fluentsend-16-regular-W6jLq9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 54px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 71px;
+  width: 32px;
+}
+
+.new-appointment .you-havent-sent-this-W6jLq9 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  width: auto;
+}
+
+.new-appointment .rectangle-35-W6jLq9 {
+  background-color: transparent;
+  height: 32px;
+  left: 421px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 188px;
+  width: 120px;
+}
+
+.new-appointment .x900-am-W6jLq9 {
+  background-color: transparent;
+  height: auto;
+  left: 431px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 194px;
+  width: auto;
+}
+
+.new-appointment .vector-W6jLq9 {
+  background-color: transparent;
+  height: 6px;
+  left: 525px;
+  position: absolute;
+  top: 201px;
+  width: 9px;
+}
+
+.new-appointment .rectangle-37-W6jLq9 {
+  background-color: transparent;
+  height: 32px;
+  left: 247px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 224px;
+  width: 169px;
+}
+
+.new-appointment .fri-2972022-CtZ75J {
+  background-color: transparent;
+  height: auto;
+  left: 254px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 230px;
+  width: auto;
+}
+
+.new-appointment .uiwdate-CtZ75J {
+  background-color: transparent;
+  height: 20px;
+  left: 391px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 230px;
+  width: 20px;
+}
+
+.new-appointment .rectangle-38-W6jLq9 {
+  background-color: transparent;
+  height: 32px;
+  left: 421px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 224px;
+  width: 120px;
+}
+
+.new-appointment .x1100-am-W6jLq9 {
+  background-color: transparent;
+  height: auto;
+  left: 431px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 230px;
+  width: auto;
+}
+
+.new-appointment .vector-CtZ75J {
+  background-color: transparent;
+  height: 6px;
+  left: 525px;
+  position: absolute;
+  top: 237px;
+  width: 9px;
+}
+
+.new-appointment .rectangle-39-W6jLq9 {
+  background-color: var(--white);
+  height: 19px;
+  left: 572px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 194px;
+  width: 19px;
+}
+
+.new-appointment .dear-faith-you-are-i-W6jLq9 {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 337px;
+  width: 1355px;
+}
+
+.new-appointment .microsoft-teams-meeting-W6jLq9 {
+  background-color: transparent;
+  height: auto;
+  left: 247px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 275px;
+  width: auto;
+}
+
+.new-appointment .crystal_limsutdedusg-W6jLq9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 251px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 39px;
+  width: auto;
+}
+
+.new-appointment .rectangle-1-0MH1up {
+  background-color: var(--gallery);
+  height: 153px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.new-appointment .search-bar-0MH1up {
+  background-color: transparent;
+  height: 31px;
+  left: 373px;
+  position: absolute;
+  top: 12px;
+  width: 352px;
+}
+
+.new-appointment .rectangle-xrDrtY {
+  background-color: transparent;
+  height: 31px;
+  left: 373px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 350px;
+}
+
+.new-appointment .search-xrDrtY {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: auto;
+}
+
+.new-appointment .icon-search-xrDrtY {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 15px;
+}
+
+.new-appointment .main-panel-0MH1up {
+  background-color: transparent;
+  height: 28px;
+  left: 5px;
+  position: absolute;
+  top: 54px;
+  width: 737px;
+}
+
+.new-appointment .line-10-q7pKdB {
+  background-color: transparent;
+  height: 2px;
+  left: 79px;
+  position: absolute;
+  top: 27px;
+  width: 74px;
+}
+
+.new-appointment .file-q7pKdB {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 74px;
+}
+
+.new-appointment .meeting-q7pKdB {
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.new-appointment .draw-q7pKdB {
+  background-color: transparent;
+  height: auto;
+  left: 400px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 74px;
+}
+
+.new-appointment .help-q7pKdB {
+  background-color: transparent;
+  height: auto;
+  left: 651px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 74px;
+}
+
+.new-appointment .insert-q7pKdB {
+  background-color: transparent;
+  height: auto;
+  left: 335px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 72px;
+}
+
+.new-appointment .insert-w3yAZj {
+  background-color: transparent;
+  height: auto;
+  left: 163px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 172px;
+}
+
+.new-appointment .fix-buttons-0MH1up {
+  background-color: transparent;
+  height: 17px;
+  left: 1346px;
+  position: absolute;
+  top: 17px;
+  width: 82px;
+}
+
+.new-appointment .chromechrome-close-AN7mQU {
+  background-color: transparent;
+  height: 16px;
+  left: 66px;
+  position: absolute;
+  top: 17px;
+  width: 16px;
+}
+
+.new-appointment .chromechrome-restore-AN7mQU {
+  background-color: transparent;
+  height: 16px;
+  left: 33px;
+  position: absolute;
+  top: 17px;
+  width: 16px;
+}
+
+.new-appointment .chromechrome-minimize-AN7mQU {
+  background-color: transparent;
+  height: 16px;
+  left: 1346px;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.new-appointment .office-logos-0MH1up {
+  background-color: transparent;
+  height: 48px;
+  left: 3px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.new-appointment .group-6UQmbO {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 48px;
+}
+
+.new-appointment .outlook-dgmIWs {
+  background-color: transparent;
+  height: 29px;
+  left: 9px;
+  position: absolute;
+  top: 12px;
+  width: 33px;
+}
+
+.new-appointment .x142-iEqBYt {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 33px;
+}
+
+.new-appointment .group-xqwzoq {
+  background-color: transparent;
+  height: 24px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  opacity: 0.2;
+  position: absolute;
+  top: 1px;
+  width: 21px;
+}
+
+.new-appointment .rectangle-BTZAHq {
+  background-color: transparent;
+  height: 24px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 21px;
+}
+
+.new-appointment .vector-BTZAHq {
+  background-color: transparent;
+  height: 22px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.new-appointment .group-YSdj5Y {
+  background-color: transparent;
+  height: 23px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  opacity: 0.12;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.new-appointment .rectangle-QvY1F4 {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.new-appointment .vector-QvY1F4 {
+  background-color: transparent;
+  height: 22px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.new-appointment .vector-xqwzoq {
+  background-color: transparent;
+  height: 11px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.new-appointment .vector-YSdj5Y {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.new-appointment .vector-bEVitP {
+  background-color: transparent;
+  height: 3px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.new-appointment .vector-GsNQEx {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.new-appointment .vector-5cE2SZ {
+  background-color: transparent;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.new-appointment .vector-btkI9H {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.new-appointment .vector-1smAOj {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.new-appointment .vector-2WZCUm {
+  background-color: transparent;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.new-appointment .vector-fNAvS3 {
+  background-color: transparent;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.new-appointment .vector-XgVroe {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.new-appointment .vector-NECqad {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.new-appointment .group-bEVitP {
+  background-color: transparent;
+  height: 24px;
+  left: 1px;
+  position: absolute;
+  top: 5px;
+  width: 32px;
+}
+
+.new-appointment .envelope-xGOcSY {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.new-appointment .group-6IdnQ9 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.35;
+  position: relative;
+  top: 0px;
+  width: 32px;
+}
+
+.new-appointment .rectangle-uxuk25 {
+  background-color: transparent;
+  height: 24px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 32px;
+}
+
+.new-appointment .vector-uxuk25 {
+  background-color: transparent;
+  height: 11px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.new-appointment .envelope-b811cz {
+  background-color: transparent;
+  height: 12px;
+  left: 6px;
+  opacity: 0.06;
+  position: absolute;
+  top: 6px;
+  width: 19px;
+}
+
+.new-appointment .group-h0hwqM {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.06;
+  position: relative;
+  top: 0px;
+  width: 19px;
+}
+
+.new-appointment .icon-mail-ejGPqq {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.new-appointment .vector-ejGPqq {
+  background-color: transparent;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.new-appointment .envelope-xqwzoq {
+  background-color: transparent;
+  height: 11px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 18px;
+}
+
+.new-appointment .vector-dyaRfS {
+  background-color: transparent;
+  height: 11px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 18px;
+}
+
+.new-appointment .group-GsNQEx {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 17px;
+}
+
+.new-appointment .ambient-zB7RzE {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 17px;
+}
+
+.new-appointment .group-tXKfUR {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.48;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.new-appointment .rectangle-EChszf {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.new-appointment .vector-EChszf {
+  background-color: transparent;
+  height: 12px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.new-appointment .group-nooPCH {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  opacity: 0.24;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.new-appointment .rectangle-Nus71P {
+  background-color: transparent;
+  height: 13px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 13px;
+}
+
+.new-appointment .vector-Nus71P {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.new-appointment .vector-0Prb98 {
+  background-color: transparent;
+  height: 24px;
+  left: 2px;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.new-appointment .vector-vZRs6h {
+  background-color: transparent;
+  height: 22px;
+  left: 8px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.new-appointment .vector-aN4pxm {
+  background-color: transparent;
+  height: 12px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.new-appointment .group-5cE2SZ {
+  background-color: transparent;
+  height: 12px;
+  left: 2px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.new-appointment .vector-s6KnF4 {
+  background-color: transparent;
+  height: 7px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.new-appointment .trap-line-dgmIWs {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.new-appointment .email-panel-0MH1up {
+  background-color: transparent;
+  height: 93px;
+  left: 17px;
+  position: absolute;
+  top: 55px;
+  width: 1440px;
+}
+
+.new-appointment .rectangle-32-FxjsX5 {
+  background-color: var(--white);
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27px;
+  width: 1420px;
+}
+
+.new-appointment .icon-notifications-FxjsX5 {
+  background-color: transparent;
+  height: 32px;
+  left: 1115px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 33px;
+}
+
+.new-appointment .rectangle-35-FxjsX5 {
+  background-color: transparent;
+  height: 32px;
+  left: 1234px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 120px;
+}
+
+.new-appointment .rectangle-27-FxjsX5 {
+  background-color: transparent;
+  height: 32px;
+  left: 982px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 120px;
+}
+
+.new-appointment .vector-FxjsX5 {
+  background-color: transparent;
+  height: 6px;
+  left: 1085px;
+  position: absolute;
+  top: 56px;
+  width: 9px;
+}
+
+.new-appointment .line-13-FxjsX5 {
+  background-color: transparent;
+  height: 32px;
+  left: 1076px;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.new-appointment .vector-IeXr5y {
+  background-color: transparent;
+  height: 6px;
+  left: 1338px;
+  position: absolute;
+  top: 56px;
+  width: 9px;
+}
+
+.new-appointment .rectangle-34-FxjsX5 {
+  background-color: #2aa0de;
+  height: 19px;
+  left: 987px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 50px;
+  width: 19px;
+}
+
+.new-appointment .vscode-iconsfile-type-onenote-FxjsX5 {
+  background-color: transparent;
+  height: 32px;
+  left: 852px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 32px;
+}
+
+.new-appointment .akar-iconscross-FxjsX5 {
+  background-color: transparent;
+  height: 29px;
+  left: 654px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 45px;
+  width: 29px;
+}
+
+.new-appointment .bytesizeoptions-FxjsX5 {
+  background-color: transparent;
+  height: 32px;
+  left: 452px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 42px;
+  width: 32px;
+}
+
+.new-appointment .insert-FxjsX5 {
+  background-color: transparent;
+  height: auto;
+  left: 261px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 47px;
+  width: 172px;
+}
+
+.new-appointment .insert-IeXr5y {
+  background-color: transparent;
+  height: auto;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  width: 149px;
+}
+
+.new-appointment .insert-ktHcxy {
+  background-color: transparent;
+  height: auto;
+  left: 684px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  width: 149px;
+}
+
+.new-appointment .insert-rxWMC4 {
+  background-color: transparent;
+  height: auto;
+  left: 903px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  width: 71px;
+}
+
+.new-appointment .insert-qxA0tK {
+  background-color: transparent;
+  height: auto;
+  left: 1141px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  width: 90px;
+}
+
+.new-appointment .insert-5LQSbx {
+  background-color: transparent;
+  height: auto;
+  left: 1240px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  width: 90px;
+}
+
+.new-appointment .insert-FadeG4 {
+  background-color: transparent;
+  height: auto;
+  left: 1008px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  width: 39px;
+}
+
+.new-appointment .logosmicrosoft-teams-FxjsX5 {
+  background-color: transparent;
+  height: 32px;
+  left: 221px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 32px;
+}
+
+.new-appointment .biarrow-right-FxjsX5 {
+  background-color: transparent;
+  height: 29px;
+  left: 141px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 29px;
+}
+
+.new-appointment .icon-trash-FxjsX5 {
+  background-color: transparent;
+  height: 32px;
+  left: 87px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 32px;
+}
+
+.new-appointment .vector-ktHcxy {
+  background-color: transparent;
+  height: 6px;
+  left: 186px;
+  position: absolute;
+  top: 54px;
+  width: 9px;
+}
+
+.new-appointment .vector-rxWMC4 {
+  background-color: transparent;
+  height: 6px;
+  left: 53px;
+  position: absolute;
+  top: 56px;
+  width: 9px;
+}
+
+.new-appointment .fluentarrow-undo-32-filled-FxjsX5 {
+  background-color: transparent;
+  height: 32px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 45px;
+  width: 32px;
+}
+
+.new-appointment .line-12-FxjsX5 {
+  background-color: transparent;
+  height: 43px;
+  left: 74px;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.new-appointment .format-text-FxjsX5 {
+  background-color: transparent;
+  height: auto;
+  left: 442px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 138px;
+}
+
+.new-appointment .review-FxjsX5 {
+  background-color: transparent;
+  height: auto;
+  left: 565px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 87px;
+}
+
+.new-appointment .x-FxjsX5 {
+  background-color: transparent;
+  height: auto;
+  left: 1369px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  width: 27px;
+}
+
+.new-appointment .line-12-IeXr5y {
+  background-color: transparent;
+  height: 43px;
+  left: 842px;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.new-appointment .line-13-IeXr5y {
+  background-color: transparent;
+  height: 43px;
+  left: 892px;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.new-appointment .line-12-ktHcxy {
+  background-color: transparent;
+  height: 43px;
+  left: 208px;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.new-appointment .line-13-ktHcxy {
+  background-color: transparent;
+  height: 43px;
+  left: 1362px;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.new-appointment .untitled-meeting-0MH1up {
+  background-color: transparent;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: 140px;
+}
+
+.new-appointment .invitation-to-dai-feedback-session-Quyb4W {
+  background-color: transparent;
+  height: auto;
+  left: 250px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 226px;
+  width: auto;
+}
+
+.new-appointment .faith_tansutdedusg-Quyb4W {
+  background-color: transparent;
+  height: auto;
+  left: 254px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 266px;
+  width: auto;
+}

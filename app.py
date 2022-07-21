@@ -10,19 +10,57 @@ app = Flask(__name__)
 #     return render_template("home.html")
 # Replace the existing home function with the one below
 
-@app.route("/")
-def file():
-    return render_template("file.html")
+@app.route('/')
+def inbox_main_unread():
+   return render_template('inbox-main-unread.html')
 
-@app.route("/home/")
-def home():
-    return render_template("home.html")
+@app.route('/inbox-faith-email.html/')
+def inbox_faith_email():
+   return render_template('inbox-faith-email.html')
 
-@app.route("/sendreceive/")
-def sendreceive():
-    return render_template("sendreceive.html")
+@app.route('/inbox-faith-email.html/inbox-faith-email-w-pop-up.html')
+def inbox_faith_email_w_pop_up():
+   return render_template('inbox-faith-email-w-pop-up.html')
 
+@app.route('/inbox-faith-email.html/calendar-event-2.html')
+def calendar_event_2():
+   return render_template('calendar-event-2.html')
 
+@app.route('/inbox-new-email.html')
+def inbox_new_email():
+   return render_template('inbox-new-email.html')
+
+@app.route('/new-e-mail-message-empty.html')
+def new_e_mail_message_empty():
+   return render_template('new-e-mail-message-empty.html')
+
+@app.route('/new-e-mail-message.html')
+def new_e_mail_message():
+   return render_template('new-e-mail-message.html')
+
+@app.route('/new-e-mail-message-w-pop-up.html')
+def new_e_mail_message_w_pop_up():
+   return render_template('new-e-mail-message-w-pop-up.html')
+
+@app.route('/new-appointment.html')
+def new_appointment():
+   return render_template('new-appointment.html')
+
+@app.route('/calendar-event-1.html')
+def calendar_event_1():
+   return render_template('calendar-event-1.html')
+
+@app.route('/calendar-event-12.html')
+def calendar_event_12():
+   return render_template('calendar-event-12.html')
+
+@app.route('/calendar-main.html')
+def calendar_main():
+   return render_template('calendar-main.html')
+
+@app.route('/inbox-faith-email.html/calendar-event-12.html')
+def calendar_event_12_1():
+   return render_template('calendar-event-12.html')
 
 # The decorator used for the new URL route, /hello/<name>, defines an endpoint /hello/ that can accept any additional value. 
 # The identifier inside < and > in the route defines a variable that is passed to the function and can be used in your code.
