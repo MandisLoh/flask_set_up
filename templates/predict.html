@@ -15,19 +15,9 @@
 <body>
  <div class="login">
  <div>
-	
-	</div>
+	{{ prediction_text }}
 
-     <!-- Main Input For Receiving Query to our ML -->
-    <form action="{{ url_for('predict')}}"method="get">
-    	<input type="text" name="EmailContent" placeholder="EmailContent" required="required" />
-
-        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
-    </form>
-
-   <br>
-   <br>
-   {{ prediction_text }}
+   
 
  </div>
 
