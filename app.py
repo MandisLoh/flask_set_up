@@ -11,22 +11,23 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.decomposition import PCA
-
-from model import X_test_pca
 from html_to_text import html2text
 
 app = Flask(__name__)
 model = pickle.load(open('model.pkl', 'rb'))
 
 # #To use the predict button in our web-app
-@app.route('/predict.html',methods=['GET'])
+@app.route('/predict',methods=['GET'])
 def predict():
    html = './templates/inbox-faith-email.html'
-   model = pickle.load(open('model.pkl', 'rb'))
    count_vect = CountVectorizer()
    final_features = html2text(html)
    prediction = model.predict(count_vect.fit_transform([final_features]))
-   return render_template('predict.html', prediction_text='Predicted category is {}'.format(prediction))
+   if (prediction==2):
+      prediction = "Meeting"
+   else:
+      prediction = "Normal"
+   return render_template('predict.html', prediction_text=f'Predicted category is {prediction}')
 
 @app.route('/')
 def inbox_main_unread():
