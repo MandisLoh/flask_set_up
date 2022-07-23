@@ -88,6 +88,19 @@ def plot_tfidf_classfeats_h(dfs):
 plot_tfidf_classfeats_h(top_feats_per_cluster(X, labels, features, 0.1, 25))
 
 
+df['Body'] = df['Body'].astype(str)
+df['Body'] = df['Body'].apply(lambda x: x.lower())
+punctuations = '\.\!\?'
+df = (df.drop('Body',axis=1).merge(df.Body.str.extractall(f'(?P<Body>[^{punctuations}]+[{punctuations}])\s?').reset_index('match'),left_index=True, right_index=True, how='left'))
+df['Body'] = df['Body'].str.replace("[^\w\s<>]", "")
+df = df.replace(r'[^0-9a-zA-Z ]', '', regex=True).replace("'", '')
+#print(type(df['Body']))
+#df.applymap(type)
+df['Body'] = df['Body'].astype(str)
+df['Body'] = df['Body'].apply(lambda x: " ".join([Word(word).lemmatize() for word in x.split()])) # change similar terms to the same
+# stop = stopwords.words("english") #remove useless words
+df['Body'] = df['Body'].apply(lambda x: " ".join(x for x in x.split() if x not in stop))
+
 df['Classifications'] = pd.Series(labels, index=df.index)
 X = df['Body']
 y = pd.to_numeric(df['Classifications'])
