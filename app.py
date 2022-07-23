@@ -23,7 +23,7 @@ def predict():
    count_vect = CountVectorizer()
    final_features = html2text(html)
    prediction = model.predict(count_vect.fit_transform([final_features]))
-   if (prediction==2):
+   if (prediction==1) or (prediction==2):
       prediction = "Meeting"
    else:
       prediction = "Normal"

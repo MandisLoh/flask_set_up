@@ -107,7 +107,7 @@ X_test_dtm = vect.transform(X_test)
 # Changing from sparse to dense matrix
 X_train_dense = pd.DataFrame(X_train_dtm.toarray(), columns = vect.get_feature_names_out())
 X_test_dense = pd.DataFrame(X_test_dtm.toarray(), columns = vect.get_feature_names_out())
-pca = PCA(n_components = 122)
+pca = PCA(n_components = 129)
 X_train_pca = pca.fit_transform(X_train_dense)
 X_test_pca = pca.transform(X_test_dense)
 
