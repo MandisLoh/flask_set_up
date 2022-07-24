@@ -44,7 +44,7 @@ def inbox_faith_email():
 def inbox_faith_email_w_pop_up():
    text = html2text('./templates/inbox-faith-email.html')
    meeting_details = search_dates(text)
-   return render_template('inbox-faith-email-w-pop-up.html', start_time = f"{meeting_details[2][1].time().strftime('%H:%M')}", end_time = f"{meeting_details[3][1].time().strftime('%H:%M')}", date = f"{meeting_details[1][1].date().day}/{meeting_details[1][1].date().month}/2022")
+   return render_template('inbox-faith-email-w-pop-up.html', start_time = f"{meeting_details[2][1].time().strftime('%H:%M')}", end_time = f"{meeting_details[3][1].time().strftime('%H:%M')}", date_faith = f"{meeting_details[1][1].date().day}/{meeting_details[1][1].date().month}/2022")
 
 @app.route('/inbox-rebecca-email.html/')
 def inbox_rebecca_email():
