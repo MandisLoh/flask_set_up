@@ -1,9 +1,9 @@
 <svg width="13" height="14" viewBox="0 0 13 14" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g style="mix-blend-mode:soft-light" opacity="0.5">
-<path style="mix-blend-mode:soft-light" opacity="0.5" d="M11.9875 0.917969H1.84001C1.28083 0.917969 0.827515 1.37128 0.827515 1.93047V12.078C0.827515 12.6372 1.28083 13.0905 1.84001 13.0905H11.9875C12.5467 13.0905 13 12.6372 13 12.078V1.93047C13 1.37128 12.5467 0.917969 11.9875 0.917969Z" fill="url(#paint0_linear_146_16547)"/>
+<path style="mix-blend-mode:soft-light" opacity="0.5" d="M11.9377 0.660156H1.3877C0.800893 0.660156 0.325195 1.13585 0.325195 1.72266V12.2727C0.325195 12.8595 0.800893 13.3352 1.3877 13.3352H11.9377C12.5245 13.3352 13.0002 12.8595 13.0002 12.2727V1.72266C13.0002 1.13585 12.5245 0.660156 11.9377 0.660156Z" fill="url(#paint0_linear_185_17874)"/>
 </g>
 <defs>
-<linearGradient id="paint0_linear_146_16547" x1="2.94251" y1="0.122969" x2="10.885" y2="13.878" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_185_17874" x1="2.5252" y1="-0.164844" x2="10.8002" y2="14.1602" gradientUnits="userSpaceOnUse">
 <stop stop-color="white" stop-opacity="0.5"/>
 <stop offset="1" stop-opacity="0.7"/>
 </linearGradient>

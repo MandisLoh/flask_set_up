@@ -140,7 +140,7 @@
 .inbox-faith-email-w-pop-up .span6-8naa7Q {
   color: #4c4a48;
   font-family: var(--font-family-open_sans);
-  font-size: var(--font-size-xxs);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }
@@ -148,7 +148,7 @@
 .inbox-faith-email-w-pop-up .span7-8naa7Q {
   color: #4c4a48;
   font-family: var(--font-family-open_sans);
-  font-size: var(--font-size-xxs);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
   text-decoration: underline;
@@ -1844,7 +1844,7 @@
 .inbox-faith-email-w-pop-up .rectangle-mC9RRi {
   background-color: transparent;
   height: 23px;
-  left: -0px;
+  left: 0px;
   mix-blend-mode: normal;
   position: absolute;
   top: 0px;
@@ -2669,7 +2669,7 @@
   color: #ffffffe4;
   cursor: pointer;
   font-family: var(--font-family-open_sans);
-  font-size: var(--font-size-xs);
+  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 700;
   height: auto;
@@ -3565,7 +3565,7 @@
 .inbox-faith-email-w-pop-up .line-8-De8qO5 {
   background-color: transparent;
   height: 851px;
-  left: 357px;
+  left: 358px;
   position: absolute;
   top: 7px;
   width: 3px;

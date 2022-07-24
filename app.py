@@ -36,31 +36,39 @@ def predict():
 def inbox_main_unread():
    return render_template('inbox-main-unread.html')
 
-@app.route('/inbox-faith-email.html/')
+@app.route('/inbox-faith-email-detected.html/inbox-faith-email.html/')
 def inbox_faith_email():
    return render_template('inbox-faith-email.html')
 
-@app.route('/inbox-faith-email.html/inbox-faith-email-w-pop-up.html')
+@app.route('/inbox-faith-email-detected.html/inbox-faith-email.html/inbox-faith-email-w-pop-up.html')
 def inbox_faith_email_w_pop_up():
    text = html2text('./templates/inbox-faith-email.html')
    meeting_details = search_dates(text)
    return render_template('inbox-faith-email-w-pop-up.html', start_time = f"{meeting_details[2][1].time().strftime('%H:%M')}", end_time = f"{meeting_details[3][1].time().strftime('%H:%M')}", date_faith = f"{meeting_details[1][1].date().day}/{meeting_details[1][1].date().month}/2022")
 
-@app.route('/inbox-rebecca-email.html/')
+@app.route('inbox-faith-email-detected.html/')
+def inbox_faith_email_detected():
+   return render_template('inbox-faith-email-detected')
+
+@app.route('inbox-rebecca-email-detected.html/inbox-rebecca-email.html/')
 def inbox_rebecca_email():
    return render_template('inbox-rebecca-email.html')
 
-@app.route('/inbox-rebecca-email.html/inbox-rebecca-email-w-pop-up.html')
+@app.route('inbox-rebecca-email-detected.html/inbox-rebecca-email.html/inbox-rebecca-email-w-pop-up.html')
 def inbox_rebecca_email_w_pop_up():
    text = html2text('./templates/inbox-rebecca-email.html')
    meeting_details = search_dates(text)
    return render_template('inbox-rebecca-email-w-pop-up.html', start_time = f"{meeting_details[2][1].time().strftime('%H:%M')}", end_time = f"{meeting_details[3][1].time().strftime('%H:%M')}", dates = f"{meeting_details[1][1].date().day}/{meeting_details[1][1].date().month}/2022")
 
-@app.route('/inbox-faith-email.html/calendar-event-3.html')
+@app.route('inbox-rebecca-email-detected.html/')
+def inbox_rebecca_email_detected():
+   return render_template('inbox-rebecca-email-detected')
+
+@app.route('/inbox-faith-email-detected.html/inbox-faith-email.html/calendar-event-3.html')
 def calendar_event_3():
    return render_template('calendar-event-3.html')
 
-@app.route('/inbox-rebecca-email.html/calendar-event-2.html')
+@app.route('/inbox-rebecca-email-detected.html/inbox-rebecca-email.html/calendar-event-2.html')
 def calendar_event_2():
    return render_template('calendar-event-2.html')
 
@@ -96,11 +104,11 @@ def calendar_event_123():
 def calendar_main():
    return render_template('calendar-main.html')
 
-@app.route('/inbox-faith-email.html/calendar-event-123.html')
+@app.route('/inbox-faith-email-detected.html/inbox-faith-email.html/calendar-event-123.html')
 def calendar_event_123_1():
    return render_template('calendar-event-123.html')
 
-@app.route('/inbox-rebecca-email.html/calendar-event-123.html')
+@app.route('/inbox-rebecca-email-detected.html/inbox-rebecca-email.html/calendar-event-123.html')
 def calendar_event_123_2():
    return render_template('calendar-event-123.html')
 
