@@ -1,0 +1,3147 @@
+/* screen - inbox-rebecca-email */
+
+.inbox-rebecca-email {
+  background-color: var(--white);
+  height: 1024px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.inbox-rebecca-email .email-body-3exhZ4 {
+  background-color: transparent;
+  height: 395px;
+  left: 603px;
+  position: absolute;
+  top: 175px;
+  width: 814px;
+}
+
+.inbox-rebecca-email .rebecca-tan-rebecca_tansutdedusg-HyVkXJ {
+  background-color: transparent;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 49px;
+  width: auto;
+}
+
+.inbox-rebecca-email .thu-6182020-449-pm-HyVkXJ {
+  background-color: transparent;
+  height: auto;
+  left: 660px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 91px;
+  width: auto;
+}
+
+.inbox-rebecca-email .to-HyVkXJ {
+  background-color: transparent;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 77px;
+  width: auto;
+}
+
+.inbox-rebecca-email .you-HyVkXJ {
+  background-color: transparent;
+  height: auto;
+  left: 74px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 77px;
+  width: auto;
+}
+
+.inbox-rebecca-email .icon-contact-HyVkXJ {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 51px;
+  width: 42px;
+}
+
+.inbox-rebecca-email .oval-ixvLHq {
+  background-color: transparent;
+  height: 40px;
+  left: 603px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 226px;
+  width: 40px;
+}
+
+.inbox-rebecca-email .a-ixvLHq {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: auto;
+}
+
+.inbox-rebecca-email .dear-crystal-welcome-HyVkXJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 161px;
+  width: 721px;
+}
+
+.inbox-rebecca-email .span0-XA3N01 {
+}
+
+.inbox-rebecca-email .span1-XA3N01 {
+}
+
+.inbox-rebecca-email .span2-XA3N01 {
+}
+
+.inbox-rebecca-email .welcome-onboard-the-HyVkXJ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.inbox-rebecca-email .reply-button-HyVkXJ {
+  background-color: transparent;
+  height: 30px;
+  left: 444px;
+  position: absolute;
+  top: 53px;
+  width: 120px;
+}
+
+.inbox-rebecca-email .base-fanA0J {
+  align-items: center;
+  background-color: var(--white-2);
+  border: 1px solid transparent;
+  border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.05779999867081642) 90.576171875%, rgba(0, 0, 0, 0.16220000386238098)) 1;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  height: 32px;
+  justify-content: center;
+  left: -1px;
+  mix-blend-mode: normal;
+  padding: 4px 11px 6px;
+  position: absolute;
+  top: -1px;
+  width: 120px;
+}
+
+.inbox-rebecca-email .min-width-mE44kx {
+  background-color: transparent;
+  height: 1px;
+  min-width: 96px;
+  position: relative;
+}
+
+.inbox-rebecca-email .text-fanA0J {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.inbox-rebecca-email .iconuirestart-fanA0J {
+  background-color: transparent;
+  height: 16px;
+  left: 29px;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.inbox-rebecca-email .reply-all-button-HyVkXJ {
+  background-color: transparent;
+  height: 30px;
+  left: 564px;
+  position: absolute;
+  top: 53px;
+  width: 120px;
+}
+
+.inbox-rebecca-email .base-kxI4xY {
+  align-items: center;
+  background-color: var(--white-2);
+  border: 1px solid transparent;
+  border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.05779999867081642) 90.576171875%, rgba(0, 0, 0, 0.16220000386238098)) 1;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  height: 32px;
+  justify-content: center;
+  left: -1px;
+  mix-blend-mode: normal;
+  padding: 4px 11px 6px;
+  position: absolute;
+  top: -1px;
+  width: 120px;
+}
+
+.inbox-rebecca-email .min-width-r4XDy3 {
+  background-color: transparent;
+  height: 1px;
+  min-width: 96px;
+  position: relative;
+}
+
+.inbox-rebecca-email .text-kxI4xY {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.inbox-rebecca-email .iconuirestart-copy-kxI4xY {
+  background-color: transparent;
+  height: 16px;
+  left: 17px;
+  position: absolute;
+  top: 6px;
+  width: 16px;
+}
+
+.inbox-rebecca-email .forward-button-HyVkXJ {
+  background-color: transparent;
+  height: 30px;
+  left: 684px;
+  position: absolute;
+  top: 53px;
+  width: 120px;
+}
+
+.inbox-rebecca-email .base-mRtVxM {
+  align-items: center;
+  background-color: var(--white-2);
+  border: 1px solid transparent;
+  border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.05779999867081642) 90.576171875%, rgba(0, 0, 0, 0.16220000386238098)) 1;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  height: 32px;
+  justify-content: center;
+  left: -1px;
+  mix-blend-mode: normal;
+  padding: 4px 11px 6px;
+  position: absolute;
+  top: -1px;
+  width: 120px;
+}
+
+.inbox-rebecca-email .min-width-9xVxYq {
+  background-color: transparent;
+  height: 1px;
+  min-width: 96px;
+  position: relative;
+}
+
+.inbox-rebecca-email .text-mRtVxM {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.inbox-rebecca-email .combined-shape-mRtVxM {
+  background-color: transparent;
+  height: 15px;
+  left: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .left-panel-3exhZ4 {
+  background-color: transparent;
+  height: 871px;
+  left: 0px;
+  position: absolute;
+  top: 153px;
+  width: 228px;
+}
+
+.inbox-rebecca-email .rectangle-2-tKSdY5 {
+  background-color: var(--cultured-pearl);
+  height: 871px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-rebecca-email .bottom-bar-tKSdY5 {
+  background-color: transparent;
+  height: 29px;
+  left: 10px;
+  position: absolute;
+  top: 830px;
+  width: 184px;
+}
+
+.inbox-rebecca-email .icon-mail-uAL7j8 {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 29px;
+}
+
+.inbox-rebecca-email .icon-calendar-uAL7j8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 54px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 29px;
+}
+
+.inbox-rebecca-email .icon-more-uAL7j8 {
+  background-color: transparent;
+  height: 4px;
+  left: 158px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 26px;
+}
+
+.inbox-rebecca-email .icon-group-uAL7j8 {
+  background-color: transparent;
+  height: 28px;
+  left: 108px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.inbox-rebecca-email .line-11-tKSdY5 {
+  background-color: transparent;
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 812px;
+  width: 208px;
+}
+
+.inbox-rebecca-email .favourites-tKSdY5 {
+  background-color: transparent;
+  height: 144px;
+  left: 0px;
+  position: absolute;
+  top: 32px;
+  width: 226px;
+}
+
+.inbox-rebecca-email .favorites-hiSfy5 {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .fav-inbox-hiSfy5 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 33px;
+  width: 228px;
+}
+
+.inbox-rebecca-email .rectangle-4-auyMF8 {
+  background-color: var(--bon-jour);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-rebecca-email .inbox-auyMF8 {
+  background-color: transparent;
+  height: 27px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .x12-auyMF8 {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .fav-sent-items-hiSfy5 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 60px;
+  width: 228px;
+}
+
+.inbox-rebecca-email .rectangle-5-uEEYNE {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-rebecca-email .sent-items-uEEYNE {
+  background-color: transparent;
+  height: 27px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .x12-uEEYNE {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .fav-drafts-hiSfy5 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 85px;
+  width: 228px;
+}
+
+.inbox-rebecca-email .rectangle-6-poq0GU {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-rebecca-email .drafts-poq0GU {
+  background-color: transparent;
+  height: 27px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .x12-poq0GU {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .fav-deleted-items-hiSfy5 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 112px;
+  width: 228px;
+}
+
+.inbox-rebecca-email .rectangle-7-XOPxxr {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-rebecca-email .deleted-items-XOPxxr {
+  background-color: transparent;
+  height: 27px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .x12-XOPxxr {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .line-2-hiSfy5 {
+  background-color: transparent;
+  height: 2px;
+  left: 6px;
+  position: absolute;
+  top: 143px;
+  width: 208px;
+}
+
+.inbox-rebecca-email .chevron-down-hiSfy5 {
+  background-color: transparent;
+  height: 32px;
+  left: 7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 185px;
+  width: 32px;
+}
+
+.inbox-rebecca-email .crystal_limsutdedu-tKSdY5 {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 192px;
+  width: 180px;
+}
+
+.inbox-rebecca-email .sent-items-tKSdY5 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 247px;
+  width: 228px;
+}
+
+.inbox-rebecca-email .rectangle-9-C3IAd7 {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-rebecca-email .sent-items-C3IAd7 {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .x12-C3IAd7 {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .drafts-tKSdY5 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 272px;
+  width: 228px;
+}
+
+.inbox-rebecca-email .rectangle-10-26kskw {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-rebecca-email .drafts-26kskw {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .x12-26kskw {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .deleted-items-tKSdY5 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 299px;
+  width: 228px;
+}
+
+.inbox-rebecca-email .rectangle-11-WAgQyF {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-rebecca-email .deleted-items-WAgQyF {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .x12-WAgQyF {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .archive-tKSdY5 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 326px;
+  width: 228px;
+}
+
+.inbox-rebecca-email .rectangle-12-xEcGPv {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-rebecca-email .archive-xEcGPv {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .x12-xEcGPv {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .junk-email-tKSdY5 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 351px;
+  width: 228px;
+}
+
+.inbox-rebecca-email .rectangle-13-Dn7nzJ {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-rebecca-email .junk-email-Dn7nzJ {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .x12-Dn7nzJ {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .outlook-tKSdY5 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 378px;
+  width: 228px;
+}
+
+.inbox-rebecca-email .rectangle-14-Z0UjKx {
+  background-color: var(--cultured-pearl);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-rebecca-email .outlook-Z0UjKx {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .x12-Z0UjKx {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .chevron-down-tKSdY5 {
+  background-color: transparent;
+  height: 32px;
+  left: 7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 187px;
+  width: 32px;
+}
+
+.inbox-rebecca-email .chevron-down-CU0JLs {
+  background-color: transparent;
+  height: 23px;
+  left: 194px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 23px;
+}
+
+.inbox-rebecca-email .inbox-tKSdY5 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 220px;
+  width: 228px;
+}
+
+.inbox-rebecca-email .rectangle-8-TDICgx {
+  background-color: var(--bon-jour);
+  height: 27px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.inbox-rebecca-email .inbox-TDICgx {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .x12-TDICgx {
+  background-color: transparent;
+  height: 27px;
+  left: 194px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .chevron-down-TDICgx {
+  background-color: transparent;
+  height: 16px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 14px;
+}
+
+.inbox-rebecca-email .groups-tKSdY5 {
+  background-color: transparent;
+  height: 27px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 410px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .chevron-down-P0anFy {
+  background-color: transparent;
+  height: 16px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 416px;
+  width: 14px;
+}
+
+.inbox-rebecca-email .top-panel-3exhZ4 {
+  background-color: transparent;
+  height: 153px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.inbox-rebecca-email .rectangle-1-IAuJf3 {
+  background-color: var(--gallery);
+  height: 153px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.inbox-rebecca-email .search-bar-IAuJf3 {
+  background-color: transparent;
+  height: 31px;
+  left: 370px;
+  position: absolute;
+  top: 12px;
+  width: 352px;
+}
+
+.inbox-rebecca-email .rectangle-PxbX8l {
+  background-color: transparent;
+  height: 31px;
+  left: 370px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 350px;
+}
+
+.inbox-rebecca-email .search-PxbX8l {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: auto;
+}
+
+.inbox-rebecca-email .icon-search-PxbX8l {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 15px;
+}
+
+.inbox-rebecca-email .main-panel-IAuJf3 {
+  background-color: transparent;
+  height: 31px;
+  left: 26px;
+  position: absolute;
+  top: 55px;
+  width: 558px;
+}
+
+.inbox-rebecca-email .line-10-YCh3aq {
+  background-color: transparent;
+  height: 2px;
+  left: 86px;
+  position: absolute;
+  top: 30px;
+  width: 74px;
+}
+
+.inbox-rebecca-email .file-YCh3aq {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.inbox-rebecca-email .home-YCh3aq {
+  background-color: transparent;
+  height: auto;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.inbox-rebecca-email .view-YCh3aq {
+  background-color: transparent;
+  height: auto;
+  left: 300px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.inbox-rebecca-email .help-YCh3aq {
+  background-color: transparent;
+  height: auto;
+  left: 386px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.inbox-rebecca-email .acrobat-YCh3aq {
+  background-color: transparent;
+  height: auto;
+  left: 472px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.inbox-rebecca-email .send-receive-YCh3aq {
+  background-color: transparent;
+  height: auto;
+  left: 172px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 133px;
+}
+
+.inbox-rebecca-email .fix-buttons-IAuJf3 {
+  background-color: transparent;
+  height: 52px;
+  left: 1304px;
+  position: absolute;
+  top: 17px;
+  width: 125px;
+}
+
+.inbox-rebecca-email .chromechrome-close-WGokVM {
+  background-color: transparent;
+  height: 16px;
+  left: 105px;
+  position: absolute;
+  top: 17px;
+  width: 16px;
+}
+
+.inbox-rebecca-email .chromechrome-restore-WGokVM {
+  background-color: transparent;
+  height: 16px;
+  left: 72px;
+  position: absolute;
+  top: 17px;
+  width: 16px;
+}
+
+.inbox-rebecca-email .chromechrome-minimize-WGokVM {
+  background-color: transparent;
+  height: 16px;
+  left: 39px;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.inbox-rebecca-email .base-WGokVM {
+  background-color: var(--alabaster);
+  border-radius: 999px;
+  height: 20px;
+  left: 64px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 33px;
+  width: 58px;
+}
+
+.inbox-rebecca-email .thumb-WGokVM {
+  background-color: var(--black-4);
+  border-radius: 999px;
+  height: 12px;
+  left: 71px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 37px;
+  width: 12px;
+}
+
+.inbox-rebecca-email .off-WGokVM {
+  background-color: transparent;
+  height: 10px;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: 20px;
+}
+
+.inbox-rebecca-email .try-it-now-WGokVM {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: 56px;
+}
+
+.inbox-rebecca-email .office-logos-IAuJf3 {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.inbox-rebecca-email .group-Z5xOr4 {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 48px;
+}
+
+.inbox-rebecca-email .outlook-KA8GgG {
+  background-color: transparent;
+  height: 29px;
+  left: 9px;
+  position: absolute;
+  top: 12px;
+  width: 33px;
+}
+
+.inbox-rebecca-email .x142-gwlxw6 {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 33px;
+}
+
+.inbox-rebecca-email .group-BT7Ui0 {
+  background-color: transparent;
+  height: 24px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  opacity: 0.2;
+  position: absolute;
+  top: 1px;
+  width: 21px;
+}
+
+.inbox-rebecca-email .rectangle-9Aw05T {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 21px;
+}
+
+.inbox-rebecca-email .vector-9Aw05T {
+  background-color: transparent;
+  height: 22px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .group-ARRVBp {
+  background-color: transparent;
+  height: 23px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  opacity: 0.12;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .rectangle-BSCtdm {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .vector-BSCtdm {
+  background-color: transparent;
+  height: 22px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .vector-BT7Ui0 {
+  background-color: transparent;
+  height: 11px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .vector-ARRVBp {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.inbox-rebecca-email .vector-RfmiAp {
+  background-color: transparent;
+  height: 3px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.inbox-rebecca-email .vector-tG8gBI {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.inbox-rebecca-email .vector-xMkSBZ {
+  background-color: transparent;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.inbox-rebecca-email .vector-UqVLmW {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.inbox-rebecca-email .vector-UTApmZ {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.inbox-rebecca-email .vector-xSNamx {
+  background-color: transparent;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.inbox-rebecca-email .vector-mgq7ng {
+  background-color: transparent;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.inbox-rebecca-email .vector-trYg4h {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.inbox-rebecca-email .vector-iYFsfb {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.inbox-rebecca-email .group-RfmiAp {
+  background-color: transparent;
+  height: 24px;
+  left: 1px;
+  position: absolute;
+  top: 5px;
+  width: 32px;
+}
+
+.inbox-rebecca-email .envelope-tzNDcr {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.inbox-rebecca-email .group-zzn67f {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.35;
+  position: relative;
+  top: 0px;
+  width: 32px;
+}
+
+.inbox-rebecca-email .rectangle-4rwZyq {
+  background-color: transparent;
+  height: 24px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 32px;
+}
+
+.inbox-rebecca-email .vector-4rwZyq {
+  background-color: transparent;
+  height: 11px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .envelope-K0h48N {
+  background-color: transparent;
+  height: 12px;
+  left: 6px;
+  opacity: 0.06;
+  position: absolute;
+  top: 6px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .group-wqEy5B {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.06;
+  position: relative;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .icon-mail-ueGRax {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .vector-ueGRax {
+  background-color: transparent;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .envelope-BT7Ui0 {
+  background-color: transparent;
+  height: 11px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .vector-txvDQY {
+  background-color: transparent;
+  height: 11px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .group-tG8gBI {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 17px;
+}
+
+.inbox-rebecca-email .ambient-Q7jSpi {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 17px;
+}
+
+.inbox-rebecca-email .group-P8ePVu {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.48;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.inbox-rebecca-email .rectangle-wfYffU {
+  background-color: transparent;
+  height: 17px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.inbox-rebecca-email .vector-wfYffU {
+  background-color: transparent;
+  height: 12px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.inbox-rebecca-email .group-6o8gK1 {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  opacity: 0.24;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.inbox-rebecca-email .rectangle-mg6I8V {
+  background-color: transparent;
+  height: 13px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 13px;
+}
+
+.inbox-rebecca-email .vector-mg6I8V {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.inbox-rebecca-email .vector-xUBOJx {
+  background-color: transparent;
+  height: 24px;
+  left: 2px;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.inbox-rebecca-email .vector-EvydL4 {
+  background-color: transparent;
+  height: 22px;
+  left: 8px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .vector-XugMs7 {
+  background-color: transparent;
+  height: 12px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.inbox-rebecca-email .group-xMkSBZ {
+  background-color: transparent;
+  height: 12px;
+  left: 2px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.inbox-rebecca-email .vector-FpAnEx {
+  background-color: transparent;
+  height: 7px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.inbox-rebecca-email .trap-line-KA8GgG {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.inbox-rebecca-email .email-panel-IAuJf3 {
+  background-color: transparent;
+  height: 53px;
+  left: 17px;
+  position: absolute;
+  top: 85px;
+  width: 1409px;
+}
+
+.inbox-rebecca-email .top-bar-LNVgWr {
+  background-color: transparent;
+  height: 52px;
+  left: 17px;
+  position: absolute;
+  top: 1px;
+  width: 1405px;
+}
+
+.inbox-rebecca-email .share-to-teams-LNVgWr {
+  background-color: transparent;
+  height: auto;
+  left: 674px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 129px;
+}
+
+.inbox-rebecca-email .unread-read-LNVgWr {
+  background-color: transparent;
+  height: auto;
+  left: 883px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 129px;
+}
+
+.inbox-rebecca-email .office-logos-LNVgWr {
+  background-color: transparent;
+  height: 50px;
+  left: 626px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.inbox-rebecca-email .group-A21mIf {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 50px;
+}
+
+.inbox-rebecca-email .teams-3rxL72 {
+  background-color: transparent;
+  height: 28px;
+  left: 10px;
+  position: absolute;
+  top: 12px;
+  width: 28px;
+}
+
+.inbox-rebecca-email .group-c5Wdxf {
+  background-color: transparent;
+  height: 25px;
+  left: 8px;
+  mix-blend-mode: multiply;
+  opacity: 0.2;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.inbox-rebecca-email .rectangle-nsBmGt {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.inbox-rebecca-email .vector-nsBmGt {
+  background-color: transparent;
+  height: 23px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .group-fNezul {
+  background-color: transparent;
+  height: 23px;
+  left: 9px;
+  mix-blend-mode: multiply;
+  opacity: 0.12;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .rectangle-5b0dWo {
+  background-color: transparent;
+  height: 23px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.inbox-rebecca-email .vector-5b0dWo {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .vector-c5Wdxf {
+  background-color: transparent;
+  height: 23px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .body-c5Wdxf {
+  background-color: transparent;
+  height: 11px;
+  left: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 8px;
+}
+
+.inbox-rebecca-email .head-c5Wdxf {
+  background-color: transparent;
+  height: 5px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 5px;
+}
+
+.inbox-rebecca-email .head-fNezul {
+  background-color: transparent;
+  height: 7px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 7px;
+}
+
+.inbox-rebecca-email .group-SBlKdn {
+  background-color: transparent;
+  height: 21px;
+  left: 6px;
+  position: absolute;
+  top: 7px;
+  width: 20px;
+}
+
+.inbox-rebecca-email .group-NKAnxt {
+  background-color: transparent;
+  height: 19px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .rectangle-jDsezn {
+  background-color: transparent;
+  height: 19px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .vector-jDsezn {
+  background-color: transparent;
+  height: 14px;
+  left: 3px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.inbox-rebecca-email .group-aGU9ux {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.24;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.inbox-rebecca-email .rectangle-rw1m53 {
+  background-color: transparent;
+  height: 21px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 19px;
+  width: 20px;
+}
+
+.inbox-rebecca-email .vector-rw1m53 {
+  background-color: transparent;
+  height: 14px;
+  left: 3px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 3px;
+  width: 13px;
+}
+
+.inbox-rebecca-email .vector-fNezul {
+  background-color: transparent;
+  height: 14px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 13px;
+}
+
+.inbox-rebecca-email .vector-SBlKdn {
+  background-color: transparent;
+  height: 25px;
+  left: 2px;
+  position: absolute;
+  top: 12px;
+  width: 25px;
+}
+
+.inbox-rebecca-email .group-lyxLEF {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .ambient-okQHop {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .group-7uOx5J {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.48;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .rectangle-ynkxxh {
+  background-color: transparent;
+  height: 18px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.inbox-rebecca-email .vector-ynkxxh {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 2px;
+  width: 13px;
+}
+
+.inbox-rebecca-email .group-xVX3CW {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  opacity: 0.24;
+  position: absolute;
+  top: 1px;
+  width: 14px;
+}
+
+.inbox-rebecca-email .rectangle-lexUJL {
+  background-color: transparent;
+  height: 14px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 14px;
+}
+
+.inbox-rebecca-email .vector-lexUJL {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.inbox-rebecca-email .vector-lyxLEF {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 13px;
+}
+
+.inbox-rebecca-email .group-izM4x1 {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 6px;
+  width: 13px;
+}
+
+.inbox-rebecca-email .vector-izM4x1 {
+  background-color: transparent;
+  height: 7px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.inbox-rebecca-email .trap-line-3rxL72 {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.inbox-rebecca-email .iconuirestart-LNVgWr {
+  background-color: transparent;
+  height: 26px;
+  left: 453px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.inbox-rebecca-email .iconuirestart-copy-LNVgWr {
+  background-color: transparent;
+  height: 26px;
+  left: 502px;
+  position: absolute;
+  top: 12px;
+  width: 26px;
+}
+
+.inbox-rebecca-email .combined-shape-LNVgWr {
+  background-color: transparent;
+  height: 21px;
+  left: 556px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 26px;
+}
+
+.inbox-rebecca-email .chevron-down-LNVgWr {
+  background-color: transparent;
+  height: 17px;
+  left: 257px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 17px;
+}
+
+.inbox-rebecca-email .new-email-LNVgWr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: 19px;
+  position: absolute;
+  top: 12px;
+  width: 159px;
+}
+
+.inbox-rebecca-email .new-email-eDXaEM {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .chevron-down-eDXaEM {
+  background-color: transparent;
+  height: 17px;
+  left: 140px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 17px;
+}
+
+.inbox-rebecca-email .miscmail-eDXaEM {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.inbox-rebecca-email .icon-mail-7fIrE6 {
+  background-color: transparent;
+  height: 19px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 27px;
+}
+
+.inbox-rebecca-email .commontrash-LNVgWr {
+  background-color: transparent;
+  height: 31px;
+  left: 217px;
+  overflow: hidden;
+  position: absolute;
+  top: 10px;
+  width: 31px;
+}
+
+.inbox-rebecca-email .union-WxnjNF {
+  background-color: transparent;
+  height: 25px;
+  left: 4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 21px;
+}
+
+.inbox-rebecca-email .icon-folder-LNVgWr {
+  background-color: transparent;
+  height: 31px;
+  left: 359px;
+  position: absolute;
+  top: 10px;
+  width: 31px;
+}
+
+.inbox-rebecca-email .miscmail-read-LNVgWr {
+  background-color: transparent;
+  height: 31px;
+  left: 838px;
+  position: absolute;
+  top: 10px;
+  width: 31px;
+}
+
+.inbox-rebecca-email .miscarchive-LNVgWr {
+  background-color: transparent;
+  height: 31px;
+  left: 299px;
+  overflow: hidden;
+  position: absolute;
+  top: 10px;
+  width: 31px;
+}
+
+.inbox-rebecca-email .union-kIqMDj {
+  background-color: transparent;
+  height: 25px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 27px;
+}
+
+.inbox-rebecca-email .line-12-LNVgWr {
+  background-color: transparent;
+  height: 43px;
+  left: 190px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.inbox-rebecca-email .line-13-LNVgWr {
+  background-color: transparent;
+  height: 43px;
+  left: 420px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.inbox-rebecca-email .line-14-LNVgWr {
+  background-color: transparent;
+  height: 43px;
+  left: 608px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.inbox-rebecca-email .line-15-LNVgWr {
+  background-color: transparent;
+  height: 43px;
+  left: 818px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.inbox-rebecca-email .inbox-panel-3exhZ4 {
+  background-color: transparent;
+  height: 871px;
+  left: 224px;
+  position: fixed;
+  top: 153px;
+  width: 364px;
+}
+
+.inbox-rebecca-email .rectangle-3-b1L59V {
+  background-color: var(--white);
+  height: 871px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 347px;
+}
+
+.inbox-rebecca-email .focused-b1L59V {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 38px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .email-1-b1L59V {
+  background-color: transparent;
+  cursor: pointer;
+  height: 121px;
+  left: 5px;
+  position: absolute;
+  top: 36px;
+  width: 345px;
+}
+
+.inbox-rebecca-email .rectangle-t0ATJw {
+  background-color: transparent;
+  height: 81px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 333px;
+}
+
+.inbox-rebecca-email .invitation-to-dai-bonding-t0ATJw {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 71px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .dear-crystal-t0ATJw {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 94px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .thur-449-am-t0ATJw {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 72px;
+  width: auto;
+}
+
+.inbox-rebecca-email .faith-tan-t0ATJw {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  width: 226px;
+}
+
+.inbox-rebecca-email .other-t0ATJw {
+  background-color: transparent;
+  height: auto;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 79px;
+}
+
+.inbox-rebecca-email .line-2-t0ATJw {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 120px;
+  width: 336px;
+}
+
+.inbox-rebecca-email .email-2-b1L59V {
+  background-color: transparent;
+  height: 81px;
+  left: 6px;
+  position: absolute;
+  top: 242px;
+  width: 343px;
+}
+
+.inbox-rebecca-email .rectangle-DTXoOs {
+  background-color: transparent;
+  height: 81px;
+  left: 230px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 395px;
+  width: 333px;
+}
+
+.inbox-rebecca-email .wed-732-am-DTXoOs {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-rebecca-email .student-government-president-DTXoOs {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 288px;
+}
+
+.inbox-rebecca-email .x10th-cabinet-roadmap-DTXoOs {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .dear-sutd-family-DTXoOs {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .line-2-DTXoOs {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-rebecca-email .email-3-b1L59V {
+  background-color: transparent;
+  height: 81px;
+  left: 6px;
+  position: absolute;
+  top: 157px;
+  width: 343px;
+}
+
+.inbox-rebecca-email .rectangle-ROAzTS {
+  background-color: transparent;
+  height: 81px;
+  left: 230px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 310px;
+  width: 333px;
+}
+
+.inbox-rebecca-email .wed-449-pm-ROAzTS {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-rebecca-email .rebecca-tan-ROAzTS {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 226px;
+}
+
+.inbox-rebecca-email .welcome-onboard-the-for-ROAzTS {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .dear-crystal-ROAzTS {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .line-2-ROAzTS {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-rebecca-email .email-4-b1L59V {
+  background-color: transparent;
+  height: 81px;
+  left: 6px;
+  position: absolute;
+  top: 319px;
+  width: 343px;
+}
+
+.inbox-rebecca-email .rectangle-jmUCJW {
+  background-color: transparent;
+  height: 81px;
+  left: 230px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 472px;
+  width: 333px;
+}
+
+.inbox-rebecca-email .wed-732-am-jmUCJW {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-rebecca-email .lorem-ipsum-jmUCJW {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 226px;
+}
+
+.inbox-rebecca-email .subject-jmUCJW {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .subject-lyYWwS {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .line-2-jmUCJW {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-rebecca-email .email-5-b1L59V {
+  background-color: transparent;
+  height: 81px;
+  left: 6px;
+  position: absolute;
+  top: 400px;
+  width: 343px;
+}
+
+.inbox-rebecca-email .rectangle-nM3np6 {
+  background-color: transparent;
+  height: 81px;
+  left: 230px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 553px;
+  width: 333px;
+}
+
+.inbox-rebecca-email .wed-732-am-nM3np6 {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-rebecca-email .lorem-ipsum-nM3np6 {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 226px;
+}
+
+.inbox-rebecca-email .subject-nM3np6 {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .subject-TJl1E1 {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .line-2-nM3np6 {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-rebecca-email .email-6-b1L59V {
+  background-color: transparent;
+  height: 81px;
+  left: 11px;
+  position: absolute;
+  top: 481px;
+  width: 343px;
+}
+
+.inbox-rebecca-email .rectangle-Msaw2M {
+  background-color: transparent;
+  height: 81px;
+  left: 235px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 634px;
+  width: 333px;
+}
+
+.inbox-rebecca-email .wed-732-am-Msaw2M {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-rebecca-email .lorem-ipsum-Msaw2M {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 226px;
+}
+
+.inbox-rebecca-email .subject-Msaw2M {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .subject-0Tk47D {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .line-2-Msaw2M {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-rebecca-email .email-7-b1L59V {
+  background-color: transparent;
+  height: 81px;
+  left: 11px;
+  position: absolute;
+  top: 562px;
+  width: 343px;
+}
+
+.inbox-rebecca-email .rectangle-Q0Gxdn {
+  background-color: transparent;
+  height: 81px;
+  left: 235px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 715px;
+  width: 333px;
+}
+
+.inbox-rebecca-email .wed-732-am-Q0Gxdn {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-rebecca-email .lorem-ipsum-Q0Gxdn {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 226px;
+}
+
+.inbox-rebecca-email .subject-Q0Gxdn {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .subject-XR5eiz {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .line-2-Q0Gxdn {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-rebecca-email .email-8-b1L59V {
+  background-color: transparent;
+  height: 81px;
+  left: 12px;
+  position: absolute;
+  top: 643px;
+  width: 343px;
+}
+
+.inbox-rebecca-email .rectangle-4oC13A {
+  background-color: transparent;
+  height: 81px;
+  left: 236px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 796px;
+  width: 333px;
+}
+
+.inbox-rebecca-email .wed-732-am-4oC13A {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-rebecca-email .lorem-ipsum-4oC13A {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 226px;
+}
+
+.inbox-rebecca-email .subject-4oC13A {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .subject-Ib6lIE {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .line-2-4oC13A {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-rebecca-email .email-9-b1L59V {
+  background-color: transparent;
+  height: 81px;
+  left: 12px;
+  position: absolute;
+  top: 724px;
+  width: 343px;
+}
+
+.inbox-rebecca-email .rectangle-SGitHw {
+  background-color: transparent;
+  height: 81px;
+  left: 236px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 877px;
+  width: 333px;
+}
+
+.inbox-rebecca-email .wed-732-am-SGitHw {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: auto;
+}
+
+.inbox-rebecca-email .lorem-ipsum-SGitHw {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  width: 226px;
+}
+
+.inbox-rebecca-email .subject-SGitHw {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .subject-7ax90w {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .line-2-SGitHw {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 80px;
+  width: 336px;
+}
+
+.inbox-rebecca-email .email-10-b1L59V {
+  background-color: transparent;
+  height: 66px;
+  left: 11px;
+  position: absolute;
+  top: 805px;
+  width: 343px;
+}
+
+.inbox-rebecca-email .rectangle-fUA2xb {
+  background-color: transparent;
+  height: 66px;
+  left: 235px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 958px;
+  width: 333px;
+}
+
+.inbox-rebecca-email .wed-732-am-fUA2xb {
+  background-color: transparent;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: 74px;
+}
+
+.inbox-rebecca-email .lorem-ipsum-fUA2xb {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: 226px;
+}
+
+.inbox-rebecca-email .subject-fUA2xb {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .subject-iUkRxb {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  width: 221px;
+}
+
+.inbox-rebecca-email .line-2-fUA2xb {
+  background-color: transparent;
+  height: 1px;
+  left: -0px;
+  position: absolute;
+  top: 65px;
+  width: 336px;
+}
+
+.inbox-rebecca-email .line-9-b1L59V {
+  background-color: transparent;
+  height: 2px;
+  left: 16px;
+  position: absolute;
+  top: 64px;
+  width: 85px;
+}
+
+.inbox-rebecca-email .by-date-b1L59V {
+  background-color: transparent;
+  height: auto;
+  left: 230px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 36px;
+  width: 74px;
+}
+
+.inbox-rebecca-email .chevron-down-b1L59V {
+  background-color: transparent;
+  height: 23px;
+  left: 301px;
+  position: absolute;
+  top: 37px;
+  width: 23px;
+}
+
+.inbox-rebecca-email .line-8-b1L59V {
+  background-color: transparent;
+  height: 851px;
+  left: 357px;
+  position: absolute;
+  top: 7px;
+  width: 3px;
+}

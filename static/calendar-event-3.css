@@ -1,7 +1,8 @@
-/* screen - calendar-event-12 */
+/* screen - calendar-event-3 */
 
-.calendar-event-12 {
+.calendar-event-3 {
   background-color: var(--white);
+  cursor: pointer;
   height: 1024px;
   mix-blend-mode: normal;
   overflow: hidden;
@@ -10,7 +11,7 @@
   width: 1440px;
 }
 
-.calendar-event-12 .left-panel-FxXeqP {
+.calendar-event-3 .left-panel-kkvJNx {
   background-color: transparent;
   height: 871px;
   left: 0px;
@@ -19,7 +20,7 @@
   width: 224px;
 }
 
-.calendar-event-12 .rectangle-2-UQCRhJ {
+.calendar-event-3 .rectangle-2-D5UAgT {
   background-color: var(--cultured-pearl);
   height: 871px;
   left: 0px;
@@ -29,7 +30,7 @@
   width: 224px;
 }
 
-.calendar-event-12 .bottom-bar-UQCRhJ {
+.calendar-event-3 .bottom-bar-D5UAgT {
   background-color: transparent;
   height: 29px;
   left: 10px;
@@ -38,7 +39,7 @@
   width: 184px;
 }
 
-.calendar-event-12 .icon-mail-xGAE2D {
+.calendar-event-3 .icon-mail-fimfZO {
   background-color: transparent;
   cursor: pointer;
   height: 18px;
@@ -49,7 +50,7 @@
   width: 29px;
 }
 
-.calendar-event-12 .icon-calendar-xGAE2D {
+.calendar-event-3 .icon-calendar-fimfZO {
   background-color: transparent;
   height: 28px;
   left: 54px;
@@ -59,7 +60,7 @@
   width: 29px;
 }
 
-.calendar-event-12 .icon-more-xGAE2D {
+.calendar-event-3 .icon-more-fimfZO {
   background-color: transparent;
   height: 4px;
   left: 158px;
@@ -69,7 +70,7 @@
   width: 26px;
 }
 
-.calendar-event-12 .icon-group-xGAE2D {
+.calendar-event-3 .icon-group-fimfZO {
   background-color: transparent;
   height: 28px;
   left: 108px;
@@ -79,7 +80,7 @@
   width: 26px;
 }
 
-.calendar-event-12 .line-11-UQCRhJ {
+.calendar-event-3 .line-11-D5UAgT {
   background-color: transparent;
   height: 2px;
   left: 4px;
@@ -88,7 +89,7 @@
   width: 208px;
 }
 
-.calendar-event-12 .chevron-down-UQCRhJ {
+.calendar-event-3 .chevron-down-D5UAgT {
   background-color: transparent;
   height: 23px;
   left: 194px;
@@ -98,7 +99,7 @@
   width: 23px;
 }
 
-.calendar-event-12 .line-2-UQCRhJ {
+.calendar-event-3 .line-2-D5UAgT {
   background-color: transparent;
   height: 2px;
   left: 9px;
@@ -107,7 +108,7 @@
   width: 208px;
 }
 
-.calendar-event-12 .calendar-filter-UQCRhJ {
+.calendar-event-3 .calendar-filter-D5UAgT {
   background-color: transparent;
   height: 112px;
   left: 7px;
@@ -116,7 +117,7 @@
   width: 220px;
 }
 
-.calendar-event-12 .caption-eSAUzg {
+.calendar-event-3 .caption-WXgivn {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -130,7 +131,7 @@
   width: 202px;
 }
 
-.calendar-event-12 .rectangle-27-eSAUzg {
+.calendar-event-3 .rectangle-27-WXgivn {
   background-color: var(--white);
   border-radius: 2px;
   height: 19px;
@@ -141,7 +142,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .rectangle-31-eSAUzg {
+.calendar-event-3 .rectangle-31-WXgivn {
   background-color: var(--chicago);
   border-radius: 2px;
   height: 15px;
@@ -152,7 +153,7 @@
   width: 15px;
 }
 
-.calendar-event-12 .caption-A9cnqS {
+.calendar-event-3 .caption-CAfeMw {
   background-color: transparent;
   height: 18px;
   left: 67px;
@@ -166,7 +167,7 @@
   width: 145px;
 }
 
-.calendar-event-12 .rectangle-28-eSAUzg {
+.calendar-event-3 .rectangle-28-WXgivn {
   background-color: var(--white);
   border-radius: 2px;
   height: 19px;
@@ -177,7 +178,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .caption-A75gij {
+.calendar-event-3 .caption-r3l79b {
   background-color: transparent;
   height: 18px;
   left: 67px;
@@ -191,7 +192,7 @@
   width: 145px;
 }
 
-.calendar-event-12 .rectangle-29-eSAUzg {
+.calendar-event-3 .rectangle-29-WXgivn {
   background-color: var(--white);
   border-radius: 2px;
   height: 19px;
@@ -202,7 +203,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .caption-8HKGeo {
+.calendar-event-3 .caption-g5xhR3 {
   background-color: transparent;
   height: 18px;
   left: 67px;
@@ -216,7 +217,7 @@
   width: 145px;
 }
 
-.calendar-event-12 .rectangle-30-eSAUzg {
+.calendar-event-3 .rectangle-30-WXgivn {
   background-color: var(--white);
   border-radius: 2px;
   height: 19px;
@@ -227,7 +228,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .vector-eSAUzg {
+.calendar-event-3 .vector-WXgivn {
   background-color: transparent;
   height: 7px;
   left: 4px;
@@ -236,7 +237,7 @@
   width: 12px;
 }
 
-.calendar-event-12 .icon-check_mark-eSAUzg {
+.calendar-event-3 .icon-check_mark-WXgivn {
   background-color: transparent;
   height: 14px;
   left: 39px;
@@ -246,7 +247,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .rectangle-61-UQCRhJ {
+.calendar-event-3 .rectangle-61-D5UAgT {
   background-color: var(--pattens-blue);
   height: 26px;
   left: 36px;
@@ -256,7 +257,7 @@
   width: 151px;
 }
 
-.calendar-event-12 .july-2022-UQCRhJ {
+.calendar-event-3 .july-2022-D5UAgT {
   background-color: transparent;
   height: 213px;
   left: 10px;
@@ -265,7 +266,7 @@
   width: 206px;
 }
 
-.calendar-event-12 .date-JD3xrC {
+.calendar-event-3 .date-ecHAOs {
   background-color: transparent;
   height: 150px;
   left: 0px;
@@ -274,7 +275,7 @@
   width: 204px;
 }
 
-.calendar-event-12 .x1-second-NBZrDx {
+.calendar-event-3 .x1-second-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 180px;
@@ -284,7 +285,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-bx0G3A {
+.calendar-event-3 .number-jLymEF {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -298,7 +299,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x31-NBZrDx {
+.calendar-event-3 .x31-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 150px;
@@ -308,7 +309,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-DGlDAB {
+.calendar-event-3 .number-IF3iAY {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -322,7 +323,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x30-second-NBZrDx {
+.calendar-event-3 .x30-second-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 120px;
@@ -332,7 +333,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-w9Fnxm {
+.calendar-event-3 .number-koTZqR {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -346,7 +347,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x29-second-NBZrDx {
+.calendar-event-3 .x29-second-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 90px;
@@ -356,7 +357,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-P7Su6B {
+.calendar-event-3 .number-GXxkh8 {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -370,7 +371,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x28-second-NBZrDx {
+.calendar-event-3 .x28-second-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 60px;
@@ -380,7 +381,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-Da10r5 {
+.calendar-event-3 .number-FWyT2V {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -394,7 +395,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x27-NBZrDx {
+.calendar-event-3 .x27-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 30px;
@@ -404,7 +405,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-yXeMUx {
+.calendar-event-3 .number-Bzi64U {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -418,7 +419,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x26-NBZrDx {
+.calendar-event-3 .x26-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 0px;
@@ -428,7 +429,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-cD7yhI {
+.calendar-event-3 .number-6ACzWn {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -442,7 +443,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x25-NBZrDx {
+.calendar-event-3 .x25-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 180px;
@@ -452,7 +453,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-lNx1i8 {
+.calendar-event-3 .number-XfE3mw {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -466,7 +467,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x24-NBZrDx {
+.calendar-event-3 .x24-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 150px;
@@ -476,7 +477,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-GwM3p7 {
+.calendar-event-3 .number-g0Qx7Y {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -490,7 +491,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x23-NBZrDx {
+.calendar-event-3 .x23-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 120px;
@@ -500,7 +501,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-Yhjlcu {
+.calendar-event-3 .number-EueN7B {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -514,7 +515,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x22-NBZrDx {
+.calendar-event-3 .x22-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 90px;
@@ -524,7 +525,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-3cwJF5 {
+.calendar-event-3 .number-DXQTJe {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -538,7 +539,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x21-NBZrDx {
+.calendar-event-3 .x21-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 60px;
@@ -548,7 +549,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-QQE6qq {
+.calendar-event-3 .number-FY9G4e {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -562,7 +563,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x20-NBZrDx {
+.calendar-event-3 .x20-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 30px;
@@ -572,7 +573,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-zZicO5 {
+.calendar-event-3 .number-JhE1oG {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -586,7 +587,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x19-NBZrDx {
+.calendar-event-3 .x19-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 0px;
@@ -596,7 +597,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-hkk4CH {
+.calendar-event-3 .number-LL6rLL {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -610,7 +611,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x18-NBZrDx {
+.calendar-event-3 .x18-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 180px;
@@ -620,7 +621,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-xqcoTn {
+.calendar-event-3 .number-OljpgE {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -634,7 +635,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x17-NBZrDx {
+.calendar-event-3 .x17-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 150px;
@@ -644,7 +645,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-hHKmQ6 {
+.calendar-event-3 .number-kAo6nr {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -658,7 +659,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x16-NBZrDx {
+.calendar-event-3 .x16-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 120px;
@@ -668,7 +669,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-Cv0pxz {
+.calendar-event-3 .number-r4VrIi {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -682,7 +683,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x15-NBZrDx {
+.calendar-event-3 .x15-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 90px;
@@ -692,7 +693,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-shr4bl {
+.calendar-event-3 .number-LRJnDQ {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -706,7 +707,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x14-NBZrDx {
+.calendar-event-3 .x14-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 60px;
@@ -716,7 +717,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-xTOfe5 {
+.calendar-event-3 .number-wPHUyx {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -730,7 +731,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x13-NBZrDx {
+.calendar-event-3 .x13-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 30px;
@@ -740,7 +741,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-YSesw7 {
+.calendar-event-3 .number-I7xwNx {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -754,7 +755,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x12-NBZrDx {
+.calendar-event-3 .x12-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 0px;
@@ -764,7 +765,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-QSCP9z {
+.calendar-event-3 .number-Nc4FZa {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -778,7 +779,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x11-NBZrDx {
+.calendar-event-3 .x11-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 180px;
@@ -788,7 +789,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-ZNbnyx {
+.calendar-event-3 .number-ryQ3Bi {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -802,7 +803,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x10-NBZrDx {
+.calendar-event-3 .x10-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 150px;
@@ -812,7 +813,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-4L4yB4 {
+.calendar-event-3 .number-sK0B5N {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -826,7 +827,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x9-NBZrDx {
+.calendar-event-3 .x9-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 120px;
@@ -836,7 +837,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-uoZuVt {
+.calendar-event-3 .number-7AsCPw {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -850,7 +851,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x8-NBZrDx {
+.calendar-event-3 .x8-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 90px;
@@ -860,7 +861,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-RnZA8S {
+.calendar-event-3 .number-QXxTRm {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -874,7 +875,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x7-NBZrDx {
+.calendar-event-3 .x7-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 60px;
@@ -884,7 +885,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-XIEkub {
+.calendar-event-3 .number-UUxAwW {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -898,7 +899,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x6-NBZrDx {
+.calendar-event-3 .x6-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 30px;
@@ -908,7 +909,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-LXI8Fs {
+.calendar-event-3 .number-A6uxqV {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -922,7 +923,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x5-NBZrDx {
+.calendar-event-3 .x5-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 0px;
@@ -932,7 +933,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-IUYsBT {
+.calendar-event-3 .number-J06xfP {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -946,7 +947,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x4-NBZrDx {
+.calendar-event-3 .x4-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 180px;
@@ -956,7 +957,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-2sxn4s {
+.calendar-event-3 .number-wxrlsF {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -970,7 +971,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x3-NBZrDx {
+.calendar-event-3 .x3-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 150px;
@@ -980,7 +981,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-MJoQJq {
+.calendar-event-3 .number-z9q4yp {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -994,7 +995,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x2-NBZrDx {
+.calendar-event-3 .x2-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 120px;
@@ -1004,7 +1005,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-4acsGp {
+.calendar-event-3 .number-T82KiI {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1018,7 +1019,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .numeral-NBZrDx {
+.calendar-event-3 .numeral-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 90px;
@@ -1028,7 +1029,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-XP7qVC {
+.calendar-event-3 .number-2xKQDm {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1042,7 +1043,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x30-first-NBZrDx {
+.calendar-event-3 .x30-first-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 60px;
@@ -1052,7 +1053,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-QKvu2b {
+.calendar-event-3 .number-yCPMVX {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1066,7 +1067,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x29-first-NBZrDx {
+.calendar-event-3 .x29-first-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 30px;
@@ -1076,7 +1077,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-nFcHi0 {
+.calendar-event-3 .number-Ug2u9j {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1090,7 +1091,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x28-first-NBZrDx {
+.calendar-event-3 .x28-first-27XDpp {
   background-color: transparent;
   height: 24px;
   left: 0px;
@@ -1100,7 +1101,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-Rb97uW {
+.calendar-event-3 .number-otrqmO {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1114,7 +1115,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .days-JD3xrC {
+.calendar-event-3 .days-ecHAOs {
   background-color: transparent;
   height: 13px;
   left: 2px;
@@ -1123,7 +1124,7 @@
   width: 214px;
 }
 
-.calendar-event-12 .sat-uxOXMx {
+.calendar-event-3 .sat-9yiuGn {
   background-color: transparent;
   height: 12px;
   left: 180px;
@@ -1137,7 +1138,7 @@
   width: 20px;
 }
 
-.calendar-event-12 .fri-uxOXMx {
+.calendar-event-3 .fri-9yiuGn {
   background-color: transparent;
   height: 12px;
   left: 150px;
@@ -1151,7 +1152,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .thu-uxOXMx {
+.calendar-event-3 .thu-9yiuGn {
   background-color: transparent;
   height: 12px;
   left: 120px;
@@ -1165,7 +1166,7 @@
   width: 20px;
 }
 
-.calendar-event-12 .wed-uxOXMx {
+.calendar-event-3 .wed-9yiuGn {
   background-color: transparent;
   height: 9px;
   left: 90px;
@@ -1179,7 +1180,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .tue-uxOXMx {
+.calendar-event-3 .tue-9yiuGn {
   background-color: transparent;
   height: 12px;
   left: 62px;
@@ -1193,7 +1194,7 @@
   width: 20px;
 }
 
-.calendar-event-12 .mon-uxOXMx {
+.calendar-event-3 .mon-9yiuGn {
   background-color: transparent;
   height: 12px;
   left: 30px;
@@ -1207,7 +1208,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .sun-uxOXMx {
+.calendar-event-3 .sun-9yiuGn {
   background-color: transparent;
   height: 12px;
   left: 0px;
@@ -1221,7 +1222,7 @@
   width: 20px;
 }
 
-.calendar-event-12 .caption-JD3xrC {
+.calendar-event-3 .caption-ecHAOs {
   background-color: transparent;
   height: 18px;
   left: 2px;
@@ -1235,7 +1236,7 @@
   width: 202px;
 }
 
-.calendar-event-12 .chevron-down-JD3xrC {
+.calendar-event-3 .chevron-down-ecHAOs {
   background-color: transparent;
   height: 23px;
   left: 33px;
@@ -1245,7 +1246,7 @@
   width: 23px;
 }
 
-.calendar-event-12 .chevron-down-oa78ZQ {
+.calendar-event-3 .chevron-down-8xHxgK {
   background-color: transparent;
   height: 23px;
   left: 181px;
@@ -1255,7 +1256,7 @@
   width: 23px;
 }
 
-.calendar-event-12 .august-2022-UQCRhJ {
+.calendar-event-3 .august-2022-D5UAgT {
   background-color: transparent;
   height: 213px;
   left: 10px;
@@ -1264,7 +1265,7 @@
   width: 206px;
 }
 
-.calendar-event-12 .date-zxtsJt {
+.calendar-event-3 .date-m3Yitg {
   background-color: transparent;
   height: 150px;
   left: 0px;
@@ -1273,7 +1274,7 @@
   width: 204px;
 }
 
-.calendar-event-12 .x1-second-3NqHtN {
+.calendar-event-3 .x1-second-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 180px;
@@ -1283,7 +1284,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-x3usPg {
+.calendar-event-3 .number-tnsyL5 {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1297,7 +1298,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x31-3NqHtN {
+.calendar-event-3 .x31-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 150px;
@@ -1307,7 +1308,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-1Bs0fi {
+.calendar-event-3 .number-1krIxk {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1321,7 +1322,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x30-second-3NqHtN {
+.calendar-event-3 .x30-second-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 120px;
@@ -1331,7 +1332,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-ElZhn7 {
+.calendar-event-3 .number-35XxsC {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1345,7 +1346,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x29-second-3NqHtN {
+.calendar-event-3 .x29-second-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 90px;
@@ -1355,7 +1356,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-btxFwJ {
+.calendar-event-3 .number-iIaYFx {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1369,7 +1370,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x28-second-3NqHtN {
+.calendar-event-3 .x28-second-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 60px;
@@ -1379,7 +1380,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-nQf5cK {
+.calendar-event-3 .number-Aace2o {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1393,7 +1394,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x27-3NqHtN {
+.calendar-event-3 .x27-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 30px;
@@ -1403,7 +1404,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-eMPSJ9 {
+.calendar-event-3 .number-ML6hkk {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1417,7 +1418,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x26-3NqHtN {
+.calendar-event-3 .x26-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 0px;
@@ -1427,7 +1428,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-UnnhAA {
+.calendar-event-3 .number-Hn35on {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1441,7 +1442,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x25-3NqHtN {
+.calendar-event-3 .x25-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 180px;
@@ -1451,7 +1452,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-RCw4r3 {
+.calendar-event-3 .number-xgDCiq {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1465,7 +1466,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x24-3NqHtN {
+.calendar-event-3 .x24-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 150px;
@@ -1475,7 +1476,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-aLbNzo {
+.calendar-event-3 .number-V9Mjkp {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1489,7 +1490,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x23-3NqHtN {
+.calendar-event-3 .x23-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 120px;
@@ -1499,7 +1500,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-pWpdVs {
+.calendar-event-3 .number-J7UtUl {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1513,7 +1514,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x22-3NqHtN {
+.calendar-event-3 .x22-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 90px;
@@ -1523,7 +1524,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-9NkdAO {
+.calendar-event-3 .number-aBEgca {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1537,7 +1538,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x21-3NqHtN {
+.calendar-event-3 .x21-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 60px;
@@ -1547,7 +1548,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-CB9lW0 {
+.calendar-event-3 .number-wzX4eg {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1561,7 +1562,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x20-3NqHtN {
+.calendar-event-3 .x20-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 30px;
@@ -1571,7 +1572,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-T7yIEc {
+.calendar-event-3 .number-Pi9clr {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1585,7 +1586,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x19-3NqHtN {
+.calendar-event-3 .x19-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 0px;
@@ -1595,7 +1596,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-kNMjDd {
+.calendar-event-3 .number-ditftN {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1609,7 +1610,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x18-3NqHtN {
+.calendar-event-3 .x18-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 180px;
@@ -1619,7 +1620,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-cC7vlD {
+.calendar-event-3 .number-iZfdTv {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1633,7 +1634,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x17-3NqHtN {
+.calendar-event-3 .x17-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 150px;
@@ -1643,7 +1644,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-x0Q5xY {
+.calendar-event-3 .number-ebDe8U {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1657,7 +1658,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x16-3NqHtN {
+.calendar-event-3 .x16-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 120px;
@@ -1667,7 +1668,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-JLnlxx {
+.calendar-event-3 .number-W7oqw5 {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1681,7 +1682,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x15-3NqHtN {
+.calendar-event-3 .x15-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 90px;
@@ -1691,7 +1692,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-nH8OiN {
+.calendar-event-3 .number-3a2EEc {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1705,7 +1706,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x14-3NqHtN {
+.calendar-event-3 .x14-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 60px;
@@ -1715,7 +1716,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-Wx5k1n {
+.calendar-event-3 .number-q4XheA {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1729,7 +1730,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x13-3NqHtN {
+.calendar-event-3 .x13-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 30px;
@@ -1739,7 +1740,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-3Q90WD {
+.calendar-event-3 .number-YVP5H9 {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1753,7 +1754,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x12-3NqHtN {
+.calendar-event-3 .x12-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 0px;
@@ -1763,7 +1764,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-17xhxE {
+.calendar-event-3 .number-9TT5d8 {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1777,7 +1778,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x11-3NqHtN {
+.calendar-event-3 .x11-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 180px;
@@ -1787,7 +1788,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-rObeox {
+.calendar-event-3 .number-CnSIl2 {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1801,7 +1802,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x10-3NqHtN {
+.calendar-event-3 .x10-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 150px;
@@ -1811,7 +1812,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-Ft0UAA {
+.calendar-event-3 .number-Yd10xw {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1825,7 +1826,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x9-3NqHtN {
+.calendar-event-3 .x9-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 120px;
@@ -1835,7 +1836,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-PFtH9O {
+.calendar-event-3 .number-3QcMHs {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1849,7 +1850,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x8-3NqHtN {
+.calendar-event-3 .x8-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 90px;
@@ -1859,7 +1860,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-sGkftB {
+.calendar-event-3 .number-zC3vNM {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1873,7 +1874,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x7-3NqHtN {
+.calendar-event-3 .x7-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 60px;
@@ -1883,7 +1884,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-0RRkj9 {
+.calendar-event-3 .number-65bcLx {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1897,7 +1898,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x6-3NqHtN {
+.calendar-event-3 .x6-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 30px;
@@ -1907,7 +1908,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-bAfYHX {
+.calendar-event-3 .number-x8X2g3 {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1921,7 +1922,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x5-3NqHtN {
+.calendar-event-3 .x5-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 0px;
@@ -1931,7 +1932,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-zEh8lP {
+.calendar-event-3 .number-YixFkt {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1945,7 +1946,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x4-3NqHtN {
+.calendar-event-3 .x4-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 180px;
@@ -1955,7 +1956,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-uZJxwt {
+.calendar-event-3 .number-r1Aqgd {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1969,7 +1970,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x3-3NqHtN {
+.calendar-event-3 .x3-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 150px;
@@ -1979,7 +1980,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-p11nfM {
+.calendar-event-3 .number-B73Wx7 {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -1993,7 +1994,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x2-3NqHtN {
+.calendar-event-3 .x2-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 120px;
@@ -2003,7 +2004,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-xWcxc5 {
+.calendar-event-3 .number-OxMHB8 {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -2017,7 +2018,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .numeral-3NqHtN {
+.calendar-event-3 .numeral-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 90px;
@@ -2027,7 +2028,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-d8BTWl {
+.calendar-event-3 .number-F2K81h {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -2041,7 +2042,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x30-first-3NqHtN {
+.calendar-event-3 .x30-first-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 60px;
@@ -2051,7 +2052,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-2dW1Nj {
+.calendar-event-3 .number-JAGpD8 {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -2065,7 +2066,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x29-first-3NqHtN {
+.calendar-event-3 .x29-first-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 30px;
@@ -2075,7 +2076,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-m20j1Q {
+.calendar-event-3 .number-MDyKD7 {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -2089,7 +2090,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .x28-first-3NqHtN {
+.calendar-event-3 .x28-first-sYVVQ0 {
   background-color: transparent;
   height: 24px;
   left: 0px;
@@ -2099,7 +2100,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .number-hjusjQ {
+.calendar-event-3 .number-xVlHux {
   background-color: transparent;
   height: 16px;
   left: 0px;
@@ -2113,7 +2114,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .days-zxtsJt {
+.calendar-event-3 .days-m3Yitg {
   background-color: transparent;
   height: 13px;
   left: 2px;
@@ -2122,7 +2123,7 @@
   width: 214px;
 }
 
-.calendar-event-12 .sat-7ZMeje {
+.calendar-event-3 .sat-rBb3ks {
   background-color: transparent;
   height: 12px;
   left: 180px;
@@ -2136,7 +2137,7 @@
   width: 20px;
 }
 
-.calendar-event-12 .fri-7ZMeje {
+.calendar-event-3 .fri-rBb3ks {
   background-color: transparent;
   height: 12px;
   left: 150px;
@@ -2150,7 +2151,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .thu-7ZMeje {
+.calendar-event-3 .thu-rBb3ks {
   background-color: transparent;
   height: 12px;
   left: 120px;
@@ -2164,7 +2165,7 @@
   width: 20px;
 }
 
-.calendar-event-12 .wed-7ZMeje {
+.calendar-event-3 .wed-rBb3ks {
   background-color: transparent;
   height: 9px;
   left: 90px;
@@ -2178,7 +2179,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .tue-7ZMeje {
+.calendar-event-3 .tue-rBb3ks {
   background-color: transparent;
   height: 12px;
   left: 62px;
@@ -2192,7 +2193,7 @@
   width: 20px;
 }
 
-.calendar-event-12 .mon-7ZMeje {
+.calendar-event-3 .mon-rBb3ks {
   background-color: transparent;
   height: 12px;
   left: 30px;
@@ -2206,7 +2207,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .sun-7ZMeje {
+.calendar-event-3 .sun-rBb3ks {
   background-color: transparent;
   height: 12px;
   left: 0px;
@@ -2220,7 +2221,7 @@
   width: 20px;
 }
 
-.calendar-event-12 .caption-zxtsJt {
+.calendar-event-3 .caption-m3Yitg {
   background-color: transparent;
   height: 18px;
   left: 2px;
@@ -2234,7 +2235,7 @@
   width: 202px;
 }
 
-.calendar-event-12 .chevron-down-zxtsJt {
+.calendar-event-3 .chevron-down-m3Yitg {
   background-color: transparent;
   height: 23px;
   left: 33px;
@@ -2244,7 +2245,7 @@
   width: 23px;
 }
 
-.calendar-event-12 .chevron-down-4wpXz6 {
+.calendar-event-3 .chevron-down-XJ7CAn {
   background-color: transparent;
   height: 23px;
   left: 181px;
@@ -2254,7 +2255,7 @@
   width: 23px;
 }
 
-.calendar-event-12 .top-panel-FxXeqP {
+.calendar-event-3 .top-panel-kkvJNx {
   background-color: transparent;
   height: 153px;
   left: 0px;
@@ -2263,7 +2264,7 @@
   width: 1440px;
 }
 
-.calendar-event-12 .rectangle-1-rH5FKh {
+.calendar-event-3 .rectangle-1-ChShkd {
   background-color: var(--gallery);
   height: 153px;
   left: 0px;
@@ -2273,7 +2274,7 @@
   width: 1440px;
 }
 
-.calendar-event-12 .search-bar-rH5FKh {
+.calendar-event-3 .search-bar-ChShkd {
   background-color: transparent;
   height: 31px;
   left: 370px;
@@ -2282,7 +2283,7 @@
   width: 352px;
 }
 
-.calendar-event-12 .rectangle-CbxXlV {
+.calendar-event-3 .rectangle-BhHkpy {
   background-color: transparent;
   height: 31px;
   left: 370px;
@@ -2292,7 +2293,7 @@
   width: 350px;
 }
 
-.calendar-event-12 .search-CbxXlV {
+.calendar-event-3 .search-BhHkpy {
   background-color: transparent;
   height: auto;
   left: 46px;
@@ -2305,7 +2306,7 @@
   width: auto;
 }
 
-.calendar-event-12 .icon-search-CbxXlV {
+.calendar-event-3 .icon-search-BhHkpy {
   background-color: transparent;
   height: 16px;
   left: 15px;
@@ -2315,7 +2316,7 @@
   width: 15px;
 }
 
-.calendar-event-12 .main-panel-rH5FKh {
+.calendar-event-3 .main-panel-ChShkd {
   background-color: transparent;
   height: 31px;
   left: 26px;
@@ -2324,7 +2325,7 @@
   width: 558px;
 }
 
-.calendar-event-12 .line-10-HQFUr0 {
+.calendar-event-3 .line-10-sZ7CFr {
   background-color: transparent;
   height: 2px;
   left: 86px;
@@ -2333,7 +2334,7 @@
   width: 74px;
 }
 
-.calendar-event-12 .file-HQFUr0 {
+.calendar-event-3 .file-sZ7CFr {
   background-color: transparent;
   height: auto;
   left: 0px;
@@ -2346,7 +2347,7 @@
   width: 74px;
 }
 
-.calendar-event-12 .home-HQFUr0 {
+.calendar-event-3 .home-sZ7CFr {
   background-color: transparent;
   height: auto;
   left: 86px;
@@ -2359,7 +2360,7 @@
   width: 74px;
 }
 
-.calendar-event-12 .view-HQFUr0 {
+.calendar-event-3 .view-sZ7CFr {
   background-color: transparent;
   height: auto;
   left: 300px;
@@ -2372,7 +2373,7 @@
   width: 74px;
 }
 
-.calendar-event-12 .help-HQFUr0 {
+.calendar-event-3 .help-sZ7CFr {
   background-color: transparent;
   height: auto;
   left: 386px;
@@ -2385,7 +2386,7 @@
   width: 74px;
 }
 
-.calendar-event-12 .acrobat-HQFUr0 {
+.calendar-event-3 .acrobat-sZ7CFr {
   background-color: transparent;
   height: auto;
   left: 472px;
@@ -2398,7 +2399,7 @@
   width: 74px;
 }
 
-.calendar-event-12 .send-receive-HQFUr0 {
+.calendar-event-3 .send-receive-sZ7CFr {
   background-color: transparent;
   height: auto;
   left: 172px;
@@ -2411,7 +2412,7 @@
   width: 133px;
 }
 
-.calendar-event-12 .fix-buttons-rH5FKh {
+.calendar-event-3 .fix-buttons-ChShkd {
   background-color: transparent;
   height: 52px;
   left: 1304px;
@@ -2420,7 +2421,7 @@
   width: 125px;
 }
 
-.calendar-event-12 .chromechrome-close-XYltMM {
+.calendar-event-3 .chromechrome-close-zBJVES {
   background-color: transparent;
   height: 16px;
   left: 105px;
@@ -2429,7 +2430,7 @@
   width: 16px;
 }
 
-.calendar-event-12 .chromechrome-restore-XYltMM {
+.calendar-event-3 .chromechrome-restore-zBJVES {
   background-color: transparent;
   height: 16px;
   left: 72px;
@@ -2438,7 +2439,7 @@
   width: 16px;
 }
 
-.calendar-event-12 .chromechrome-minimize-XYltMM {
+.calendar-event-3 .chromechrome-minimize-zBJVES {
   background-color: transparent;
   height: 16px;
   left: 39px;
@@ -2447,7 +2448,7 @@
   width: 16px;
 }
 
-.calendar-event-12 .base-XYltMM {
+.calendar-event-3 .base-zBJVES {
   background-color: var(--alabaster);
   border-radius: 999px;
   height: 20px;
@@ -2458,7 +2459,7 @@
   width: 58px;
 }
 
-.calendar-event-12 .thumb-XYltMM {
+.calendar-event-3 .thumb-zBJVES {
   background-color: var(--black-4);
   border-radius: 999px;
   height: 12px;
@@ -2469,7 +2470,7 @@
   width: 12px;
 }
 
-.calendar-event-12 .off-XYltMM {
+.calendar-event-3 .off-zBJVES {
   background-color: transparent;
   height: 10px;
   left: 88px;
@@ -2482,7 +2483,7 @@
   width: 20px;
 }
 
-.calendar-event-12 .try-it-now-XYltMM {
+.calendar-event-3 .try-it-now-zBJVES {
   background-color: transparent;
   height: 10px;
   left: 0px;
@@ -2495,7 +2496,7 @@
   width: 56px;
 }
 
-.calendar-event-12 .office-logos-rH5FKh {
+.calendar-event-3 .office-logos-ChShkd {
   background-color: transparent;
   height: 48px;
   left: 0px;
@@ -2506,7 +2507,7 @@
   width: 48px;
 }
 
-.calendar-event-12 .group-sh3qzW {
+.calendar-event-3 .group-xyiN5W {
   background-color: transparent;
   height: 48px;
   left: 0px;
@@ -2515,7 +2516,7 @@
   width: 48px;
 }
 
-.calendar-event-12 .outlook-AxzRTL {
+.calendar-event-3 .outlook-kceWqT {
   background-color: transparent;
   height: 29px;
   left: 9px;
@@ -2524,7 +2525,7 @@
   width: 33px;
 }
 
-.calendar-event-12 .x142-8yCecm {
+.calendar-event-3 .x142-X01xs4 {
   background-color: transparent;
   height: 29px;
   left: 0px;
@@ -2533,7 +2534,7 @@
   width: 33px;
 }
 
-.calendar-event-12 .group-GchCs1 {
+.calendar-event-3 .group-vcbZgk {
   background-color: transparent;
   height: 24px;
   left: 7px;
@@ -2544,7 +2545,7 @@
   width: 21px;
 }
 
-.calendar-event-12 .rectangle-Zp8uCr {
+.calendar-event-3 .rectangle-O52Vzo {
   background-color: transparent;
   height: 24px;
   left: 0px;
@@ -2554,7 +2555,7 @@
   width: 21px;
 }
 
-.calendar-event-12 .vector-Zp8uCr {
+.calendar-event-3 .vector-O52Vzo {
   background-color: transparent;
   height: 22px;
   left: 1px;
@@ -2564,7 +2565,7 @@
   width: 18px;
 }
 
-.calendar-event-12 .group-RIdNNl {
+.calendar-event-3 .group-xGARq6 {
   background-color: transparent;
   height: 23px;
   left: 7px;
@@ -2575,7 +2576,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .rectangle-Ehpirs {
+.calendar-event-3 .rectangle-nvkDno {
   background-color: transparent;
   height: 23px;
   left: 0px;
@@ -2585,7 +2586,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .vector-Ehpirs {
+.calendar-event-3 .vector-nvkDno {
   background-color: transparent;
   height: 22px;
   left: 1px;
@@ -2595,7 +2596,7 @@
   width: 18px;
 }
 
-.calendar-event-12 .vector-GchCs1 {
+.calendar-event-3 .vector-vcbZgk {
   background-color: transparent;
   height: 11px;
   left: 8px;
@@ -2605,7 +2606,7 @@
   width: 18px;
 }
 
-.calendar-event-12 .vector-RIdNNl {
+.calendar-event-3 .vector-xGARq6 {
   background-color: transparent;
   height: 5px;
   left: 9px;
@@ -2615,7 +2616,7 @@
   width: 5px;
 }
 
-.calendar-event-12 .vector-KDHUXL {
+.calendar-event-3 .vector-LCz3tK {
   background-color: transparent;
   height: 3px;
   left: 9px;
@@ -2625,7 +2626,7 @@
   width: 16px;
 }
 
-.calendar-event-12 .vector-7EMzH2 {
+.calendar-event-3 .vector-GPXGVx {
   background-color: transparent;
   height: 5px;
   left: 9px;
@@ -2635,7 +2636,7 @@
   width: 5px;
 }
 
-.calendar-event-12 .vector-mfVEUt {
+.calendar-event-3 .vector-mZ5A3C {
   background-color: transparent;
   height: 5px;
   left: 15px;
@@ -2645,7 +2646,7 @@
   width: 5px;
 }
 
-.calendar-event-12 .vector-6WmEaV {
+.calendar-event-3 .vector-gZACM3 {
   background-color: transparent;
   height: 5px;
   left: 20px;
@@ -2655,7 +2656,7 @@
   width: 5px;
 }
 
-.calendar-event-12 .vector-tCjEVX {
+.calendar-event-3 .vector-yBolhD {
   background-color: transparent;
   height: 5px;
   left: 20px;
@@ -2665,7 +2666,7 @@
   width: 5px;
 }
 
-.calendar-event-12 .vector-rDN068 {
+.calendar-event-3 .vector-O12w7Z {
   background-color: transparent;
   height: 5px;
   left: 15px;
@@ -2675,7 +2676,7 @@
   width: 5px;
 }
 
-.calendar-event-12 .vector-xauLm7 {
+.calendar-event-3 .vector-wLHxr8 {
   background-color: transparent;
   height: 5px;
   left: 15px;
@@ -2685,7 +2686,7 @@
   width: 5px;
 }
 
-.calendar-event-12 .vector-oWztxA {
+.calendar-event-3 .vector-pAjOcM {
   background-color: transparent;
   height: 5px;
   left: 9px;
@@ -2695,7 +2696,7 @@
   width: 5px;
 }
 
-.calendar-event-12 .vector-TKO4ov {
+.calendar-event-3 .vector-S1ixRU {
   background-color: transparent;
   height: 5px;
   left: 20px;
@@ -2705,7 +2706,7 @@
   width: 5px;
 }
 
-.calendar-event-12 .group-KDHUXL {
+.calendar-event-3 .group-LCz3tK {
   background-color: transparent;
   height: 24px;
   left: 1px;
@@ -2714,7 +2715,7 @@
   width: 32px;
 }
 
-.calendar-event-12 .envelope-Zx8Fug {
+.calendar-event-3 .envelope-hUCVnE {
   background-color: transparent;
   height: 24px;
   left: 0px;
@@ -2724,7 +2725,7 @@
   width: 32px;
 }
 
-.calendar-event-12 .group-6LOfKR {
+.calendar-event-3 .group-MxqPH0 {
   background-color: transparent;
   height: 24px;
   left: 0px;
@@ -2735,7 +2736,7 @@
   width: 32px;
 }
 
-.calendar-event-12 .rectangle-uOVLoN {
+.calendar-event-3 .rectangle-Q9potj {
   background-color: transparent;
   height: 24px;
   left: 11px;
@@ -2745,7 +2746,7 @@
   width: 32px;
 }
 
-.calendar-event-12 .vector-uOVLoN {
+.calendar-event-3 .vector-Q9potj {
   background-color: transparent;
   height: 11px;
   left: 7px;
@@ -2755,7 +2756,7 @@
   width: 18px;
 }
 
-.calendar-event-12 .envelope-ormRnS {
+.calendar-event-3 .envelope-qIX6r1 {
   background-color: transparent;
   height: 12px;
   left: 6px;
@@ -2765,7 +2766,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .group-f3lPw7 {
+.calendar-event-3 .group-YcXNIK {
   background-color: transparent;
   height: 12px;
   left: 0px;
@@ -2776,7 +2777,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .icon-mail-mkDJBP {
+.calendar-event-3 .icon-mail-SQD3ve {
   background-color: transparent;
   height: 12px;
   left: 0px;
@@ -2786,7 +2787,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .vector-mkDJBP {
+.calendar-event-3 .vector-SQD3ve {
   background-color: transparent;
   height: 11px;
   left: 1px;
@@ -2796,7 +2797,7 @@
   width: 18px;
 }
 
-.calendar-event-12 .envelope-GchCs1 {
+.calendar-event-3 .envelope-vcbZgk {
   background-color: transparent;
   height: 11px;
   left: 8px;
@@ -2806,7 +2807,7 @@
   width: 18px;
 }
 
-.calendar-event-12 .vector-sWx5IN {
+.calendar-event-3 .vector-dg8sal {
   background-color: transparent;
   height: 11px;
   left: 8px;
@@ -2816,7 +2817,7 @@
   width: 18px;
 }
 
-.calendar-event-12 .group-7EMzH2 {
+.calendar-event-3 .group-GPXGVx {
   background-color: transparent;
   height: 17px;
   left: 0px;
@@ -2825,7 +2826,7 @@
   width: 17px;
 }
 
-.calendar-event-12 .ambient-O9ADKd {
+.calendar-event-3 .ambient-k2pObP {
   background-color: transparent;
   height: 17px;
   left: 0px;
@@ -2834,7 +2835,7 @@
   width: 17px;
 }
 
-.calendar-event-12 .group-eHGNTN {
+.calendar-event-3 .group-omT8J6 {
   background-color: transparent;
   height: 17px;
   left: 0px;
@@ -2845,7 +2846,7 @@
   width: 17px;
 }
 
-.calendar-event-12 .rectangle-C2L36F {
+.calendar-event-3 .rectangle-h3lgDV {
   background-color: transparent;
   height: 17px;
   left: -0px;
@@ -2855,7 +2856,7 @@
   width: 17px;
 }
 
-.calendar-event-12 .vector-C2L36F {
+.calendar-event-3 .vector-h3lgDV {
   background-color: transparent;
   height: 12px;
   left: 2px;
@@ -2865,7 +2866,7 @@
   width: 12px;
 }
 
-.calendar-event-12 .group-tK4dCl {
+.calendar-event-3 .group-Sym6Bq {
   background-color: transparent;
   height: 13px;
   left: 2px;
@@ -2876,17 +2877,17 @@
   width: 13px;
 }
 
-.calendar-event-12 .rectangle-JE7trJ {
+.calendar-event-3 .rectangle-oZRGtf {
   background-color: transparent;
   height: 13px;
-  left: 0px;
+  left: -0px;
   mix-blend-mode: normal;
   position: absolute;
   top: -0px;
   width: 13px;
 }
 
-.calendar-event-12 .vector-JE7trJ {
+.calendar-event-3 .vector-oZRGtf {
   background-color: transparent;
   height: 12px;
   left: 0px;
@@ -2896,7 +2897,7 @@
   width: 12px;
 }
 
-.calendar-event-12 .vector-9oHyhO {
+.calendar-event-3 .vector-SfXq7z {
   background-color: transparent;
   height: 24px;
   left: 2px;
@@ -2905,7 +2906,7 @@
   width: 24px;
 }
 
-.calendar-event-12 .vector-vfW6mo {
+.calendar-event-3 .vector-zI1xi3 {
   background-color: transparent;
   height: 22px;
   left: 8px;
@@ -2915,7 +2916,7 @@
   width: 18px;
 }
 
-.calendar-event-12 .vector-gYySh8 {
+.calendar-event-3 .vector-PCxolq {
   background-color: transparent;
   height: 12px;
   left: 2px;
@@ -2925,7 +2926,7 @@
   width: 12px;
 }
 
-.calendar-event-12 .group-mfVEUt {
+.calendar-event-3 .group-mZ5A3C {
   background-color: transparent;
   height: 12px;
   left: 2px;
@@ -2935,7 +2936,7 @@
   width: 12px;
 }
 
-.calendar-event-12 .vector-Zz2pip {
+.calendar-event-3 .vector-8de8Cj {
   background-color: transparent;
   height: 7px;
   left: 5px;
@@ -2945,7 +2946,7 @@
   width: 6px;
 }
 
-.calendar-event-12 .trap-line-AxzRTL {
+.calendar-event-3 .trap-line-kceWqT {
   background-color: transparent;
   height: 48px;
   left: 0px;
@@ -2954,7 +2955,7 @@
   width: 48px;
 }
 
-.calendar-event-12 .email-panel-rH5FKh {
+.calendar-event-3 .email-panel-ChShkd {
   background-color: transparent;
   height: 52px;
   left: 17px;
@@ -2963,7 +2964,7 @@
   width: 1417px;
 }
 
-.calendar-event-12 .top-bar-X7fiEH {
+.calendar-event-3 .top-bar-RUxNHx {
   background-color: transparent;
   height: 52px;
   left: 17px;
@@ -2972,7 +2973,7 @@
   width: 1405px;
 }
 
-.calendar-event-12 .share-to-teams-X7fiEH {
+.calendar-event-3 .share-to-teams-RUxNHx {
   background-color: transparent;
   height: auto;
   left: 304px;
@@ -2985,7 +2986,7 @@
   width: 129px;
 }
 
-.calendar-event-12 .day-X7fiEH {
+.calendar-event-3 .day-RUxNHx {
   background-color: transparent;
   height: auto;
   left: 524px;
@@ -2998,7 +2999,7 @@
   width: 77px;
 }
 
-.calendar-event-12 .office-logos-X7fiEH {
+.calendar-event-3 .office-logos-RUxNHx {
   background-color: transparent;
   height: 50px;
   left: 259px;
@@ -3009,7 +3010,7 @@
   width: 50px;
 }
 
-.calendar-event-12 .group-RwNbNt {
+.calendar-event-3 .group-xBAxFx {
   background-color: transparent;
   height: 50px;
   left: 0px;
@@ -3018,7 +3019,7 @@
   width: 50px;
 }
 
-.calendar-event-12 .teams-nd5vqx {
+.calendar-event-3 .teams-Fr9oYO {
   background-color: transparent;
   height: 28px;
   left: 10px;
@@ -3027,7 +3028,7 @@
   width: 28px;
 }
 
-.calendar-event-12 .group-1APQIM {
+.calendar-event-3 .group-tYDi2U {
   background-color: transparent;
   height: 25px;
   left: 8px;
@@ -3038,17 +3039,17 @@
   width: 20px;
 }
 
-.calendar-event-12 .rectangle-PkqpxH {
+.calendar-event-3 .rectangle-Mv6gv9 {
   background-color: transparent;
   height: 25px;
-  left: -0px;
+  left: 0px;
   mix-blend-mode: normal;
   position: absolute;
   top: -0px;
   width: 20px;
 }
 
-.calendar-event-12 .vector-PkqpxH {
+.calendar-event-3 .vector-Mv6gv9 {
   background-color: transparent;
   height: 23px;
   left: 1px;
@@ -3058,7 +3059,7 @@
   width: 18px;
 }
 
-.calendar-event-12 .group-8lswKu {
+.calendar-event-3 .group-LsLnsL {
   background-color: transparent;
   height: 23px;
   left: 9px;
@@ -3069,7 +3070,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .rectangle-WRDpuG {
+.calendar-event-3 .rectangle-faDoD1 {
   background-color: transparent;
   height: 23px;
   left: -0px;
@@ -3079,7 +3080,7 @@
   width: 19px;
 }
 
-.calendar-event-12 .vector-WRDpuG {
+.calendar-event-3 .vector-faDoD1 {
   background-color: transparent;
   height: 23px;
   left: 0px;
@@ -3089,7 +3090,7 @@
   width: 18px;
 }
 
-.calendar-event-12 .vector-1APQIM {
+.calendar-event-3 .vector-tYDi2U {
   background-color: transparent;
   height: 23px;
   left: 9px;
@@ -3099,7 +3100,7 @@
   width: 18px;
 }
 
-.calendar-event-12 .body-1APQIM {
+.calendar-event-3 .body-tYDi2U {
   background-color: transparent;
   height: 11px;
   left: 19px;
@@ -3109,7 +3110,7 @@
   width: 8px;
 }
 
-.calendar-event-12 .head-1APQIM {
+.calendar-event-3 .head-tYDi2U {
   background-color: transparent;
   height: 5px;
   left: 21px;
@@ -3119,7 +3120,7 @@
   width: 5px;
 }
 
-.calendar-event-12 .head-8lswKu {
+.calendar-event-3 .head-LsLnsL {
   background-color: transparent;
   height: 7px;
   left: 12px;
@@ -3129,7 +3130,7 @@
   width: 7px;
 }
 
-.calendar-event-12 .group-xJtWem {
+.calendar-event-3 .group-urcWYo {
   background-color: transparent;
   height: 21px;
   left: 6px;
@@ -3138,7 +3139,7 @@
   width: 20px;
 }
 
-.calendar-event-12 .group-57bhUJ {
+.calendar-event-3 .group-SvIA4P {
   background-color: transparent;
   height: 19px;
   left: 1px;
@@ -3149,17 +3150,17 @@
   width: 18px;
 }
 
-.calendar-event-12 .rectangle-2IRA5V {
+.calendar-event-3 .rectangle-NoRK1Q {
   background-color: transparent;
   height: 19px;
-  left: 0px;
+  left: -0px;
   mix-blend-mode: normal;
   position: absolute;
   top: 0px;
   width: 18px;
 }
 
-.calendar-event-12 .vector-2IRA5V {
+.calendar-event-3 .vector-NoRK1Q {
   background-color: transparent;
   height: 14px;
   left: 3px;
@@ -3169,7 +3170,7 @@
   width: 13px;
 }
 
-.calendar-event-12 .group-gUmtJT {
+.calendar-event-3 .group-OAsi0j {
   background-color: transparent;
   height: 21px;
   left: 0px;
@@ -3180,7 +3181,7 @@
   width: 20px;
 }
 
-.calendar-event-12 .rectangle-PP852z {
+.calendar-event-3 .rectangle-XxsrHQ {
   background-color: transparent;
   height: 21px;
   left: 16px;
@@ -3190,7 +3191,7 @@
   width: 20px;
 }
 
-.calendar-event-12 .vector-PP852z {
+.calendar-event-3 .vector-XxsrHQ {
   background-color: transparent;
   height: 14px;
   left: 3px;
@@ -3200,7 +3201,7 @@
   width: 13px;
 }
 
-.calendar-event-12 .vector-8lswKu {
+.calendar-event-3 .vector-LsLnsL {
   background-color: transparent;
   height: 14px;
   left: 9px;
@@ -3210,7 +3211,7 @@
   width: 13px;
 }
 
-.calendar-event-12 .vector-xJtWem {
+.calendar-event-3 .vector-urcWYo {
   background-color: transparent;
   height: 25px;
   left: 2px;
@@ -3219,7 +3220,7 @@
   width: 25px;
 }
 
-.calendar-event-12 .group-hcGmOx {
+.calendar-event-3 .group-2dPo2p {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -3228,7 +3229,7 @@
   width: 18px;
 }
 
-.calendar-event-12 .ambient-djeT7l {
+.calendar-event-3 .ambient-B4JxU3 {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -3237,7 +3238,7 @@
   width: 18px;
 }
 
-.calendar-event-12 .group-RvuSgz {
+.calendar-event-3 .group-No1fnU {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -3248,17 +3249,17 @@
   width: 18px;
 }
 
-.calendar-event-12 .rectangle-dfmp7D {
+.calendar-event-3 .rectangle-E8GeuN {
   background-color: transparent;
   height: 18px;
-  left: 0px;
+  left: -0px;
   mix-blend-mode: normal;
   position: absolute;
   top: 0px;
   width: 18px;
 }
 
-.calendar-event-12 .vector-dfmp7D {
+.calendar-event-3 .vector-E8GeuN {
   background-color: transparent;
   height: 13px;
   left: 2px;
@@ -3268,7 +3269,7 @@
   width: 13px;
 }
 
-.calendar-event-12 .group-2wjV2n {
+.calendar-event-3 .group-hnV3Ei {
   background-color: transparent;
   height: 14px;
   left: 2px;
@@ -3279,7 +3280,7 @@
   width: 14px;
 }
 
-.calendar-event-12 .rectangle-AQLw0s {
+.calendar-event-3 .rectangle-PV7Ewj {
   background-color: transparent;
   height: 14px;
   left: 12px;
@@ -3289,7 +3290,7 @@
   width: 14px;
 }
 
-.calendar-event-12 .vector-AQLw0s {
+.calendar-event-3 .vector-PV7Ewj {
   background-color: transparent;
   height: 13px;
   left: 0px;
@@ -3299,7 +3300,7 @@
   width: 13px;
 }
 
-.calendar-event-12 .vector-hcGmOx {
+.calendar-event-3 .vector-2dPo2p {
   background-color: transparent;
   height: 13px;
   left: 2px;
@@ -3309,7 +3310,7 @@
   width: 13px;
 }
 
-.calendar-event-12 .group-tm9uBS {
+.calendar-event-3 .group-NxGl1j {
   background-color: transparent;
   height: 13px;
   left: 2px;
@@ -3319,7 +3320,7 @@
   width: 13px;
 }
 
-.calendar-event-12 .vector-tm9uBS {
+.calendar-event-3 .vector-NxGl1j {
   background-color: transparent;
   height: 7px;
   left: 6px;
@@ -3329,7 +3330,7 @@
   width: 6px;
 }
 
-.calendar-event-12 .trap-line-nd5vqx {
+.calendar-event-3 .trap-line-Fr9oYO {
   background-color: transparent;
   height: 50px;
   left: 0px;
@@ -3338,7 +3339,7 @@
   width: 50px;
 }
 
-.calendar-event-12 .icon-calendar-X7fiEH {
+.calendar-event-3 .icon-calendar-RUxNHx {
   background-color: transparent;
   height: 28px;
   left: 479px;
@@ -3348,7 +3349,7 @@
   width: 29px;
 }
 
-.calendar-event-12 .work-week-X7fiEH {
+.calendar-event-3 .work-week-RUxNHx {
   background-color: transparent;
   height: auto;
   left: 641px;
@@ -3361,7 +3362,7 @@
   width: 104px;
 }
 
-.calendar-event-12 .week-X7fiEH {
+.calendar-event-3 .week-RUxNHx {
   background-color: transparent;
   height: auto;
   left: 799px;
@@ -3374,7 +3375,7 @@
   width: 77px;
 }
 
-.calendar-event-12 .month-X7fiEH {
+.calendar-event-3 .month-RUxNHx {
   background-color: transparent;
   height: auto;
   left: 908px;
@@ -3387,7 +3388,7 @@
   width: 77px;
 }
 
-.calendar-event-12 .icon-calendar-d3fyxh {
+.calendar-event-3 .icon-calendar-yutuC4 {
   background-color: transparent;
   height: 28px;
   left: 863px;
@@ -3397,7 +3398,7 @@
   width: 29px;
 }
 
-.calendar-event-12 .icon-calendar-zbyP4H {
+.calendar-event-3 .icon-calendar-x4LvWS {
   background-color: transparent;
   height: 28px;
   left: 754px;
@@ -3407,7 +3408,7 @@
   width: 29px;
 }
 
-.calendar-event-12 .icon-calendar-Z4uIxR {
+.calendar-event-3 .icon-calendar-WrBMmf {
   background-color: transparent;
   height: 28px;
   left: 596px;
@@ -3417,7 +3418,7 @@
   width: 29px;
 }
 
-.calendar-event-12 .new-appointment-X7fiEH {
+.calendar-event-3 .new-appointment-RUxNHx {
   background-color: transparent;
   height: auto;
   left: 52px;
@@ -3430,7 +3431,7 @@
   width: 155px;
 }
 
-.calendar-event-12 .chevron-down-X7fiEH {
+.calendar-event-3 .chevron-down-RUxNHx {
   background-color: transparent;
   height: 17px;
   left: 215px;
@@ -3440,17 +3441,17 @@
   width: 17px;
 }
 
-.calendar-event-12 .icon-calendar-JbKxEJ {
+.calendar-event-3 .icon-calendar-5euEVm {
   background-color: transparent;
   height: 28px;
   left: 16px;
   mix-blend-mode: normal;
   position: absolute;
-  top: 14px;
+  top: 15px;
   width: 29px;
 }
 
-.calendar-event-12 .line-14-rH5FKh {
+.calendar-event-3 .line-14-ChShkd {
   background-color: transparent;
   height: 43px;
   left: 272px;
@@ -3459,7 +3460,7 @@
   width: 1px;
 }
 
-.calendar-event-12 .line-15-rH5FKh {
+.calendar-event-3 .line-15-ChShkd {
   background-color: transparent;
   height: 43px;
   left: 470px;
@@ -3468,7 +3469,7 @@
   width: 1px;
 }
 
-.calendar-event-12 .main-body-FxXeqP {
+.calendar-event-3 .main-body-kkvJNx {
   background-color: transparent;
   height: 836px;
   left: 251px;
@@ -3477,7 +3478,7 @@
   width: 1189px;
 }
 
-.calendar-event-12 .date-display-SFJlMP {
+.calendar-event-3 .date-display-iinfxn {
   background-color: transparent;
   height: 31px;
   left: 14px;
@@ -3486,7 +3487,7 @@
   width: 451px;
 }
 
-.calendar-event-12 .caption-dLvgEq {
+.calendar-event-3 .caption-iKqOeQ {
   background-color: transparent;
   height: 18px;
   left: 241px;
@@ -3500,7 +3501,7 @@
   width: 208px;
 }
 
-.calendar-event-12 .reply-all-button-dLvgEq {
+.calendar-event-3 .reply-all-button-iKqOeQ {
   background-color: transparent;
   height: 30px;
   left: 0px;
@@ -3509,7 +3510,7 @@
   width: 120px;
 }
 
-.calendar-event-12 .base-7I3e9E {
+.calendar-event-3 .base-Fxgt3e {
   align-items: center;
   background-color: var(--white-2);
   border: 1px solid transparent;
@@ -3527,14 +3528,14 @@
   width: 120px;
 }
 
-.calendar-event-12 .min-width-9tcsL8 {
+.calendar-event-3 .min-width-t4x3to {
   background-color: transparent;
   height: 1px;
   min-width: 96px;
   position: relative;
 }
 
-.calendar-event-12 .text-7I3e9E {
+.calendar-event-3 .text-Fxgt3e {
   background-color: transparent;
   height: auto;
   left: 39px;
@@ -3548,7 +3549,7 @@
   width: auto;
 }
 
-.calendar-event-12 .base-dLvgEq {
+.calendar-event-3 .base-iKqOeQ {
   align-items: center;
   background-color: var(--white-2);
   border: 1px solid transparent;
@@ -3566,7 +3567,7 @@
   width: 38px;
 }
 
-.calendar-event-12 .min-width-MhMkxj {
+.calendar-event-3 .min-width-BpRaMA {
   background-color: transparent;
   height: 1px;
   margin-left: -41px;
@@ -3576,7 +3577,7 @@
   position: relative;
 }
 
-.calendar-event-12 .chevron-down-MhMkxj {
+.calendar-event-3 .chevron-down-BpRaMA {
   background-color: transparent;
   height: 23px;
   margin-left: -4.5px;
@@ -3587,7 +3588,7 @@
   position: relative;
 }
 
-.calendar-event-12 .base-tRYrvA {
+.calendar-event-3 .base-xIbjVW {
   align-items: center;
   background-color: var(--white-2);
   border: 1px solid transparent;
@@ -3606,7 +3607,7 @@
   width: 38px;
 }
 
-.calendar-event-12 .min-width-5X6lfw {
+.calendar-event-3 .min-width-6ipEGK {
   background-color: transparent;
   height: 1px;
   margin-left: -41px;
@@ -3617,7 +3618,7 @@
   transform: rotate(1.00deg);
 }
 
-.calendar-event-12 .chevron-down-5X6lfw {
+.calendar-event-3 .chevron-down-6ipEGK {
   background-color: transparent;
   height: 23px;
   margin-left: -4.499894739128649px;
@@ -3629,7 +3630,7 @@
   transform: rotate(1.00deg);
 }
 
-.calendar-event-12 .display-button-SFJlMP {
+.calendar-event-3 .display-button-iinfxn {
   background-color: transparent;
   height: 28px;
   left: 834px;
@@ -3638,7 +3639,7 @@
   width: 309px;
 }
 
-.calendar-event-12 .caption-FObZCD {
+.calendar-event-3 .caption-MvEoub {
   background-color: transparent;
   height: 18px;
   left: 182px;
@@ -3652,7 +3653,7 @@
   width: 98px;
 }
 
-.calendar-event-12 .caption-TyxMca {
+.calendar-event-3 .caption-8Wxzn9 {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -3666,7 +3667,7 @@
   width: 98px;
 }
 
-.calendar-event-12 .icon-calendar-FObZCD {
+.calendar-event-3 .icon-calendar-MvEoub {
   background-color: transparent;
   height: 28px;
   left: 140px;
@@ -3676,7 +3677,7 @@
   width: 29px;
 }
 
-.calendar-event-12 .chevron-down-FObZCD {
+.calendar-event-3 .chevron-down-MvEoub {
   background-color: transparent;
   height: 23px;
   left: 282px;
@@ -3686,7 +3687,7 @@
   width: 23px;
 }
 
-.calendar-event-12 .polygon-1-FObZCD {
+.calendar-event-3 .polygon-1-MvEoub {
   background-color: transparent;
   height: 6px;
   left: 93px;
@@ -3696,7 +3697,7 @@
   width: 9px;
 }
 
-.calendar-event-12 .friday-SFJlMP {
+.calendar-event-3 .friday-iinfxn {
   background-color: transparent;
   height: 774px;
   left: 967px;
@@ -3705,7 +3706,7 @@
   width: 226px;
 }
 
-.calendar-event-12 .caption-3Xu0Kz {
+.calendar-event-3 .caption-1CcKE3 {
   background-color: transparent;
   height: 18px;
   left: 13px;
@@ -3719,7 +3720,7 @@
   width: 98px;
 }
 
-.calendar-event-12 .caption-6UdjPK {
+.calendar-event-3 .caption-Y0gdTy {
   background-color: transparent;
   height: 18px;
   left: 13px;
@@ -3733,7 +3734,7 @@
   width: 98px;
 }
 
-.calendar-event-12 .rectangle-37-3Xu0Kz {
+.calendar-event-3 .rectangle-37-1CcKE3 {
   background-color: transparent;
   height: 134px;
   left: 1218px;
@@ -3742,7 +3743,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-38-3Xu0Kz {
+.calendar-event-3 .rectangle-38-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3751,7 +3752,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-39-3Xu0Kz {
+.calendar-event-3 .rectangle-39-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3760,7 +3761,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-40-3Xu0Kz {
+.calendar-event-3 .rectangle-40-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3769,7 +3770,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-41-3Xu0Kz {
+.calendar-event-3 .rectangle-41-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3778,7 +3779,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-42-3Xu0Kz {
+.calendar-event-3 .rectangle-42-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3787,7 +3788,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-43-3Xu0Kz {
+.calendar-event-3 .rectangle-43-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3796,7 +3797,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-44-3Xu0Kz {
+.calendar-event-3 .rectangle-44-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3805,7 +3806,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-45-3Xu0Kz {
+.calendar-event-3 .rectangle-45-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3814,7 +3815,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-46-3Xu0Kz {
+.calendar-event-3 .rectangle-46-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3823,7 +3824,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-47-3Xu0Kz {
+.calendar-event-3 .rectangle-47-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3832,7 +3833,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-48-3Xu0Kz {
+.calendar-event-3 .rectangle-48-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3841,7 +3842,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-49-3Xu0Kz {
+.calendar-event-3 .rectangle-49-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3850,7 +3851,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-50-3Xu0Kz {
+.calendar-event-3 .rectangle-50-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3859,7 +3860,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-51-3Xu0Kz {
+.calendar-event-3 .rectangle-51-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3868,7 +3869,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-52-3Xu0Kz {
+.calendar-event-3 .rectangle-52-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3877,7 +3878,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-53-3Xu0Kz {
+.calendar-event-3 .rectangle-53-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3886,7 +3887,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-54-3Xu0Kz {
+.calendar-event-3 .rectangle-54-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3895,7 +3896,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-55-3Xu0Kz {
+.calendar-event-3 .rectangle-55-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3904,7 +3905,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-56-3Xu0Kz {
+.calendar-event-3 .rectangle-56-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3913,7 +3914,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-57-3Xu0Kz {
+.calendar-event-3 .rectangle-57-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3922,7 +3923,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-58-3Xu0Kz {
+.calendar-event-3 .rectangle-58-1CcKE3 {
   background-color: transparent;
   height: 34px;
   left: 1218px;
@@ -3931,7 +3932,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-36-3Xu0Kz {
+.calendar-event-3 .rectangle-36-1CcKE3 {
   background-color: transparent;
   height: 774px;
   left: 0px;
@@ -3940,7 +3941,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .thursday-SFJlMP {
+.calendar-event-3 .thursday-iinfxn {
   background-color: transparent;
   height: 774px;
   left: 747px;
@@ -3949,7 +3950,7 @@
   width: 226px;
 }
 
-.calendar-event-12 .caption-MGhm9l {
+.calendar-event-3 .caption-CyN33j {
   background-color: transparent;
   height: 18px;
   left: 13px;
@@ -3963,7 +3964,7 @@
   width: 98px;
 }
 
-.calendar-event-12 .caption-1xvWsx {
+.calendar-event-3 .caption-lfgK6v {
   background-color: transparent;
   height: 18px;
   left: 13px;
@@ -3977,7 +3978,7 @@
   width: 98px;
 }
 
-.calendar-event-12 .rectangle-37-MGhm9l {
+.calendar-event-3 .rectangle-37-CyN33j {
   background-color: transparent;
   height: 134px;
   left: 998px;
@@ -3986,7 +3987,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-38-MGhm9l {
+.calendar-event-3 .rectangle-38-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -3995,7 +3996,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-39-MGhm9l {
+.calendar-event-3 .rectangle-39-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4004,7 +4005,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-40-MGhm9l {
+.calendar-event-3 .rectangle-40-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4013,7 +4014,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-41-MGhm9l {
+.calendar-event-3 .rectangle-41-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4022,7 +4023,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-42-MGhm9l {
+.calendar-event-3 .rectangle-42-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4031,7 +4032,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-43-MGhm9l {
+.calendar-event-3 .rectangle-43-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4040,7 +4041,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-44-MGhm9l {
+.calendar-event-3 .rectangle-44-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4049,7 +4050,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-45-MGhm9l {
+.calendar-event-3 .rectangle-45-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4058,7 +4059,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-46-MGhm9l {
+.calendar-event-3 .rectangle-46-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4067,7 +4068,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-47-MGhm9l {
+.calendar-event-3 .rectangle-47-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4076,7 +4077,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-48-MGhm9l {
+.calendar-event-3 .rectangle-48-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4085,7 +4086,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-49-MGhm9l {
+.calendar-event-3 .rectangle-49-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4094,7 +4095,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-50-MGhm9l {
+.calendar-event-3 .rectangle-50-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4103,7 +4104,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-51-MGhm9l {
+.calendar-event-3 .rectangle-51-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4112,7 +4113,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-52-MGhm9l {
+.calendar-event-3 .rectangle-52-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4121,7 +4122,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-53-MGhm9l {
+.calendar-event-3 .rectangle-53-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4130,7 +4131,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-54-MGhm9l {
+.calendar-event-3 .rectangle-54-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4139,7 +4140,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-55-MGhm9l {
+.calendar-event-3 .rectangle-55-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4148,7 +4149,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-56-MGhm9l {
+.calendar-event-3 .rectangle-56-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4157,7 +4158,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-57-MGhm9l {
+.calendar-event-3 .rectangle-57-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4166,7 +4167,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-58-MGhm9l {
+.calendar-event-3 .rectangle-58-CyN33j {
   background-color: transparent;
   height: 34px;
   left: 998px;
@@ -4175,7 +4176,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-36-MGhm9l {
+.calendar-event-3 .rectangle-36-CyN33j {
   background-color: transparent;
   height: 774px;
   left: 0px;
@@ -4184,7 +4185,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .wednesday-SFJlMP {
+.calendar-event-3 .wednesday-iinfxn {
   background-color: transparent;
   height: 774px;
   left: 527px;
@@ -4193,7 +4194,7 @@
   width: 226px;
 }
 
-.calendar-event-12 .caption-qJwqgx {
+.calendar-event-3 .caption-QAISdj {
   background-color: transparent;
   height: 18px;
   left: 13px;
@@ -4207,7 +4208,7 @@
   width: 98px;
 }
 
-.calendar-event-12 .caption-25UTc1 {
+.calendar-event-3 .caption-hRrNp2 {
   background-color: transparent;
   height: 18px;
   left: 13px;
@@ -4221,7 +4222,7 @@
   width: 98px;
 }
 
-.calendar-event-12 .rectangle-37-qJwqgx {
+.calendar-event-3 .rectangle-37-QAISdj {
   background-color: transparent;
   height: 134px;
   left: 778px;
@@ -4230,7 +4231,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-38-qJwqgx {
+.calendar-event-3 .rectangle-38-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4239,7 +4240,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-39-qJwqgx {
+.calendar-event-3 .rectangle-39-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4248,7 +4249,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-40-qJwqgx {
+.calendar-event-3 .rectangle-40-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4257,7 +4258,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-41-qJwqgx {
+.calendar-event-3 .rectangle-41-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4266,7 +4267,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-42-qJwqgx {
+.calendar-event-3 .rectangle-42-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4275,7 +4276,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-43-qJwqgx {
+.calendar-event-3 .rectangle-43-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4284,7 +4285,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-44-qJwqgx {
+.calendar-event-3 .rectangle-44-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4293,7 +4294,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-45-qJwqgx {
+.calendar-event-3 .rectangle-45-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4302,7 +4303,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-46-qJwqgx {
+.calendar-event-3 .rectangle-46-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4311,7 +4312,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-47-qJwqgx {
+.calendar-event-3 .rectangle-47-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4320,7 +4321,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-48-qJwqgx {
+.calendar-event-3 .rectangle-48-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4329,7 +4330,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-49-qJwqgx {
+.calendar-event-3 .rectangle-49-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4338,7 +4339,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-50-qJwqgx {
+.calendar-event-3 .rectangle-50-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4347,7 +4348,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-51-qJwqgx {
+.calendar-event-3 .rectangle-51-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4356,7 +4357,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-52-qJwqgx {
+.calendar-event-3 .rectangle-52-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4365,7 +4366,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-53-qJwqgx {
+.calendar-event-3 .rectangle-53-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4374,7 +4375,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-54-qJwqgx {
+.calendar-event-3 .rectangle-54-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4383,7 +4384,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-55-qJwqgx {
+.calendar-event-3 .rectangle-55-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4392,7 +4393,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-56-qJwqgx {
+.calendar-event-3 .rectangle-56-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4401,7 +4402,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-57-qJwqgx {
+.calendar-event-3 .rectangle-57-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4410,7 +4411,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-58-qJwqgx {
+.calendar-event-3 .rectangle-58-QAISdj {
   background-color: transparent;
   height: 34px;
   left: 778px;
@@ -4419,7 +4420,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-36-qJwqgx {
+.calendar-event-3 .rectangle-36-QAISdj {
   background-color: transparent;
   height: 774px;
   left: 0px;
@@ -4428,7 +4429,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .tuesday-SFJlMP {
+.calendar-event-3 .tuesday-iinfxn {
   background-color: transparent;
   height: 774px;
   left: 307px;
@@ -4437,7 +4438,7 @@
   width: 226px;
 }
 
-.calendar-event-12 .caption-LXYbf1 {
+.calendar-event-3 .caption-V7BytC {
   background-color: transparent;
   height: 18px;
   left: 13px;
@@ -4451,7 +4452,7 @@
   width: 98px;
 }
 
-.calendar-event-12 .caption-EOaexR {
+.calendar-event-3 .caption-DNUg8G {
   background-color: transparent;
   height: 18px;
   left: 13px;
@@ -4465,7 +4466,7 @@
   width: 98px;
 }
 
-.calendar-event-12 .rectangle-37-LXYbf1 {
+.calendar-event-3 .rectangle-37-V7BytC {
   background-color: transparent;
   height: 134px;
   left: 558px;
@@ -4474,7 +4475,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-38-LXYbf1 {
+.calendar-event-3 .rectangle-38-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4483,7 +4484,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-39-LXYbf1 {
+.calendar-event-3 .rectangle-39-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4492,7 +4493,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-40-LXYbf1 {
+.calendar-event-3 .rectangle-40-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4501,7 +4502,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-41-LXYbf1 {
+.calendar-event-3 .rectangle-41-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4510,7 +4511,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-42-LXYbf1 {
+.calendar-event-3 .rectangle-42-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4519,7 +4520,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-43-LXYbf1 {
+.calendar-event-3 .rectangle-43-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4528,7 +4529,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-44-LXYbf1 {
+.calendar-event-3 .rectangle-44-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4537,7 +4538,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-45-LXYbf1 {
+.calendar-event-3 .rectangle-45-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4546,7 +4547,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-46-LXYbf1 {
+.calendar-event-3 .rectangle-46-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4555,7 +4556,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-47-LXYbf1 {
+.calendar-event-3 .rectangle-47-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4564,7 +4565,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-48-LXYbf1 {
+.calendar-event-3 .rectangle-48-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4573,7 +4574,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-49-LXYbf1 {
+.calendar-event-3 .rectangle-49-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4582,7 +4583,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-50-LXYbf1 {
+.calendar-event-3 .rectangle-50-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4591,7 +4592,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-51-LXYbf1 {
+.calendar-event-3 .rectangle-51-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4600,7 +4601,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-52-LXYbf1 {
+.calendar-event-3 .rectangle-52-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4609,7 +4610,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-53-LXYbf1 {
+.calendar-event-3 .rectangle-53-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4618,7 +4619,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-54-LXYbf1 {
+.calendar-event-3 .rectangle-54-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4627,7 +4628,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-55-LXYbf1 {
+.calendar-event-3 .rectangle-55-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4636,7 +4637,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-56-LXYbf1 {
+.calendar-event-3 .rectangle-56-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4645,7 +4646,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-57-LXYbf1 {
+.calendar-event-3 .rectangle-57-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4654,7 +4655,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-58-LXYbf1 {
+.calendar-event-3 .rectangle-58-V7BytC {
   background-color: transparent;
   height: 34px;
   left: 558px;
@@ -4663,7 +4664,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-36-LXYbf1 {
+.calendar-event-3 .rectangle-36-V7BytC {
   background-color: transparent;
   height: 774px;
   left: 0px;
@@ -4672,7 +4673,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .timing-SFJlMP {
+.calendar-event-3 .timing-iinfxn {
   background-color: transparent;
   height: 774px;
   left: 0px;
@@ -4681,7 +4682,7 @@
   width: 1187px;
 }
 
-.calendar-event-12 .monday-8gHJrM {
+.calendar-event-3 .monday-rm5rvT {
   background-color: transparent;
   height: 774px;
   left: 0px;
@@ -4690,7 +4691,7 @@
   width: 333px;
 }
 
-.calendar-event-12 .caption-gwtkQk {
+.calendar-event-3 .caption-NmEkc4 {
   background-color: transparent;
   height: 18px;
   left: 100px;
@@ -4704,7 +4705,7 @@
   width: 98px;
 }
 
-.calendar-event-12 .caption-m1EZPz {
+.calendar-event-3 .caption-rvkuFM {
   background-color: transparent;
   height: 18px;
   left: 100px;
@@ -4718,7 +4719,7 @@
   width: 98px;
 }
 
-.calendar-event-12 .caption-JDV3yg {
+.calendar-event-3 .caption-fAhqsx {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -4732,7 +4733,7 @@
   width: 68px;
 }
 
-.calendar-event-12 .caption-11xIxl {
+.calendar-event-3 .caption-6AF3ab {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -4746,7 +4747,7 @@
   width: 68px;
 }
 
-.calendar-event-12 .caption-HxhzDO {
+.calendar-event-3 .caption-Zg2oCz {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -4760,7 +4761,7 @@
   width: 68px;
 }
 
-.calendar-event-12 .caption-WKy1ua {
+.calendar-event-3 .caption-QCxXQw {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -4774,7 +4775,7 @@
   width: 68px;
 }
 
-.calendar-event-12 .caption-Ts4VDf {
+.calendar-event-3 .caption-xjNXik {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -4788,7 +4789,7 @@
   width: 68px;
 }
 
-.calendar-event-12 .caption-WCXg1j {
+.calendar-event-3 .caption-ffgt3S {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -4802,7 +4803,7 @@
   width: 68px;
 }
 
-.calendar-event-12 .caption-Yrvxy7 {
+.calendar-event-3 .caption-oQD0il {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -4816,7 +4817,7 @@
   width: 68px;
 }
 
-.calendar-event-12 .caption-WyIvFc {
+.calendar-event-3 .caption-7kufTV {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -4830,7 +4831,7 @@
   width: 68px;
 }
 
-.calendar-event-12 .caption-g5x1Z9 {
+.calendar-event-3 .caption-3mj2NM {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -4844,7 +4845,7 @@
   width: 68px;
 }
 
-.calendar-event-12 .caption-RUxE9p {
+.calendar-event-3 .caption-3uPezJ {
   background-color: transparent;
   height: 18px;
   left: 0px;
@@ -4858,7 +4859,7 @@
   width: 68px;
 }
 
-.calendar-event-12 .rectangle-37-gwtkQk {
+.calendar-event-3 .rectangle-37-NmEkc4 {
   background-color: transparent;
   height: 134px;
   left: 87px;
@@ -4867,7 +4868,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-38-gwtkQk {
+.calendar-event-3 .rectangle-38-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -4876,7 +4877,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-39-gwtkQk {
+.calendar-event-3 .rectangle-39-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -4885,7 +4886,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-40-gwtkQk {
+.calendar-event-3 .rectangle-40-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -4894,7 +4895,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-41-gwtkQk {
+.calendar-event-3 .rectangle-41-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -4903,7 +4904,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-42-gwtkQk {
+.calendar-event-3 .rectangle-42-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -4912,7 +4913,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-43-gwtkQk {
+.calendar-event-3 .rectangle-43-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -4921,7 +4922,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-44-gwtkQk {
+.calendar-event-3 .rectangle-44-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -4930,7 +4931,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-45-gwtkQk {
+.calendar-event-3 .rectangle-45-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -4939,7 +4940,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-46-gwtkQk {
+.calendar-event-3 .rectangle-46-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -4948,7 +4949,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-47-gwtkQk {
+.calendar-event-3 .rectangle-47-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -4957,7 +4958,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-48-gwtkQk {
+.calendar-event-3 .rectangle-48-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -4966,7 +4967,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-49-gwtkQk {
+.calendar-event-3 .rectangle-49-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -4975,7 +4976,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-50-gwtkQk {
+.calendar-event-3 .rectangle-50-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -4984,7 +4985,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-51-gwtkQk {
+.calendar-event-3 .rectangle-51-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -4993,7 +4994,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-52-gwtkQk {
+.calendar-event-3 .rectangle-52-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -5002,7 +5003,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-53-gwtkQk {
+.calendar-event-3 .rectangle-53-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -5011,7 +5012,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-54-gwtkQk {
+.calendar-event-3 .rectangle-54-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -5020,7 +5021,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-55-gwtkQk {
+.calendar-event-3 .rectangle-55-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -5029,7 +5030,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-56-gwtkQk {
+.calendar-event-3 .rectangle-56-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -5038,7 +5039,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-57-gwtkQk {
+.calendar-event-3 .rectangle-57-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -5047,7 +5048,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-58-gwtkQk {
+.calendar-event-3 .rectangle-58-NmEkc4 {
   background-color: transparent;
   height: 34px;
   left: 87px;
@@ -5056,7 +5057,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .rectangle-36-gwtkQk {
+.calendar-event-3 .rectangle-36-NmEkc4 {
   background-color: transparent;
   height: 774px;
   left: 87px;
@@ -5065,7 +5066,7 @@
   width: 222px;
 }
 
-.calendar-event-12 .line-16-8gHJrM {
+.calendar-event-3 .line-16-rm5rvT {
   background-color: transparent;
   height: 1px;
   left: 0px;
@@ -5074,7 +5075,7 @@
   width: 1187px;
 }
 
-.calendar-event-12 .line-17-8gHJrM {
+.calendar-event-3 .line-17-rm5rvT {
   background-color: transparent;
   height: 1px;
   left: 0px;
@@ -5083,7 +5084,7 @@
   width: 1187px;
 }
 
-.calendar-event-12 .line-18-8gHJrM {
+.calendar-event-3 .line-18-rm5rvT {
   background-color: transparent;
   height: 1px;
   left: 0px;
@@ -5092,7 +5093,7 @@
   width: 1187px;
 }
 
-.calendar-event-12 .line-19-8gHJrM {
+.calendar-event-3 .line-19-rm5rvT {
   background-color: transparent;
   height: 1px;
   left: 0px;
@@ -5101,7 +5102,7 @@
   width: 1187px;
 }
 
-.calendar-event-12 .line-20-8gHJrM {
+.calendar-event-3 .line-20-rm5rvT {
   background-color: transparent;
   height: 1px;
   left: 0px;
@@ -5110,7 +5111,7 @@
   width: 1187px;
 }
 
-.calendar-event-12 .line-21-8gHJrM {
+.calendar-event-3 .line-21-rm5rvT {
   background-color: transparent;
   height: 1px;
   left: 0px;
@@ -5119,7 +5120,7 @@
   width: 1187px;
 }
 
-.calendar-event-12 .line-22-8gHJrM {
+.calendar-event-3 .line-22-rm5rvT {
   background-color: transparent;
   height: 1px;
   left: 0px;
@@ -5128,7 +5129,7 @@
   width: 1187px;
 }
 
-.calendar-event-12 .line-23-8gHJrM {
+.calendar-event-3 .line-23-rm5rvT {
   background-color: transparent;
   height: 1px;
   left: 0px;
@@ -5137,7 +5138,7 @@
   width: 1187px;
 }
 
-.calendar-event-12 .line-24-8gHJrM {
+.calendar-event-3 .line-24-rm5rvT {
   background-color: transparent;
   height: 1px;
   left: 0px;
@@ -5146,7 +5147,7 @@
   width: 1187px;
 }
 
-.calendar-event-12 .line-25-8gHJrM {
+.calendar-event-3 .line-25-rm5rvT {
   background-color: transparent;
   height: 1px;
   left: 0px;
@@ -5155,63 +5156,16 @@
   width: 1187px;
 }
 
-.calendar-event-12 .event-1-FxXeqP {
-  background-color: transparent;
-  height: 115px;
-  left: 785px;
-  position: absolute;
-  top: 518px;
-  width: 212px;
-}
-
-.calendar-event-12 .rectangle-59-1IgZwT {
-  background-color: var(--hawkes-blue);
-  height: 115px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  width: 208px;
-}
-
-.calendar-event-12 .caption-1IgZwT {
-  background-color: transparent;
-  height: 18px;
-  left: 8px;
-  letter-spacing: 0.12px;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 7px;
-  white-space: nowrap;
-  width: 186px;
-}
-
-.calendar-event-12 .caption-WzeLzz {
-  background-color: transparent;
-  height: 18px;
-  left: 8px;
-  letter-spacing: 0.12px;
-  line-height: 24px;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 25px;
-  white-space: nowrap;
-  width: 186px;
-}
-
-.calendar-event-12 .event-2-FxXeqP {
+.calendar-event-3 .event-2-kkvJNx {
   background-color: transparent;
   height: 245px;
   left: 1225px;
   position: absolute;
-  top: 837px;
+  top: 773px;
   width: 212px;
 }
 
-.calendar-event-12 .rectangle-60-J9XSCH {
+.calendar-event-3 .rectangle-60-t4Q7Y6 {
   background-color: var(--hawkes-blue);
   height: 245px;
   left: 0px;
@@ -5221,7 +5175,7 @@
   width: 208px;
 }
 
-.calendar-event-12 .caption-J9XSCH {
+.calendar-event-3 .caption-t4Q7Y6 {
   background-color: transparent;
   height: 18px;
   left: 8px;
@@ -5235,7 +5189,7 @@
   width: 186px;
 }
 
-.calendar-event-12 .caption-J11lIg {
+.calendar-event-3 .caption-M7VwSn {
   background-color: transparent;
   height: 47px;
   left: 8px;

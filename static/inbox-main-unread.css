@@ -2358,27 +2358,40 @@
 .inbox-main-unread .rectangle-o54YaF {
   background-color: transparent;
   height: 81px;
-  left: 5px;
+  left: 4px;
   mix-blend-mode: normal;
   position: absolute;
-  top: 157px;
+  top: 236px;
   width: 333px;
 }
 
 .inbox-main-unread .wed-732-am-zNkcoB {
   background-color: transparent;
   height: auto;
-  left: 250px;
+  left: 249px;
   letter-spacing: 0.00px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 189px;
+  top: 268px;
   width: auto;
 }
 
 .inbox-main-unread .student-government-president-zNkcoB {
+  background-color: transparent;
+  height: auto;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 244px;
+  width: 288px;
+}
+
+.inbox-main-unread .x10th-cabinet-roadmap-zNkcoB {
   background-color: transparent;
   height: auto;
   left: 16px;
@@ -2387,33 +2400,20 @@
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 165px;
-  width: 288px;
-}
-
-.inbox-main-unread .x10th-cabinet-roadmap-zNkcoB {
-  background-color: transparent;
-  height: auto;
-  left: 17px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 188px;
+  top: 267px;
   width: 221px;
 }
 
 .inbox-main-unread .dear-sutd-family-zNkcoB {
   background-color: transparent;
   height: auto;
-  left: 17px;
+  left: 16px;
   letter-spacing: 0.00px;
   line-height: normal;
   mix-blend-mode: normal;
   position: absolute;
   text-align: left;
-  top: 211px;
+  top: 290px;
   width: 221px;
 }
 
@@ -2426,68 +2426,6 @@
   width: 336px;
 }
 
-.inbox-main-unread .rectangle-OgleXT {
-  background-color: transparent;
-  height: 81px;
-  left: 5px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 238px;
-  width: 333px;
-}
-
-.inbox-main-unread .wed-732-am-o54YaF {
-  background-color: transparent;
-  height: auto;
-  left: 250px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 270px;
-  width: auto;
-}
-
-.inbox-main-unread .lorem-ipsum-zNkcoB {
-  background-color: transparent;
-  height: auto;
-  left: 16px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 246px;
-  width: 226px;
-}
-
-.inbox-main-unread .subject-zNkcoB {
-  background-color: transparent;
-  height: auto;
-  left: 17px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 269px;
-  width: 221px;
-}
-
-.inbox-main-unread .subject-o54YaF {
-  background-color: transparent;
-  height: auto;
-  left: 17px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  mix-blend-mode: normal;
-  position: absolute;
-  text-align: left;
-  top: 292px;
-  width: 221px;
-}
-
 .inbox-main-unread .line-2-OgleXT {
   background-color: transparent;
   height: 1px;
@@ -2497,7 +2435,7 @@
   width: 336px;
 }
 
-.inbox-main-unread .rectangle-8kbZBM {
+.inbox-main-unread .rectangle-OgleXT {
   background-color: transparent;
   height: 81px;
   left: 6px;
@@ -2507,7 +2445,7 @@
   width: 333px;
 }
 
-.inbox-main-unread .wed-732-am-OgleXT {
+.inbox-main-unread .wed-732-am-o54YaF {
   background-color: transparent;
   height: auto;
   left: 251px;
@@ -2520,7 +2458,7 @@
   width: auto;
 }
 
-.inbox-main-unread .lorem-ipsum-o54YaF {
+.inbox-main-unread .lorem-ipsum-zNkcoB {
   background-color: transparent;
   height: auto;
   left: 17px;
@@ -2533,7 +2471,7 @@
   width: 226px;
 }
 
-.inbox-main-unread .subject-OgleXT {
+.inbox-main-unread .subject-zNkcoB {
   background-color: transparent;
   height: auto;
   left: 18px;
@@ -2546,7 +2484,7 @@
   width: 221px;
 }
 
-.inbox-main-unread .subject-8kbZBM {
+.inbox-main-unread .subject-o54YaF {
   background-color: transparent;
   height: auto;
   left: 18px;
@@ -2568,7 +2506,7 @@
   width: 336px;
 }
 
-.inbox-main-unread .rectangle-u8jhHk {
+.inbox-main-unread .rectangle-8kbZBM {
   background-color: transparent;
   height: 81px;
   left: 6px;
@@ -2578,7 +2516,7 @@
   width: 333px;
 }
 
-.inbox-main-unread .wed-732-am-8kbZBM {
+.inbox-main-unread .wed-732-am-OgleXT {
   background-color: transparent;
   height: auto;
   left: 251px;
@@ -2591,7 +2529,7 @@
   width: auto;
 }
 
-.inbox-main-unread .lorem-ipsum-OgleXT {
+.inbox-main-unread .lorem-ipsum-o54YaF {
   background-color: transparent;
   height: auto;
   left: 17px;
@@ -2604,7 +2542,7 @@
   width: 226px;
 }
 
-.inbox-main-unread .subject-u8jhHk {
+.inbox-main-unread .subject-OgleXT {
   background-color: transparent;
   height: auto;
   left: 18px;
@@ -2617,7 +2555,7 @@
   width: 221px;
 }
 
-.inbox-main-unread .subject-eVU0qH {
+.inbox-main-unread .subject-8kbZBM {
   background-color: transparent;
   height: auto;
   left: 18px;
@@ -2639,7 +2577,7 @@
   width: 336px;
 }
 
-.inbox-main-unread .rectangle-eVU0qH {
+.inbox-main-unread .rectangle-u8jhHk {
   background-color: transparent;
   height: 81px;
   left: 11px;
@@ -2649,7 +2587,7 @@
   width: 333px;
 }
 
-.inbox-main-unread .wed-732-am-u8jhHk {
+.inbox-main-unread .wed-732-am-8kbZBM {
   background-color: transparent;
   height: auto;
   left: 256px;
@@ -2662,7 +2600,7 @@
   width: auto;
 }
 
-.inbox-main-unread .lorem-ipsum-8kbZBM {
+.inbox-main-unread .lorem-ipsum-OgleXT {
   background-color: transparent;
   height: auto;
   left: 22px;
@@ -2675,7 +2613,7 @@
   width: 226px;
 }
 
-.inbox-main-unread .subject-2DgEFE {
+.inbox-main-unread .subject-u8jhHk {
   background-color: transparent;
   height: auto;
   left: 23px;
@@ -2688,7 +2626,7 @@
   width: 221px;
 }
 
-.inbox-main-unread .subject-3HkYyh {
+.inbox-main-unread .subject-eVU0qH {
   background-color: transparent;
   height: auto;
   left: 23px;
@@ -2710,7 +2648,7 @@
   width: 336px;
 }
 
-.inbox-main-unread .rectangle-2DgEFE {
+.inbox-main-unread .rectangle-eVU0qH {
   background-color: transparent;
   height: 81px;
   left: 11px;
@@ -2720,7 +2658,7 @@
   width: 333px;
 }
 
-.inbox-main-unread .wed-732-am-eVU0qH {
+.inbox-main-unread .wed-732-am-u8jhHk {
   background-color: transparent;
   height: auto;
   left: 256px;
@@ -2733,7 +2671,7 @@
   width: auto;
 }
 
-.inbox-main-unread .lorem-ipsum-u8jhHk {
+.inbox-main-unread .lorem-ipsum-8kbZBM {
   background-color: transparent;
   height: auto;
   left: 22px;
@@ -2746,7 +2684,7 @@
   width: 226px;
 }
 
-.inbox-main-unread .subject-UfMoU1 {
+.inbox-main-unread .subject-2DgEFE {
   background-color: transparent;
   height: auto;
   left: 23px;
@@ -2759,7 +2697,7 @@
   width: 221px;
 }
 
-.inbox-main-unread .subject-EsmsUT {
+.inbox-main-unread .subject-3HkYyh {
   background-color: transparent;
   height: auto;
   left: 23px;
@@ -2781,7 +2719,7 @@
   width: 336px;
 }
 
-.inbox-main-unread .rectangle-3HkYyh {
+.inbox-main-unread .rectangle-2DgEFE {
   background-color: transparent;
   height: 81px;
   left: 12px;
@@ -2791,7 +2729,7 @@
   width: 333px;
 }
 
-.inbox-main-unread .wed-732-am-2DgEFE {
+.inbox-main-unread .wed-732-am-eVU0qH {
   background-color: transparent;
   height: auto;
   left: 257px;
@@ -2804,7 +2742,7 @@
   width: auto;
 }
 
-.inbox-main-unread .lorem-ipsum-eVU0qH {
+.inbox-main-unread .lorem-ipsum-u8jhHk {
   background-color: transparent;
   height: auto;
   left: 23px;
@@ -2817,7 +2755,7 @@
   width: 226px;
 }
 
-.inbox-main-unread .subject-V2rjqX {
+.inbox-main-unread .subject-UfMoU1 {
   background-color: transparent;
   height: auto;
   left: 24px;
@@ -2830,7 +2768,7 @@
   width: 221px;
 }
 
-.inbox-main-unread .subject-ILuhC5 {
+.inbox-main-unread .subject-EsmsUT {
   background-color: transparent;
   height: auto;
   left: 24px;
@@ -2852,7 +2790,7 @@
   width: 336px;
 }
 
-.inbox-main-unread .rectangle-UfMoU1 {
+.inbox-main-unread .rectangle-3HkYyh {
   background-color: transparent;
   height: 81px;
   left: 12px;
@@ -2862,7 +2800,7 @@
   width: 333px;
 }
 
-.inbox-main-unread .wed-732-am-3HkYyh {
+.inbox-main-unread .wed-732-am-2DgEFE {
   background-color: transparent;
   height: auto;
   left: 257px;
@@ -2875,7 +2813,7 @@
   width: auto;
 }
 
-.inbox-main-unread .lorem-ipsum-2DgEFE {
+.inbox-main-unread .lorem-ipsum-eVU0qH {
   background-color: transparent;
   height: auto;
   left: 23px;
@@ -2888,7 +2826,7 @@
   width: 226px;
 }
 
-.inbox-main-unread .subject-hmHQSQ {
+.inbox-main-unread .subject-V2rjqX {
   background-color: transparent;
   height: auto;
   left: 24px;
@@ -2901,7 +2839,7 @@
   width: 221px;
 }
 
-.inbox-main-unread .subject-tbdaHG {
+.inbox-main-unread .subject-ILuhC5 {
   background-color: transparent;
   height: auto;
   left: 24px;
@@ -2923,7 +2861,7 @@
   width: 336px;
 }
 
-.inbox-main-unread .rectangle-EsmsUT {
+.inbox-main-unread .rectangle-UfMoU1 {
   background-color: transparent;
   height: 66px;
   left: 11px;
@@ -2933,7 +2871,7 @@
   width: 333px;
 }
 
-.inbox-main-unread .wed-732-am-UfMoU1 {
+.inbox-main-unread .wed-732-am-3HkYyh {
   background-color: transparent;
   height: auto;
   left: 256px;
@@ -2946,7 +2884,7 @@
   width: 74px;
 }
 
-.inbox-main-unread .lorem-ipsum-3HkYyh {
+.inbox-main-unread .lorem-ipsum-2DgEFE {
   background-color: transparent;
   height: auto;
   left: 22px;
@@ -2959,7 +2897,7 @@
   width: 226px;
 }
 
-.inbox-main-unread .subject-aw1YWj {
+.inbox-main-unread .subject-hmHQSQ {
   background-color: transparent;
   height: auto;
   left: 23px;
@@ -2972,7 +2910,7 @@
   width: 221px;
 }
 
-.inbox-main-unread .subject-b48BPl {
+.inbox-main-unread .subject-tbdaHG {
   background-color: transparent;
   height: auto;
   left: 23px;
@@ -3041,5 +2979,79 @@
   mix-blend-mode: normal;
   position: absolute;
   top: 74px;
+  width: 7px;
+}
+
+.inbox-main-unread .rectangle-EsmsUT {
+  background-color: transparent;
+  height: 81px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 164px;
+  width: 333px;
+}
+
+.inbox-main-unread .welcome-onboard-the-for-zNkcoB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 195px;
+  width: 221px;
+}
+
+.inbox-main-unread .dear-crystal-o54YaF {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: 221px;
+}
+
+.inbox-main-unread .wed-449-pm-zNkcoB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 250px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 196px;
+  width: auto;
+}
+
+.inbox-main-unread .rebecca-tan-zNkcoB {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 172px;
+  width: 226px;
+}
+
+.inbox-main-unread .rectangle-65-zNkcoB {
+  background-color: var(--lochmara);
+  height: 88px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 162px;
   width: 7px;
 }

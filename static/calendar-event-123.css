@@ -1,0 +1,5295 @@
+/* screen - calendar-event-123 */
+
+.calendar-event-123 {
+  background-color: var(--white);
+  height: 1024px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.calendar-event-123 .left-panel-8ljLLo {
+  background-color: transparent;
+  height: 871px;
+  left: 0px;
+  position: absolute;
+  top: 153px;
+  width: 224px;
+}
+
+.calendar-event-123 .rectangle-2-6A7WVA {
+  background-color: var(--cultured-pearl);
+  height: 871px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.calendar-event-123 .bottom-bar-6A7WVA {
+  background-color: transparent;
+  height: 29px;
+  left: 10px;
+  position: absolute;
+  top: 830px;
+  width: 184px;
+}
+
+.calendar-event-123 .icon-mail-jOy1yH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 29px;
+}
+
+.calendar-event-123 .icon-calendar-jOy1yH {
+  background-color: transparent;
+  height: 28px;
+  left: 54px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 29px;
+}
+
+.calendar-event-123 .icon-more-jOy1yH {
+  background-color: transparent;
+  height: 4px;
+  left: 158px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 26px;
+}
+
+.calendar-event-123 .icon-group-jOy1yH {
+  background-color: transparent;
+  height: 28px;
+  left: 108px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.calendar-event-123 .line-11-6A7WVA {
+  background-color: transparent;
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 812px;
+  width: 208px;
+}
+
+.calendar-event-123 .chevron-down-6A7WVA {
+  background-color: transparent;
+  height: 23px;
+  left: 194px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 23px;
+}
+
+.calendar-event-123 .line-2-6A7WVA {
+  background-color: transparent;
+  height: 2px;
+  left: 9px;
+  position: absolute;
+  top: 573px;
+  width: 208px;
+}
+
+.calendar-event-123 .calendar-filter-6A7WVA {
+  background-color: transparent;
+  height: 112px;
+  left: 7px;
+  position: absolute;
+  top: 579px;
+  width: 220px;
+}
+
+.calendar-event-123 .caption-Fp4wU2 {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 202px;
+}
+
+.calendar-event-123 .rectangle-27-Fp4wU2 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 19px;
+  left: 23px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.calendar-event-123 .rectangle-31-Fp4wU2 {
+  background-color: var(--chicago);
+  border-radius: 2px;
+  height: 15px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 15px;
+}
+
+.calendar-event-123 .caption-wPKOPK {
+  background-color: transparent;
+  height: 18px;
+  left: 67px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.calendar-event-123 .rectangle-28-Fp4wU2 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 19px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 31px;
+  width: 19px;
+}
+
+.calendar-event-123 .caption-dpFHKg {
+  background-color: transparent;
+  height: 18px;
+  left: 67px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 63px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.calendar-event-123 .rectangle-29-Fp4wU2 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 19px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 62px;
+  width: 19px;
+}
+
+.calendar-event-123 .caption-WuOz3T {
+  background-color: transparent;
+  height: 18px;
+  left: 67px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 94px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.calendar-event-123 .rectangle-30-Fp4wU2 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 19px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 93px;
+  width: 19px;
+}
+
+.calendar-event-123 .vector-Fp4wU2 {
+  background-color: transparent;
+  height: 7px;
+  left: 4px;
+  position: absolute;
+  top: 7px;
+  width: 12px;
+}
+
+.calendar-event-123 .icon-check_mark-Fp4wU2 {
+  background-color: transparent;
+  height: 14px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 66px;
+  width: 19px;
+}
+
+.calendar-event-123 .rectangle-61-6A7WVA {
+  background-color: var(--pattens-blue);
+  height: 26px;
+  left: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 207px;
+  width: 151px;
+}
+
+.calendar-event-123 .july-2022-6A7WVA {
+  background-color: transparent;
+  height: 213px;
+  left: 10px;
+  position: absolute;
+  top: 50px;
+  width: 206px;
+}
+
+.calendar-event-123 .date-c7Jfr6 {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  position: absolute;
+  top: 63px;
+  width: 204px;
+}
+
+.calendar-event-123 .x1-second-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 126px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-ivSZvq {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x31-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 150px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 126px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-6qWWlU {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x30-second-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 126px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-XaPpyG {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x29-second-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 90px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 126px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-SxmMT9 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x28-second-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 126px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-CVAeBn {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x27-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 126px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-h5ajox {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x26-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 126px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-x9Cxb9 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x25-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-xWyrR0 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x24-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 150px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-TkKTsk {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x23-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-p5RGsZ {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x22-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 90px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-YekxPU {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x21-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-gdzAn4 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x20-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-tdfzcm {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x19-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-PO6lyu {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x18-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-dISALA {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x17-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 150px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-JOsylb {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x16-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-xr9YcC {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x15-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 90px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-8WxNox {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x14-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-3kf1Sz {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x13-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-uF6DvV {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x12-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-VmNjj0 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x11-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-ADQdaI {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x10-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 150px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-8Qj8J9 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x9-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-qqNriD {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x8-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 90px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-Ts3inU {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x7-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-zdtQwU {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x6-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-Y83cHh {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x5-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-tsw2PG {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x4-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-DMPGBM {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x3-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 150px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-BRFDyO {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x2-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-lmuoF2 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .numeral-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 90px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-5v2dSO {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x30-first-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-SwqvS1 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x29-first-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-l7CBta {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x28-first-VvxN68 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-M1xvHJ {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .days-c7Jfr6 {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  position: absolute;
+  top: 36px;
+  width: 214px;
+}
+
+.calendar-event-123 .sat-qvHjGX {
+  background-color: transparent;
+  height: 12px;
+  left: 180px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 20px;
+}
+
+.calendar-event-123 .fri-qvHjGX {
+  background-color: transparent;
+  height: 12px;
+  left: 150px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.calendar-event-123 .thu-qvHjGX {
+  background-color: transparent;
+  height: 12px;
+  left: 120px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 20px;
+}
+
+.calendar-event-123 .wed-qvHjGX {
+  background-color: transparent;
+  height: 9px;
+  left: 90px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.calendar-event-123 .tue-qvHjGX {
+  background-color: transparent;
+  height: 12px;
+  left: 62px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 20px;
+}
+
+.calendar-event-123 .mon-qvHjGX {
+  background-color: transparent;
+  height: 12px;
+  left: 30px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.calendar-event-123 .sun-qvHjGX {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 20px;
+}
+
+.calendar-event-123 .caption-c7Jfr6 {
+  background-color: transparent;
+  height: 18px;
+  left: 2px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 202px;
+}
+
+.calendar-event-123 .chevron-down-c7Jfr6 {
+  background-color: transparent;
+  height: 23px;
+  left: 33px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 203px;
+  width: 23px;
+}
+
+.calendar-event-123 .chevron-down-PBee8e {
+  background-color: transparent;
+  height: 23px;
+  left: 181px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 226px;
+  width: 23px;
+}
+
+.calendar-event-123 .august-2022-6A7WVA {
+  background-color: transparent;
+  height: 213px;
+  left: 10px;
+  position: absolute;
+  top: 316px;
+  width: 206px;
+}
+
+.calendar-event-123 .date-6taawZ {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  position: absolute;
+  top: 63px;
+  width: 204px;
+}
+
+.calendar-event-123 .x1-second-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 126px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-qUTu91 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x31-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 150px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 126px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-BZm7Yw {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x30-second-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 126px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-lpp4rE {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x29-second-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 90px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 126px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-x4Dmk6 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x28-second-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 126px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-eHlyRn {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x27-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 126px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-z5GxA9 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x26-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 126px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-Y6ze6B {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x25-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-YtQext {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x24-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 150px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-C2ZL2A {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x23-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-RnSDha {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x22-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 90px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-kU2hPW {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x21-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-uWdqQ1 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x20-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-eacVfO {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x19-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 94px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-faaddU {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x18-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-0V6FxP {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x17-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 150px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-bpOS1B {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x16-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-vWB5Yh {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x15-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 90px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-6pp1FF {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x14-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-YRK2oI {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x13-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-NgIW1p {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x12-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-9Pez8Y {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x11-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-8Iav6m {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x10-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 150px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-x0Psun {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x9-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-xRmS7t {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x8-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 90px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-gr5ATA {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x7-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-6u8rCp {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x6-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-awAMcn {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x5-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 32px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-rifl3Y {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x4-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 180px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-Yyo66j {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x3-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 150px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-AMW5Fq {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x2-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 120px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-7IVxhd {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .numeral-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 90px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-zIFTM5 {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x30-first-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-UxN8RZ {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x29-first-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-Fs0llU {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .x28-first-MHFWRO {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.calendar-event-123 .number-aMJggi {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.22px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 24px;
+}
+
+.calendar-event-123 .days-6taawZ {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  position: absolute;
+  top: 36px;
+  width: 214px;
+}
+
+.calendar-event-123 .sat-XP83cO {
+  background-color: transparent;
+  height: 12px;
+  left: 180px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 20px;
+}
+
+.calendar-event-123 .fri-XP83cO {
+  background-color: transparent;
+  height: 12px;
+  left: 150px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.calendar-event-123 .thu-XP83cO {
+  background-color: transparent;
+  height: 12px;
+  left: 120px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 20px;
+}
+
+.calendar-event-123 .wed-XP83cO {
+  background-color: transparent;
+  height: 9px;
+  left: 90px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.calendar-event-123 .tue-XP83cO {
+  background-color: transparent;
+  height: 12px;
+  left: 62px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 20px;
+}
+
+.calendar-event-123 .mon-XP83cO {
+  background-color: transparent;
+  height: 12px;
+  left: 30px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.calendar-event-123 .sun-XP83cO {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  letter-spacing: 1.50px;
+  line-height: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 20px;
+}
+
+.calendar-event-123 .caption-6taawZ {
+  background-color: transparent;
+  height: 18px;
+  left: 2px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 202px;
+}
+
+.calendar-event-123 .chevron-down-6taawZ {
+  background-color: transparent;
+  height: 23px;
+  left: 33px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 469px;
+  width: 23px;
+}
+
+.calendar-event-123 .chevron-down-iZ0hXG {
+  background-color: transparent;
+  height: 23px;
+  left: 181px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 492px;
+  width: 23px;
+}
+
+.calendar-event-123 .top-panel-8ljLLo {
+  background-color: transparent;
+  height: 153px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.calendar-event-123 .rectangle-1-j23LyA {
+  background-color: var(--gallery);
+  height: 153px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.calendar-event-123 .search-bar-j23LyA {
+  background-color: transparent;
+  height: 31px;
+  left: 370px;
+  position: absolute;
+  top: 12px;
+  width: 352px;
+}
+
+.calendar-event-123 .rectangle-sEjpkQ {
+  background-color: transparent;
+  height: 31px;
+  left: 370px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 350px;
+}
+
+.calendar-event-123 .search-sEjpkQ {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: auto;
+}
+
+.calendar-event-123 .icon-search-sEjpkQ {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 15px;
+}
+
+.calendar-event-123 .main-panel-j23LyA {
+  background-color: transparent;
+  height: 31px;
+  left: 26px;
+  position: absolute;
+  top: 55px;
+  width: 558px;
+}
+
+.calendar-event-123 .line-10-81yxdz {
+  background-color: transparent;
+  height: 2px;
+  left: 86px;
+  position: absolute;
+  top: 30px;
+  width: 74px;
+}
+
+.calendar-event-123 .file-81yxdz {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.calendar-event-123 .home-81yxdz {
+  background-color: transparent;
+  height: auto;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.calendar-event-123 .view-81yxdz {
+  background-color: transparent;
+  height: auto;
+  left: 300px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.calendar-event-123 .help-81yxdz {
+  background-color: transparent;
+  height: auto;
+  left: 386px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.calendar-event-123 .acrobat-81yxdz {
+  background-color: transparent;
+  height: auto;
+  left: 472px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 74px;
+}
+
+.calendar-event-123 .send-receive-81yxdz {
+  background-color: transparent;
+  height: auto;
+  left: 172px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 133px;
+}
+
+.calendar-event-123 .fix-buttons-j23LyA {
+  background-color: transparent;
+  height: 52px;
+  left: 1304px;
+  position: absolute;
+  top: 17px;
+  width: 125px;
+}
+
+.calendar-event-123 .chromechrome-close-xbJd2o {
+  background-color: transparent;
+  height: 16px;
+  left: 105px;
+  position: absolute;
+  top: 17px;
+  width: 16px;
+}
+
+.calendar-event-123 .chromechrome-restore-xbJd2o {
+  background-color: transparent;
+  height: 16px;
+  left: 72px;
+  position: absolute;
+  top: 17px;
+  width: 16px;
+}
+
+.calendar-event-123 .chromechrome-minimize-xbJd2o {
+  background-color: transparent;
+  height: 16px;
+  left: 39px;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.calendar-event-123 .base-xbJd2o {
+  background-color: var(--alabaster);
+  border-radius: 999px;
+  height: 20px;
+  left: 64px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 33px;
+  width: 58px;
+}
+
+.calendar-event-123 .thumb-xbJd2o {
+  background-color: var(--black-4);
+  border-radius: 999px;
+  height: 12px;
+  left: 71px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 37px;
+  width: 12px;
+}
+
+.calendar-event-123 .off-xbJd2o {
+  background-color: transparent;
+  height: 10px;
+  left: 88px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: 20px;
+}
+
+.calendar-event-123 .try-it-now-xbJd2o {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: 56px;
+}
+
+.calendar-event-123 .office-logos-j23LyA {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.calendar-event-123 .group-pBvh78 {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 48px;
+}
+
+.calendar-event-123 .outlook-55SU3F {
+  background-color: transparent;
+  height: 29px;
+  left: 9px;
+  position: absolute;
+  top: 12px;
+  width: 33px;
+}
+
+.calendar-event-123 .x142-uNxrV0 {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 33px;
+}
+
+.calendar-event-123 .group-FO8E4M {
+  background-color: transparent;
+  height: 24px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  opacity: 0.2;
+  position: absolute;
+  top: 1px;
+  width: 21px;
+}
+
+.calendar-event-123 .rectangle-YcxFhx {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 21px;
+}
+
+.calendar-event-123 .vector-YcxFhx {
+  background-color: transparent;
+  height: 22px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.calendar-event-123 .group-W93WSP {
+  background-color: transparent;
+  height: 23px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  opacity: 0.12;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.calendar-event-123 .rectangle-53lKsN {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.calendar-event-123 .vector-53lKsN {
+  background-color: transparent;
+  height: 22px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.calendar-event-123 .vector-FO8E4M {
+  background-color: transparent;
+  height: 11px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.calendar-event-123 .vector-W93WSP {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.calendar-event-123 .vector-xdriXm {
+  background-color: transparent;
+  height: 3px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 16px;
+}
+
+.calendar-event-123 .vector-1dVpoZ {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.calendar-event-123 .vector-XpLNwR {
+  background-color: transparent;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.calendar-event-123 .vector-WQrAnM {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 5px;
+}
+
+.calendar-event-123 .vector-u9OvbP {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.calendar-event-123 .vector-3KTvVO {
+  background-color: transparent;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+
+.calendar-event-123 .vector-7lPCVr {
+  background-color: transparent;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.calendar-event-123 .vector-Wc4yhj {
+  background-color: transparent;
+  height: 5px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.calendar-event-123 .vector-AJExmr {
+  background-color: transparent;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.calendar-event-123 .group-xdriXm {
+  background-color: transparent;
+  height: 24px;
+  left: 1px;
+  position: absolute;
+  top: 5px;
+  width: 32px;
+}
+
+.calendar-event-123 .envelope-bn5e6m {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  opacity: 0.35;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.calendar-event-123 .group-kepRUT {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.35;
+  position: relative;
+  top: 0px;
+  width: 32px;
+}
+
+.calendar-event-123 .rectangle-gxCf8o {
+  background-color: transparent;
+  height: 24px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 32px;
+}
+
+.calendar-event-123 .vector-gxCf8o {
+  background-color: transparent;
+  height: 11px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 7px;
+  width: 18px;
+}
+
+.calendar-event-123 .envelope-z6dIz9 {
+  background-color: transparent;
+  height: 12px;
+  left: 6px;
+  opacity: 0.06;
+  position: absolute;
+  top: 6px;
+  width: 19px;
+}
+
+.calendar-event-123 .group-znwvEt {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.06;
+  position: relative;
+  top: 0px;
+  width: 19px;
+}
+
+.calendar-event-123 .icon-mail-EIkXjE {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.calendar-event-123 .vector-EIkXjE {
+  background-color: transparent;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.calendar-event-123 .envelope-FO8E4M {
+  background-color: transparent;
+  height: 11px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 18px;
+}
+
+.calendar-event-123 .vector-xvbToR {
+  background-color: transparent;
+  height: 11px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 18px;
+}
+
+.calendar-event-123 .group-1dVpoZ {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 17px;
+}
+
+.calendar-event-123 .ambient-PJAE8i {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 17px;
+}
+
+.calendar-event-123 .group-nBKYkc {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.48;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.calendar-event-123 .rectangle-HFjS9A {
+  background-color: transparent;
+  height: 17px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.calendar-event-123 .vector-HFjS9A {
+  background-color: transparent;
+  height: 12px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.calendar-event-123 .group-2DHEoI {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  opacity: 0.24;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.calendar-event-123 .rectangle-6VIj2x {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 13px;
+}
+
+.calendar-event-123 .vector-6VIj2x {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.calendar-event-123 .vector-gcpeIb {
+  background-color: transparent;
+  height: 24px;
+  left: 2px;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.calendar-event-123 .vector-klCxdd {
+  background-color: transparent;
+  height: 22px;
+  left: 8px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.calendar-event-123 .vector-tnt0lk {
+  background-color: transparent;
+  height: 12px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.calendar-event-123 .group-XpLNwR {
+  background-color: transparent;
+  height: 12px;
+  left: 2px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+
+.calendar-event-123 .vector-fxRSt7 {
+  background-color: transparent;
+  height: 7px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.calendar-event-123 .trap-line-55SU3F {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.calendar-event-123 .email-panel-j23LyA {
+  background-color: transparent;
+  height: 52px;
+  left: 17px;
+  position: absolute;
+  top: 85px;
+  width: 1417px;
+}
+
+.calendar-event-123 .top-bar-eEDeg8 {
+  background-color: transparent;
+  height: 52px;
+  left: 17px;
+  position: absolute;
+  top: 85px;
+  width: 1405px;
+}
+
+.calendar-event-123 .share-to-teams-eEDeg8 {
+  background-color: transparent;
+  height: auto;
+  left: 304px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  width: 129px;
+}
+
+.calendar-event-123 .day-eEDeg8 {
+  background-color: transparent;
+  height: auto;
+  left: 524px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 77px;
+}
+
+.calendar-event-123 .office-logos-eEDeg8 {
+  background-color: transparent;
+  height: 50px;
+  left: 259px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 2px;
+  width: 50px;
+}
+
+.calendar-event-123 .group-8hAbnj {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 50px;
+}
+
+.calendar-event-123 .teams-DQRBDD {
+  background-color: transparent;
+  height: 28px;
+  left: 10px;
+  position: absolute;
+  top: 12px;
+  width: 28px;
+}
+
+.calendar-event-123 .group-3Xu0Ss {
+  background-color: transparent;
+  height: 25px;
+  left: 8px;
+  mix-blend-mode: multiply;
+  opacity: 0.2;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.calendar-event-123 .rectangle-c0aEII {
+  background-color: transparent;
+  height: 25px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.calendar-event-123 .vector-c0aEII {
+  background-color: transparent;
+  height: 23px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.calendar-event-123 .group-Ojkc5W {
+  background-color: transparent;
+  height: 23px;
+  left: 9px;
+  mix-blend-mode: multiply;
+  opacity: 0.12;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.calendar-event-123 .rectangle-K3Gsbg {
+  background-color: transparent;
+  height: 23px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.calendar-event-123 .vector-K3Gsbg {
+  background-color: transparent;
+  height: 23px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.calendar-event-123 .vector-3Xu0Ss {
+  background-color: transparent;
+  height: 23px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.calendar-event-123 .body-3Xu0Ss {
+  background-color: transparent;
+  height: 11px;
+  left: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 8px;
+}
+
+.calendar-event-123 .head-3Xu0Ss {
+  background-color: transparent;
+  height: 5px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 5px;
+}
+
+.calendar-event-123 .head-Ojkc5W {
+  background-color: transparent;
+  height: 7px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  width: 7px;
+}
+
+.calendar-event-123 .group-axkdkF {
+  background-color: transparent;
+  height: 21px;
+  left: 6px;
+  position: absolute;
+  top: 7px;
+  width: 20px;
+}
+
+.calendar-event-123 .group-unxz4E {
+  background-color: transparent;
+  height: 19px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 2px;
+  width: 18px;
+}
+
+.calendar-event-123 .rectangle-hkr29x {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.calendar-event-123 .vector-hkr29x {
+  background-color: transparent;
+  height: 14px;
+  left: 3px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.calendar-event-123 .group-rKXpEu {
+  background-color: transparent;
+  height: 21px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.24;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.calendar-event-123 .rectangle-KBgcN9 {
+  background-color: transparent;
+  height: 21px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 19px;
+  width: 20px;
+}
+
+.calendar-event-123 .vector-KBgcN9 {
+  background-color: transparent;
+  height: 14px;
+  left: 3px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 3px;
+  width: 13px;
+}
+
+.calendar-event-123 .vector-Ojkc5W {
+  background-color: transparent;
+  height: 14px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 13px;
+}
+
+.calendar-event-123 .vector-axkdkF {
+  background-color: transparent;
+  height: 25px;
+  left: 2px;
+  position: absolute;
+  top: 12px;
+  width: 25px;
+}
+
+.calendar-event-123 .group-AdDmn3 {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 18px;
+}
+
+.calendar-event-123 .ambient-PkZ1hu {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 18px;
+}
+
+.calendar-event-123 .group-mxMRc3 {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.48;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.calendar-event-123 .rectangle-yxmzcZ {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.calendar-event-123 .vector-yxmzcZ {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 2px;
+  width: 13px;
+}
+
+.calendar-event-123 .group-kKg9td {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  opacity: 0.24;
+  position: absolute;
+  top: 1px;
+  width: 14px;
+}
+
+.calendar-event-123 .rectangle-lNUhsQ {
+  background-color: transparent;
+  height: 14px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 14px;
+}
+
+.calendar-event-123 .vector-lNUhsQ {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.calendar-event-123 .vector-AdDmn3 {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 13px;
+}
+
+.calendar-event-123 .group-O1ohJj {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 6px;
+  width: 13px;
+}
+
+.calendar-event-123 .vector-O1ohJj {
+  background-color: transparent;
+  height: 7px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.calendar-event-123 .trap-line-DQRBDD {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.calendar-event-123 .icon-calendar-eEDeg8 {
+  background-color: transparent;
+  height: 28px;
+  left: 479px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 29px;
+}
+
+.calendar-event-123 .work-week-eEDeg8 {
+  background-color: transparent;
+  height: auto;
+  left: 641px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 104px;
+}
+
+.calendar-event-123 .week-eEDeg8 {
+  background-color: transparent;
+  height: auto;
+  left: 799px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 77px;
+}
+
+.calendar-event-123 .month-eEDeg8 {
+  background-color: transparent;
+  height: auto;
+  left: 908px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: 77px;
+}
+
+.calendar-event-123 .icon-calendar-LDx11P {
+  background-color: transparent;
+  height: 28px;
+  left: 863px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 29px;
+}
+
+.calendar-event-123 .icon-calendar-iYmZls {
+  background-color: transparent;
+  height: 28px;
+  left: 754px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 29px;
+}
+
+.calendar-event-123 .icon-calendar-zRDlXg {
+  background-color: transparent;
+  height: 28px;
+  left: 596px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 29px;
+}
+
+.calendar-event-123 .new-appointment-eEDeg8 {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  width: 155px;
+}
+
+.calendar-event-123 .chevron-down-eEDeg8 {
+  background-color: transparent;
+  height: 17px;
+  left: 215px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 17px;
+}
+
+.calendar-event-123 .icon-calendar-DzNXDr {
+  background-color: transparent;
+  height: 28px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 29px;
+}
+
+.calendar-event-123 .line-14-j23LyA {
+  background-color: transparent;
+  height: 43px;
+  left: 272px;
+  position: absolute;
+  top: 91px;
+  width: 1px;
+}
+
+.calendar-event-123 .line-15-j23LyA {
+  background-color: transparent;
+  height: 43px;
+  left: 470px;
+  position: absolute;
+  top: 91px;
+  width: 1px;
+}
+
+.calendar-event-123 .main-body-8ljLLo {
+  background-color: transparent;
+  height: 836px;
+  left: 251px;
+  position: absolute;
+  top: 188px;
+  width: 1189px;
+}
+
+.calendar-event-123 .date-display-iJ1kji {
+  background-color: transparent;
+  height: 31px;
+  left: 14px;
+  position: absolute;
+  top: 0px;
+  width: 451px;
+}
+
+.calendar-event-123 .caption-AZT7Yc {
+  background-color: transparent;
+  height: 18px;
+  left: 241px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: 208px;
+}
+
+.calendar-event-123 .reply-all-button-AZT7Yc {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 120px;
+}
+
+.calendar-event-123 .base-NVGQIZ {
+  align-items: center;
+  background-color: var(--white-2);
+  border: 1px solid transparent;
+  border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.05779999867081642) 90.576171875%, rgba(0, 0, 0, 0.16220000386238098)) 1;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  height: 32px;
+  justify-content: center;
+  left: -1px;
+  mix-blend-mode: normal;
+  padding: 4px 11px 6px;
+  position: absolute;
+  top: -1px;
+  width: 120px;
+}
+
+.calendar-event-123 .min-width-rFwBdM {
+  background-color: transparent;
+  height: 1px;
+  min-width: 96px;
+  position: relative;
+}
+
+.calendar-event-123 .text-NVGQIZ {
+  background-color: transparent;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.calendar-event-123 .base-AZT7Yc {
+  align-items: center;
+  background-color: var(--white-2);
+  border: 1px solid transparent;
+  border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.05779999867081642) 90.576171875%, rgba(0, 0, 0, 0.16220000386238098)) 1;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  height: 32px;
+  justify-content: center;
+  left: 132px;
+  mix-blend-mode: normal;
+  padding: 4px 11px 6px;
+  position: absolute;
+  top: -1px;
+  width: 38px;
+}
+
+.calendar-event-123 .min-width-Lo8oaH {
+  background-color: transparent;
+  height: 1px;
+  margin-left: -41px;
+  margin-right: -39px;
+  margin-top: -1.5px;
+  min-width: 96px;
+  position: relative;
+}
+
+.calendar-event-123 .chevron-down-Lo8oaH {
+  background-color: transparent;
+  height: 23px;
+  margin-left: -4.5px;
+  margin-right: -2.5px;
+  margin-top: -1.5px;
+  min-width: 23px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.calendar-event-123 .base-Ureg30 {
+  align-items: center;
+  background-color: var(--white-2);
+  border: 1px solid transparent;
+  border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.05779999867081642) 90.576171875%, rgba(0, 0, 0, 0.16220000386238098)) 1;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  height: 32px;
+  justify-content: center;
+  left: 180px;
+  mix-blend-mode: normal;
+  padding: 4px 11px 6px;
+  position: absolute;
+  top: -1px;
+  transform: rotate(-1.00deg);
+  width: 38px;
+}
+
+.calendar-event-123 .min-width-hxQWxt {
+  background-color: transparent;
+  height: 1px;
+  margin-left: -41px;
+  margin-right: -39px;
+  margin-top: -1.698951244354248px;
+  min-width: 96px;
+  position: relative;
+  transform: rotate(1.00deg);
+}
+
+.calendar-event-123 .chevron-down-hxQWxt {
+  background-color: transparent;
+  height: 23px;
+  margin-left: -4.499894739128649px;
+  margin-right: -2.5001052608713508px;
+  margin-top: -1.4999455222859979px;
+  min-width: 23px;
+  mix-blend-mode: normal;
+  position: relative;
+  transform: rotate(1.00deg);
+}
+
+.calendar-event-123 .display-button-iJ1kji {
+  background-color: transparent;
+  height: 28px;
+  left: 834px;
+  position: absolute;
+  top: 2px;
+  width: 309px;
+}
+
+.calendar-event-123 .caption-wRWwXx {
+  background-color: transparent;
+  height: 18px;
+  left: 182px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.calendar-event-123 .caption-OMmxKy {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.calendar-event-123 .icon-calendar-wRWwXx {
+  background-color: transparent;
+  height: 28px;
+  left: 140px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 29px;
+}
+
+.calendar-event-123 .chevron-down-wRWwXx {
+  background-color: transparent;
+  height: 23px;
+  left: 282px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 23px;
+}
+
+.calendar-event-123 .polygon-1-wRWwXx {
+  background-color: transparent;
+  height: 6px;
+  left: 93px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 9px;
+}
+
+.calendar-event-123 .friday-iJ1kji {
+  background-color: transparent;
+  height: 774px;
+  left: 967px;
+  position: absolute;
+  top: 62px;
+  width: 226px;
+}
+
+.calendar-event-123 .caption-PlgCHO {
+  background-color: transparent;
+  height: 18px;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.calendar-event-123 .caption-RfyjFO {
+  background-color: transparent;
+  height: 18px;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.calendar-event-123 .rectangle-37-PlgCHO {
+  background-color: transparent;
+  height: 134px;
+  left: 1218px;
+  position: absolute;
+  top: 250px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-38-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 250px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-39-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 132px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-40-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 164px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-41-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 196px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-42-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 228px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-43-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 260px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-44-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 292px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-45-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 324px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-46-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 356px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-47-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 388px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-48-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 420px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-49-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 452px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-50-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 484px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-51-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 516px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-52-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 548px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-53-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 580px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-54-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 612px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-55-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 644px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-56-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 676px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-57-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 708px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-58-PlgCHO {
+  background-color: transparent;
+  height: 34px;
+  left: 1218px;
+  position: absolute;
+  top: 740px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-36-PlgCHO {
+  background-color: transparent;
+  height: 774px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 222px;
+}
+
+.calendar-event-123 .thursday-iJ1kji {
+  background-color: transparent;
+  height: 774px;
+  left: 747px;
+  position: absolute;
+  top: 62px;
+  width: 226px;
+}
+
+.calendar-event-123 .caption-zUpb3q {
+  background-color: transparent;
+  height: 18px;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.calendar-event-123 .caption-YKBMUZ {
+  background-color: transparent;
+  height: 18px;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.calendar-event-123 .rectangle-37-zUpb3q {
+  background-color: transparent;
+  height: 134px;
+  left: 998px;
+  position: absolute;
+  top: 250px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-38-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 250px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-39-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 132px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-40-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 164px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-41-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 196px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-42-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 228px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-43-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 260px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-44-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 292px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-45-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 324px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-46-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 356px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-47-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 388px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-48-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 420px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-49-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 452px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-50-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 484px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-51-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 516px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-52-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 548px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-53-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 580px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-54-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 612px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-55-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 644px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-56-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 676px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-57-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 708px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-58-zUpb3q {
+  background-color: transparent;
+  height: 34px;
+  left: 998px;
+  position: absolute;
+  top: 740px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-36-zUpb3q {
+  background-color: transparent;
+  height: 774px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 222px;
+}
+
+.calendar-event-123 .wednesday-iJ1kji {
+  background-color: transparent;
+  height: 774px;
+  left: 527px;
+  position: absolute;
+  top: 62px;
+  width: 226px;
+}
+
+.calendar-event-123 .caption-T32JmU {
+  background-color: transparent;
+  height: 18px;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.calendar-event-123 .caption-SaAQuz {
+  background-color: transparent;
+  height: 18px;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.calendar-event-123 .rectangle-37-T32JmU {
+  background-color: transparent;
+  height: 134px;
+  left: 778px;
+  position: absolute;
+  top: 250px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-38-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 250px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-39-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 132px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-40-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 164px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-41-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 196px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-42-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 228px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-43-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 260px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-44-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 292px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-45-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 324px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-46-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 356px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-47-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 388px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-48-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 420px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-49-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 452px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-50-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 484px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-51-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 516px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-52-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 548px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-53-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 580px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-54-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 612px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-55-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 644px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-56-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 676px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-57-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 708px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-58-T32JmU {
+  background-color: transparent;
+  height: 34px;
+  left: 778px;
+  position: absolute;
+  top: 740px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-36-T32JmU {
+  background-color: transparent;
+  height: 774px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 222px;
+}
+
+.calendar-event-123 .tuesday-iJ1kji {
+  background-color: transparent;
+  height: 774px;
+  left: 307px;
+  position: absolute;
+  top: 62px;
+  width: 226px;
+}
+
+.calendar-event-123 .caption-xljcMx {
+  background-color: transparent;
+  height: 18px;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.calendar-event-123 .caption-Wh8KVD {
+  background-color: transparent;
+  height: 18px;
+  left: 13px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.calendar-event-123 .rectangle-37-xljcMx {
+  background-color: transparent;
+  height: 134px;
+  left: 558px;
+  position: absolute;
+  top: 250px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-38-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 250px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-39-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 132px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-40-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 164px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-41-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 196px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-42-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 228px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-43-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 260px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-44-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 292px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-45-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 324px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-46-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 356px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-47-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 388px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-48-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 420px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-49-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 452px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-50-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 484px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-51-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 516px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-52-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 548px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-53-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 580px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-54-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 612px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-55-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 644px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-56-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 676px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-57-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 708px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-58-xljcMx {
+  background-color: transparent;
+  height: 34px;
+  left: 558px;
+  position: absolute;
+  top: 740px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-36-xljcMx {
+  background-color: transparent;
+  height: 774px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 222px;
+}
+
+.calendar-event-123 .timing-iJ1kji {
+  background-color: transparent;
+  height: 774px;
+  left: 0px;
+  position: absolute;
+  top: 62px;
+  width: 1187px;
+}
+
+.calendar-event-123 .monday-AVaLGp {
+  background-color: transparent;
+  height: 774px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.calendar-event-123 .caption-Ydbf30 {
+  background-color: transparent;
+  height: 18px;
+  left: 100px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.calendar-event-123 .caption-kMkBme {
+  background-color: transparent;
+  height: 18px;
+  left: 100px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 42px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.calendar-event-123 .caption-rXNHn0 {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 137px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.calendar-event-123 .caption-M6WNxY {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 201px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.calendar-event-123 .caption-XQQwlF {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 268px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.calendar-event-123 .caption-yHxYnx {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 331px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.calendar-event-123 .caption-n5ZnIl {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 394px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.calendar-event-123 .caption-pqgpHI {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 459px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.calendar-event-123 .caption-wUu2CK {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 524px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.calendar-event-123 .caption-ea4Yji {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 589px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.calendar-event-123 .caption-A7IFLT {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 652px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.calendar-event-123 .caption-7x72M0 {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 718px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.calendar-event-123 .rectangle-37-Ydbf30 {
+  background-color: transparent;
+  height: 134px;
+  left: 87px;
+  position: absolute;
+  top: 250px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-38-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 250px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-39-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 132px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-40-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 164px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-41-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 196px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-42-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 228px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-43-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 260px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-44-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 292px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-45-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 324px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-46-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 356px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-47-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 388px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-48-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 420px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-49-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 452px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-50-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 484px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-51-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 516px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-52-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 548px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-53-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 580px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-54-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 612px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-55-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 644px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-56-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 676px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-57-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 708px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-58-Ydbf30 {
+  background-color: transparent;
+  height: 34px;
+  left: 87px;
+  position: absolute;
+  top: 740px;
+  width: 222px;
+}
+
+.calendar-event-123 .rectangle-36-Ydbf30 {
+  background-color: transparent;
+  height: 774px;
+  left: 87px;
+  position: absolute;
+  top: 0px;
+  width: 222px;
+}
+
+.calendar-event-123 .line-16-AVaLGp {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 132px;
+  width: 1187px;
+}
+
+.calendar-event-123 .line-17-AVaLGp {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 195px;
+  width: 1187px;
+}
+
+.calendar-event-123 .line-18-AVaLGp {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 260px;
+  width: 1187px;
+}
+
+.calendar-event-123 .line-19-AVaLGp {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 324px;
+  width: 1187px;
+}
+
+.calendar-event-123 .line-20-AVaLGp {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 387px;
+  width: 1187px;
+}
+
+.calendar-event-123 .line-21-AVaLGp {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 452px;
+  width: 1187px;
+}
+
+.calendar-event-123 .line-22-AVaLGp {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 516px;
+  width: 1187px;
+}
+
+.calendar-event-123 .line-23-AVaLGp {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 579px;
+  width: 1187px;
+}
+
+.calendar-event-123 .line-24-AVaLGp {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 643px;
+  width: 1187px;
+}
+
+.calendar-event-123 .line-25-AVaLGp {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 707px;
+  width: 1187px;
+}
+
+.calendar-event-123 .event-1-8ljLLo {
+  background-color: transparent;
+  height: 115px;
+  left: 785px;
+  position: absolute;
+  top: 518px;
+  width: 212px;
+}
+
+.calendar-event-123 .rectangle-59-0QXN3h {
+  background-color: var(--hawkes-blue);
+  height: 115px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 208px;
+}
+
+.calendar-event-123 .caption-0QXN3h {
+  background-color: transparent;
+  height: 18px;
+  left: 8px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  white-space: nowrap;
+  width: 186px;
+}
+
+.calendar-event-123 .caption-881ZQe {
+  background-color: transparent;
+  height: 18px;
+  left: 8px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  white-space: nowrap;
+  width: 186px;
+}
+
+.calendar-event-123 .event-2-8ljLLo {
+  background-color: transparent;
+  height: 245px;
+  left: 1225px;
+  position: absolute;
+  top: 837px;
+  width: 212px;
+}
+
+.calendar-event-123 .rectangle-60-vu7vef {
+  background-color: var(--hawkes-blue);
+  height: 245px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 208px;
+}
+
+.calendar-event-123 .caption-vu7vef {
+  background-color: transparent;
+  height: 18px;
+  left: 8px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  white-space: nowrap;
+  width: 186px;
+}
+
+.calendar-event-123 .caption-wx0sS7 {
+  background-color: transparent;
+  height: 47px;
+  left: 8px;
+  letter-spacing: 0.12px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: 186px;
+}
+
+.calendar-event-123 .event-2-s35V3b {
+  background-color: transparent;
+  height: 185px;
+  left: 565px;
+  position: absolute;
+  top: 834px;
+  width: 212px;
+}
+
+.calendar-event-123 .rectangle-60-1KUmQd {
+  background-color: var(--hawkes-blue);
+  height: 185px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 208px;
+}
+
+.calendar-event-123 .caption-1KUmQd {
+  background-color: transparent;
+  height: 18px;
+  left: 8px;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  white-space: nowrap;
+  width: 186px;
+}
+
+.calendar-event-123 .caption-kYQchB {
+  background-color: transparent;
+  height: 47px;
+  left: 8px;
+  letter-spacing: 0.12px;
+  line-height: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: 186px;
+}

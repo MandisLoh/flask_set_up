@@ -2,7 +2,6 @@
 
 .new-e-mail-message {
   background-color: var(--white);
-  cursor: pointer;
   height: 1024px;
   mix-blend-mode: normal;
   overflow: hidden;
@@ -1229,16 +1228,4 @@
   text-align: center;
   top: 16px;
   width: 237px;
-}
-
-.textbody {
-  background-color: transparent;
-  height: auto;
-  left: 17px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  position: absolute;
-  text-align: left;
-  top: 200px;
-  width: 10px;
 }

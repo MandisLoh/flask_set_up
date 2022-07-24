@@ -105,12 +105,7 @@
 
 .inbox-faith-email .dear-crystal-on-beha-yYXxzX {
   background-color: transparent;
-  color: transparent;
   cursor: pointer;
-  font-family: var(--font-family-open_sans);
-  font-size: var(--font-size-xxs);
-  font-style: normal;
-  font-weight: 400;
   height: auto;
   left: 0px;
   letter-spacing: 0.00px;
@@ -123,48 +118,24 @@
 }
 
 .inbox-faith-email .span0-gxPVMI {
-  font-style: normal;
 }
 
 .inbox-faith-email .span1-gxPVMI {
-  font-style: normal;
-  text-decoration: underline;
 }
 
 .inbox-faith-email .span2-gxPVMI {
-  font-style: normal;
 }
 
 .inbox-faith-email .span3-gxPVMI {
-  font-style: normal;
-  text-decoration: underline;
 }
 
 .inbox-faith-email .span4-gxPVMI {
-  font-style: normal;
-  text-decoration: underline;
 }
 
 .inbox-faith-email .span5-gxPVMI {
-  font-style: normal;
 }
 
 .inbox-faith-email .span6-gxPVMI {
-  font-style: normal;
-}
-
-.inbox-faith-email .span7-gxPVMI {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.inbox-faith-email .span8-gxPVMI {
-  font-style: normal;
-  text-decoration: underline;
-}
-
-.inbox-faith-email .span9-gxPVMI {
-  font-style: normal;
 }
 
 .inbox-faith-email .invitation-to-dai-bonding-session-yYXxzX {
@@ -2305,7 +2276,7 @@
   background-color: transparent;
   height: 871px;
   left: 224px;
-  position: absolute;
+  position: fixed;
   top: 153px;
   width: 364px;
 }
@@ -2430,19 +2401,19 @@
 .inbox-faith-email .email-2-EPMlDe {
   background-color: transparent;
   height: 81px;
-  left: 5px;
+  left: 6px;
   position: absolute;
-  top: 157px;
+  top: 242px;
   width: 343px;
 }
 
 .inbox-faith-email .rectangle-Rwia5T {
   background-color: transparent;
   height: 81px;
-  left: 229px;
+  left: 230px;
   mix-blend-mode: normal;
   position: absolute;
-  top: 310px;
+  top: 395px;
   width: 333px;
 }
 
@@ -2509,24 +2480,25 @@
 
 .inbox-faith-email .email-3-EPMlDe {
   background-color: transparent;
+  cursor: pointer;
   height: 81px;
-  left: 5px;
+  left: 6px;
   position: absolute;
-  top: 238px;
+  top: 157px;
   width: 343px;
 }
 
 .inbox-faith-email .rectangle-zExDcd {
   background-color: transparent;
   height: 81px;
-  left: 229px;
+  left: 230px;
   mix-blend-mode: normal;
   position: absolute;
-  top: 391px;
+  top: 310px;
   width: 333px;
 }
 
-.inbox-faith-email .wed-732-am-zExDcd {
+.inbox-faith-email .wed-449-pm-zExDcd {
   background-color: transparent;
   height: auto;
   left: 245px;
@@ -2539,7 +2511,7 @@
   width: auto;
 }
 
-.inbox-faith-email .lorem-ipsum-zExDcd {
+.inbox-faith-email .rebecca-tan-zExDcd {
   background-color: transparent;
   height: auto;
   left: 11px;
@@ -2552,7 +2524,7 @@
   width: 226px;
 }
 
-.inbox-faith-email .subject-zExDcd {
+.inbox-faith-email .welcome-onboard-the-for-zExDcd {
   background-color: transparent;
   height: auto;
   left: 12px;
@@ -2565,7 +2537,7 @@
   width: 221px;
 }
 
-.inbox-faith-email .subject-lmOx2H {
+.inbox-faith-email .dear-crystal-zExDcd {
   background-color: transparent;
   height: auto;
   left: 12px;

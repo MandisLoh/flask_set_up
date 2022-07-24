@@ -41,7 +41,19 @@ def inbox_faith_email():
 def inbox_faith_email_w_pop_up():
    return render_template('inbox-faith-email-w-pop-up.html')
 
-@app.route('/inbox-faith-email.html/calendar-event-2.html')
+@app.route('/inbox-rebecca-email.html/')
+def inbox_rebecca_email():
+   return render_template('inbox-rebecca-email.html')
+
+@app.route('/inbox-rebecca-email.html/inbox-rebecca-email-w-pop-up.html')
+def inbox_rebecca_email_w_pop_up():
+   return render_template('inbox-rebecca-email-w-pop-up.html')
+
+@app.route('/inbox-faith-email.html/calendar-event-3.html')
+def calendar_event_3():
+   return render_template('calendar-event-3.html')
+
+@app.route('/inbox-rebecca-email.html/calendar-event-2.html')
 def calendar_event_2():
    return render_template('calendar-event-2.html')
 
@@ -69,17 +81,21 @@ def new_appointment():
 def calendar_event_1():
    return render_template('calendar-event-1.html')
 
-@app.route('/calendar-event-12.html')
-def calendar_event_12():
-   return render_template('calendar-event-12.html')
+@app.route('/calendar-event-123.html')
+def calendar_event_123():
+   return render_template('calendar-event-123.html')
 
 @app.route('/calendar-main.html')
 def calendar_main():
    return render_template('calendar-main.html')
 
-@app.route('/inbox-faith-email.html/calendar-event-12.html')
-def calendar_event_12_1():
-   return render_template('calendar-event-12.html')
+@app.route('/inbox-faith-email.html/calendar-event-123.html')
+def calendar_event_123_1():
+   return render_template('calendar-event-123.html')
+
+@app.route('/inbox-rebecca-email.html/calendar-event-123.html')
+def calendar_event_123_2():
+   return render_template('calendar-event-123.html')
 
 if __name__ == "__main__":
    app.run(debug=True)

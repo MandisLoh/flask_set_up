@@ -14,7 +14,7 @@
   background-color: transparent;
   cursor: pointer;
   height: 1024px;
-  left: 29px;
+  left: 0px;
   position: relative;
   top: 0px;
   width: 1442px;
@@ -42,37 +42,37 @@
 .new-e-mail-message-empty .line-14-TfXDWn {
   background-color: transparent;
   height: 1px;
-  left: 256px;
+  left: 244px;
   position: absolute;
   top: 64px;
-  width: 1167px;
+  width: 1190px;
 }
 
 .new-e-mail-message-empty .line-15-TfXDWn {
   background-color: transparent;
   height: 1px;
-  left: 256px;
+  left: 244px;
   position: absolute;
   top: 106px;
-  width: 1167px;
+  width: 1190px;
 }
 
 .new-e-mail-message-empty .line-16-TfXDWn {
   background-color: transparent;
   height: 1px;
-  left: 256px;
+  left: 244px;
   position: absolute;
   top: 146px;
-  width: 1167px;
+  width: 1190px;
 }
 
 .new-e-mail-message-empty .line-17-TfXDWn {
   background-color: transparent;
   height: 1px;
-  left: 14px;
+  left: 0px;
   position: absolute;
   top: 194px;
-  width: 1411px;
+  width: 1440px;
 }
 
 .new-e-mail-message-empty .rectangle-31-TfXDWn {
@@ -198,6 +198,7 @@
 
 .new-e-mail-message-empty .fluentsend-16-regular-TfXDWn {
   background-color: transparent;
+  cursor: pointer;
   height: 38px;
   left: 61px;
   mix-blend-mode: normal;
@@ -228,7 +229,7 @@
 .new-e-mail-message-empty .rectangle-US3mKy {
   background-color: transparent;
   height: 31px;
-  left: 399px;
+  left: 370px;
   mix-blend-mode: normal;
   position: absolute;
   top: 12px;
@@ -248,7 +249,7 @@
   width: auto;
 }
 
-.new-e-mail-message-empty .shape-US3mKy {
+.new-e-mail-message-empty .icon-search-US3mKy {
   background-color: transparent;
   height: 16px;
   left: 15px;
@@ -366,10 +367,10 @@
 .new-e-mail-message-empty .chromechrome-close-ZaxAxP {
   background-color: transparent;
   height: 16px;
-  left: 73px;
+  left: 66px;
   position: absolute;
   top: 17px;
-  width: 2px;
+  width: 16px;
 }
 
 .new-e-mail-message-empty .chromechrome-restore-ZaxAxP {
@@ -384,7 +385,7 @@
 .new-e-mail-message-empty .chromechrome-minimize-ZaxAxP {
   background-color: transparent;
   height: 16px;
-  left: 1372px;
+  left: 1343px;
   position: absolute;
   top: 1px;
   width: 16px;
@@ -671,7 +672,7 @@
   width: 19px;
 }
 
-.new-e-mail-message-empty .rectangle-yI3ZJx {
+.new-e-mail-message-empty .icon-mail-yI3ZJx {
   background-color: transparent;
   height: 12px;
   left: 0px;

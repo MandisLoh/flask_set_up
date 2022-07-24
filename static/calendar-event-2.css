@@ -3471,6 +3471,7 @@
 
 .calendar-event-2 .main-body-4PNaPi {
   background-color: transparent;
+  cursor: pointer;
   height: 836px;
   left: 251px;
   position: absolute;
@@ -5158,16 +5159,16 @@
 
 .calendar-event-2 .event-2-4PNaPi {
   background-color: transparent;
-  height: 245px;
-  left: 1225px;
+  height: 185px;
+  left: 565px;
   position: absolute;
-  top: 837px;
+  top: 834px;
   width: 212px;
 }
 
 .calendar-event-2 .rectangle-60-tgntgX {
   background-color: var(--hawkes-blue);
-  height: 245px;
+  height: 185px;
   left: 0px;
   mix-blend-mode: normal;
   position: absolute;
