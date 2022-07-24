@@ -27,9 +27,6 @@ from dateparser.search import search_dates
 def html2text(html):
     with open(html, 'r') as f: 
         html_string = f.read()
-
-
-
     soup = BeautifulSoup(html_string,'html.parser')
 
     for script in soup(["script", "style"]):
@@ -48,6 +45,25 @@ def html2text(html):
 # '''
 
 
+
+from functools import reduce
+from itertools import chain
+from termcolor import colored
+
+# HIGHLIGHT TERMS 
+
+# def highlight_words(html):
+    
+#     text = html2text(html)
+#     meeting_details = search_dates(text)
+#     highlighted_terms = []
+#     highlighted_terms.append(meeting_details[1][0])
+#     highlighted_terms.append(meeting_details[2][0])
+#     highlighted_terms.append(meeting_details[3][0])
+#     highlight = print(reduce(lambda t, x: t.replace(*x), chain([text], ((t, colored(t,'white','on_blue')) for t in highlighted_terms))))
+#     return highlight
+
+# highlight_words('./templates/inbox-faith-email.html')
 
 # para = [d for d in search_dates(text)]
 # print(para)
@@ -79,3 +95,9 @@ def html2text(html):
 
 # print(meeting_details[2][0])
 # print(meeting_details[3][0])
+
+# start_time = f"{meeting_details[2][1].time().strftime('%H:%M')}"
+# end_time = f"{meeting_details[3][1].time().strftime('%H:%M')}"
+# date = f"{meeting_details[1][1].date().day}/{meeting_details[1][1].date().month}/2022"
+
+
