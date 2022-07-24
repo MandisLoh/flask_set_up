@@ -11,7 +11,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.decomposition import PCA
-from html_to_text import html2text, text
+from html_to_text import html2text
 from dateparser.search import search_dates
 
 
@@ -42,6 +42,7 @@ def inbox_faith_email():
 
 @app.route('/inbox-faith-email.html/inbox-faith-email-w-pop-up.html')
 def inbox_faith_email_w_pop_up():
+   text = html2text('./templates/inbox-faith-email.html')
    meeting_details = search_dates(text)
    return render_template('inbox-faith-email-w-pop-up.html', start_time = f"{meeting_details[2][1].time().strftime('%H:%M')}", end_time = f"{meeting_details[3][1].time().strftime('%H:%M')}", date = f"{meeting_details[1][1].date().day}/{meeting_details[1][1].date().month}/2022")
 
@@ -51,7 +52,9 @@ def inbox_rebecca_email():
 
 @app.route('/inbox-rebecca-email.html/inbox-rebecca-email-w-pop-up.html')
 def inbox_rebecca_email_w_pop_up():
-   return render_template('inbox-rebecca-email-w-pop-up.html')
+   text = html2text('./templates/inbox-rebecca-email.html')
+   meeting_details = search_dates(text)
+   return render_template('inbox-rebecca-email-w-pop-up.html', start_time = f"{meeting_details[2][1].time().strftime('%H:%M')}", end_time = f"{meeting_details[3][1].time().strftime('%H:%M')}", dates = f"{meeting_details[1][1].date().day}/{meeting_details[1][1].date().month}/2022")
 
 @app.route('/inbox-faith-email.html/calendar-event-3.html')
 def calendar_event_3():
