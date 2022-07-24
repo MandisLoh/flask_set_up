@@ -11,7 +11,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.decomposition import PCA
-from html_to_text import html2text
+from html_to_text import html2text, text
+from dateparser.search import search_dates
+
 
 app = Flask(__name__)
 model = pickle.load(open('model.pkl', 'rb'))
@@ -23,6 +25,7 @@ def predict():
    count_vect = CountVectorizer()
    final_features = html2text(html)
    prediction = model.predict(count_vect.fit_transform([final_features]))
+   
    if (prediction==1) or (prediction==2):
       prediction = "Meeting"
    else:
@@ -39,7 +42,8 @@ def inbox_faith_email():
 
 @app.route('/inbox-faith-email.html/inbox-faith-email-w-pop-up.html')
 def inbox_faith_email_w_pop_up():
-   return render_template('inbox-faith-email-w-pop-up.html')
+   meeting_details = search_dates(text)
+   return render_template('inbox-faith-email-w-pop-up.html', start_time = f"{meeting_details[2][1].time().strftime('%H:%M')}", end_time = f"{meeting_details[3][1].time().strftime('%H:%M')}", date = f"{meeting_details[1][1].date().day}/{meeting_details[1][1].date().month}/2022")
 
 @app.route('/inbox-faith-email.html/calendar-event-2.html')
 def calendar_event_2():
