@@ -46,23 +46,41 @@ def inbox_faith_email_w_pop_up():
    meeting_details = search_dates(text)
    return render_template('inbox-faith-email-w-pop-up.html', start_time = f"{meeting_details[2][1].time().strftime('%H:%M')}", end_time = f"{meeting_details[3][1].time().strftime('%H:%M')}", date_faith = f"{meeting_details[1][1].date().day}/{meeting_details[1][1].date().month}/2022")
 
-@app.route('inbox-faith-email-detected.html/')
+@app.route('/inbox-faith-email-detected.html')
 def inbox_faith_email_detected():
-   return render_template('inbox-faith-email-detected')
+   html = './templates/inbox-faith-email.html'
+   count_vect = CountVectorizer()
+   final_features = html2text(html)
+   prediction = model.predict(count_vect.fit_transform([final_features]))
+   
+   if (prediction==0) or (prediction==3):
+      prediction = "Meeting"
+   else:
+      prediction = "Normal"
+   return render_template('inbox-faith-email-detected.html', email =prediction)
 
-@app.route('inbox-rebecca-email-detected.html/inbox-rebecca-email.html/')
+@app.route('/inbox-rebecca-email-detected.html/inbox-rebecca-email.html')
 def inbox_rebecca_email():
    return render_template('inbox-rebecca-email.html')
 
-@app.route('inbox-rebecca-email-detected.html/inbox-rebecca-email.html/inbox-rebecca-email-w-pop-up.html')
+@app.route('/inbox-rebecca-email-detected.html/inbox-rebecca-email.html/inbox-rebecca-email-w-pop-up.html')
 def inbox_rebecca_email_w_pop_up():
    text = html2text('./templates/inbox-rebecca-email.html')
    meeting_details = search_dates(text)
    return render_template('inbox-rebecca-email-w-pop-up.html', start_time = f"{meeting_details[2][1].time().strftime('%H:%M')}", end_time = f"{meeting_details[3][1].time().strftime('%H:%M')}", dates = f"{meeting_details[1][1].date().day}/{meeting_details[1][1].date().month}/2022")
 
-@app.route('inbox-rebecca-email-detected.html/')
+@app.route('/inbox-rebecca-email-detected.html')
 def inbox_rebecca_email_detected():
-   return render_template('inbox-rebecca-email-detected')
+   html = './templates/inbox-rebecca-email.html'
+   count_vect = CountVectorizer()
+   final_features = html2text(html)
+   prediction = model.predict(count_vect.fit_transform([final_features]))
+   
+   if (prediction==0) or (prediction==3):
+      prediction = "Meeting"
+   else:
+      prediction = "Normal"
+   return render_template('inbox-rebecca-email-detected.html', email =prediction)
 
 @app.route('/inbox-faith-email-detected.html/inbox-faith-email.html/calendar-event-3.html')
 def calendar_event_3():

@@ -88,18 +88,18 @@ def plot_tfidf_classfeats_h(dfs):
 plot_tfidf_classfeats_h(top_feats_per_cluster(X, labels, features, 0.1, 25))
 
 
-df['Body'] = df['Body'].astype(str)
-df['Body'] = df['Body'].apply(lambda x: x.lower())
-punctuations = '\.\!\?'
-df = (df.drop('Body',axis=1).merge(df.Body.str.extractall(f'(?P<Body>[^{punctuations}]+[{punctuations}])\s?').reset_index('match'),left_index=True, right_index=True, how='left'))
-df['Body'] = df['Body'].str.replace("[^\w\s<>]", "")
-df = df.replace(r'[^0-9a-zA-Z ]', '', regex=True).replace("'", '')
+# df['Body'] = df['Body'].astype(str)
+# df['Body'] = df['Body'].apply(lambda x: x.lower())
+# punctuations = '\.\!\?'
+# df = (df.drop('Body',axis=1).merge(df.Body.str.extractall(f'(?P<Body>[^{punctuations}]+[{punctuations}])\s?').reset_index('match'),left_index=True, right_index=True, how='left'))
+# df['Body'] = df['Body'].str.replace("[^\w\s<>]", "")
+# df = df.replace(r'[^0-9a-zA-Z ]', '', regex=True).replace("'", '')
 #print(type(df['Body']))
 #df.applymap(type)
-df['Body'] = df['Body'].astype(str)
-df['Body'] = df['Body'].apply(lambda x: " ".join([Word(word).lemmatize() for word in x.split()])) # change similar terms to the same
-# stop = stopwords.words("english") #remove useless words
-df['Body'] = df['Body'].apply(lambda x: " ".join(x for x in x.split() if x not in stop))
+# df['Body'] = df['Body'].astype(str)
+# df['Body'] = df['Body'].apply(lambda x: " ".join([Word(word).lemmatize() for word in x.split()])) # change similar terms to the same
+# # stop = stopwords.words("english") #remove useless words
+# df['Body'] = df['Body'].apply(lambda x: " ".join(x for x in x.split() if x not in stop))
 
 df['Classifications'] = pd.Series(labels, index=df.index)
 X = df['Body']
@@ -120,7 +120,7 @@ X_test_dtm = vect.transform(X_test)
 # Changing from sparse to dense matrix
 X_train_dense = pd.DataFrame(X_train_dtm.toarray(), columns = vect.get_feature_names_out())
 X_test_dense = pd.DataFrame(X_test_dtm.toarray(), columns = vect.get_feature_names_out())
-pca = PCA(n_components = 129)
+pca = PCA(n_components = 127)
 X_train_pca = pca.fit_transform(X_train_dense)
 X_test_pca = pca.transform(X_test_dense)
 
@@ -131,7 +131,7 @@ X_test_pca = pca.transform(X_test_dense)
 # rfc.fit(X_train_pca, y_train)
 
 from sklearn.neural_network import MLPClassifier
-mlp = MLPClassifier(hidden_layer_sizes=(10,5),max_iter=500)
+mlp = MLPClassifier(hidden_layer_sizes=(10,5),max_iter=800)
 mlp.fit(X_train_pca,y_train)
 y_pred_class = mlp.predict(X_test_pca)
 #print(y_pred_class)
