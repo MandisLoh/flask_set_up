@@ -20,7 +20,7 @@ from dateparser.search import search_dates
 #     return ret
 
 
-#html = './templates/inbox-faith-email.html'
+html = './templates/inbox-faith-email.html'
 #html = './templates/inbox-rebecca-email.html'
 
 
@@ -39,6 +39,22 @@ def html2text(html):
     #meeting_details = search_dates(text)
     return text
 #print(text)
+
+text = html2text(html)
+
+print(text)
+meeting_details = search_dates(text)
+
+print(meeting_details)
+
+start_time = meeting_details[2][1].time().strftime('%H:%M')
+end_time = meeting_details[3][1].time().strftime('%H:%M') 
+date_faith = meeting_details[1][1].date().day
+date = meeting_details[1][1].date().month 
+print(start_time)
+print(end_time)
+print(date_faith)
+print(date)
 
 # email = '''
 # Faith Tan <faith_tan@sutd.edu.sg> Thu 6/18/2020 4:49 PM To: You: A Dear Crystal, On behalf of the DAI Student Board, we would like to invite you to our first ever DAI bonding session. There will be nice music, amazing wine and splendid food accompanied with awesome human beings. We hope to see you there and spend an amaing afternoon together. Date: Friday, 29 July 2022Time: 2.00 pm to 6.00 pmVenue:           DAI Studio 7 What are you waiting for? Please RSVP via telegram by 23 July 2022. Thank you!Best regards, Faith Tan

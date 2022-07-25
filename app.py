@@ -19,18 +19,18 @@ app = Flask(__name__)
 model = pickle.load(open('model.pkl', 'rb'))
 
 # #To use the predict button in our web-app
-@app.route('/predict',methods=['GET'])
-def predict():
-   html = './templates/inbox-faith-email.html'
-   count_vect = CountVectorizer()
-   final_features = html2text(html)
-   prediction = model.predict(count_vect.fit_transform([final_features]))
+# @app.route('/predict',methods=['GET'])
+# def predict():
+#    html = './templates/inbox-faith-email.html'
+#    count_vect = CountVectorizer()
+#    final_features = html2text(html)
+#    prediction = model.predict(count_vect.fit_transform([final_features]))
    
-   if (prediction==1) or (prediction==2):
-      prediction = "Meeting"
-   else:
-      prediction = "Normal"
-   return render_template('predict.html', prediction_text=f'Predicted category is {prediction}')
+#    if (prediction==1) or (prediction==2):
+#       prediction = "Meeting"
+#    else:
+#       prediction = "Normal"
+#    return render_template('predict.html', prediction_text=f'Predicted category is {prediction}')
 
 @app.route('/')
 def inbox_main_unread():
@@ -53,11 +53,11 @@ def inbox_faith_email_detected():
    final_features = html2text(html)
    prediction = model.predict(count_vect.fit_transform([final_features]))
    
-   if (prediction==0) or (prediction==3):
+   if (prediction==2) or (prediction==3):
       prediction = "Meeting"
    else:
       prediction = "Normal"
-   return render_template('inbox-faith-email-detected.html', email =prediction)
+   return render_template('inbox-faith-email-detected.html', email=prediction)
 
 @app.route('/inbox-rebecca-email-detected.html/inbox-rebecca-email.html')
 def inbox_rebecca_email():
@@ -76,11 +76,11 @@ def inbox_rebecca_email_detected():
    final_features = html2text(html)
    prediction = model.predict(count_vect.fit_transform([final_features]))
    
-   if (prediction==0) or (prediction==3):
+   if (prediction==2) or (prediction==3):
       prediction = "Meeting"
    else:
       prediction = "Normal"
-   return render_template('inbox-rebecca-email-detected.html', email =prediction)
+   return render_template('inbox-rebecca-email-detected.html', email=prediction)
 
 @app.route('/inbox-faith-email-detected.html/inbox-faith-email.html/calendar-event-3.html')
 def calendar_event_3():
