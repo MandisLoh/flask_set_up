@@ -18,6 +18,20 @@ from dateparser.search import search_dates
 app = Flask(__name__)
 model = pickle.load(open('model.pkl', 'rb'))
 
+# #To use the predict button in our web-app
+@app.route('/predict',methods=['GET'])
+def predict():
+   html = './templates/inbox-faith-email.html'
+   count_vect = CountVectorizer()
+   final_features = html2text(html)
+   prediction = model.predict(count_vect.fit_transform([final_features]))
+   
+   if (prediction==3):
+      prediction = "Meeting"
+   else:
+      prediction = "Normal"
+   return render_template('predict.html', prediction_text=f'Predicted category is {prediction}')
+
 @app.route('/')
 def inbox_main_unread():
    return render_template('inbox-main-unread.html')
@@ -33,7 +47,7 @@ def inbox_faith_email_w_pop_up():
    fh= open('./templates/calendar-main.html')
    content = fh.read()
    content = content.replace(re.findall('''<div class="caption-UdZOvo valign-text-middle opensans-bold-chicago-16px">Friday</div>
-            <div class="caption-Q8xn1u valign-text-middle opensans-bold-chicago-16px">24</div>''', content)[0], 
+         <div class="caption-Q8xn1u valign-text-middle opensans-bold-chicago-16px">24</div>''', content)[0], 
          '''<div class="caption-UdZOvo valign-text-middle opensans-bold-chicago-16px">Friday</div>
          <div class="caption-Q8xn1u valign-text-middle opensans-bold-chicago-16px">24</div>
          <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -56,11 +70,12 @@ def inbox_faith_email_detected():
    final_features = html2text(html)
    prediction = model.predict(count_vect.fit_transform([final_features]))
    
-   if (prediction==2) or (prediction==3):
+   if (prediction==0) or (prediction==3):
       prediction = "Meeting"
+      
    else:
       prediction = "Normal"
-   return render_template('inbox-faith-email-detected.html', email=prediction)
+   return render_template('inbox-faith-email-detected.html', email =prediction)
 
 @app.route('/inbox-rebecca-email-detected.html/inbox-rebecca-email.html')
 def inbox_rebecca_email():
@@ -73,7 +88,7 @@ def inbox_rebecca_email_w_pop_up():
    fh= open('./templates/calendar-main.html')
    content = fh.read()
    content = content.replace(re.findall('''<div class="caption-Cexj9x valign-text-middle opensans-bold-chicago-16px">Tuesday</div>
-            <div class="caption-ebNaBO valign-text-middle opensans-bold-chicago-16px">21</div>''', content)[0],
+         <div class="caption-ebNaBO valign-text-middle opensans-bold-chicago-16px">21</div>''', content)[0],
          '''<div class="caption-Cexj9x valign-text-middle opensans-bold-chicago-16px">Tuesday</div>
          <div class="caption-ebNaBO valign-text-middle opensans-bold-chicago-16px">21</div>
          <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -84,7 +99,7 @@ def inbox_rebecca_email_w_pop_up():
             rebecca_tan@sutd.edu.sg<br />Think Thank 23 (2.413)
                </div> 
             </div>
-         ''' )
+         </div>''' )
    fh.close()
    fh=open('./templates/calendar-main.html','w')
    fh.write(content)
@@ -97,11 +112,13 @@ def inbox_rebecca_email_detected():
    final_features = html2text(html)
    prediction = model.predict(count_vect.fit_transform([final_features]))
    
-   if (prediction==2) or (prediction==3):
+   if (prediction==0) or (prediction==3):
       prediction = "Meeting"
+      
    else:
       prediction = "Normal"
-   return render_template('inbox-rebecca-email-detected.html', email=prediction)
+   return render_template('inbox-rebecca-email-detected.html', email =prediction)
+
 
 @app.route('/inbox-faith-email-detected.html/inbox-faith-email.html/calendar-event-3.html')
 def calendar_event_3():
@@ -159,6 +176,7 @@ def resetting():
    fh=open('./templates/calendar-main.html','w')
    fh.write(content)
    return 'calendar reset'
+
 
 if __name__ == "__main__":
    app.run(debug=True)
