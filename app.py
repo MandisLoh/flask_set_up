@@ -18,6 +18,8 @@ from dateparser.search import search_dates
 app = Flask(__name__)
 model = pickle.load(open('model.pkl', 'rb'))
 
+
+
 @app.route('/')
 def inbox_main_unread():
    return render_template('inbox-main-unread.html')
@@ -84,6 +86,7 @@ def inbox_rebecca_email_w_pop_up():
             rebecca_tan@sutd.edu.sg<br />Think Thank 23 (2.413)
                </div> 
             </div>
+            </div>
          ''' )
    fh.close()
    fh=open('./templates/calendar-main.html','w')
@@ -103,13 +106,13 @@ def inbox_rebecca_email_detected():
       prediction = "Normal"
    return render_template('inbox-rebecca-email-detected.html', email=prediction)
 
-@app.route('/inbox-faith-email-detected.html/inbox-faith-email.html/calendar-event-3.html')
+@app.route('/inbox-faith-email-detected.html/inbox-faith-email.html/calendar-main.html')
 def calendar_event_3():
-   return render_template('calendar-event-3.html')
+   return render_template('calendar-main.html')
 
-@app.route('/inbox-rebecca-email-detected.html/inbox-rebecca-email.html/calendar-event-2.html')
+@app.route('/inbox-rebecca-email-detected.html/inbox-rebecca-email.html/calendar-main.html')
 def calendar_event_2():
-   return render_template('calendar-event-2.html')
+   return render_template('calendar-main.html')
 
 @app.route('/inbox-new-email.html')
 def inbox_new_email():
